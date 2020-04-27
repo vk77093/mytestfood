@@ -140,42 +140,49 @@
  <!--- my card style----->
 <div class="container back">
     <div class="card">
-  <div class="card-header">
+
+  <div class="card-header" id="userSubmit">
+       @if(Session::has('User_Resume'))
+<p class="alert alert-danger">
+  {{session('User_Resume')}}
+</p>
+@endif
    <h3 class="text-center">Apply for The Opened Job</h3>
   </div>
   <div class="card-body text-center">
 
-<form action="#">
+  <form action="{{route('carrier.store')}}" method="POST" enctype="multipart/form-data">
+    @csrf
 <div class="input-group-icon mt-10">
 									<div class="icon"><i class="fa fa-graduation-cap" aria-hidden="true"></i></div>
 									<div class="form-select" id="default-select" aria-required="true">
-												<select>
+												<select name="position">
 													<option selected value="disabled">Selcet Below Open Job Post</option>
-										<option value="1">Electrical</option>
-										<option value="1">Sales</option>
-										<option value="1">Newyork</option>
-										<option value="1">Some More</option>
+										<option value="Electrical">Electrical</option>
+										<option value="Sales">Sales</option>
+										<option value="Newyork">Newyork</option>
+										<option value="Some More">Some More</option>
 										</select>
 									</div>
 								</div>
 								<div class="mt-10">
-									<input type="text" name="first_name" placeholder="First Name"
+									<input type="text" name="firstName" placeholder="First Name"
 										onfocus="this.placeholder = ''" onblur="this.placeholder = 'First Name'" required
 										class="single-input">
 								</div>
 								<div class="mt-10">
-									<input type="text" name="last_name" placeholder="Last Name"
+									<input type="text" name="lastName" placeholder="Last Name"
 										onfocus="this.placeholder = ''" onblur="this.placeholder = 'Last Name'" required
 										class="single-input">
 								</div>
 
 								<div class="mt-10">
-									<input type="email" name="EMAIL" placeholder="Email address"
+									<input type="email" name="email" placeholder="Email address"
 										onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email address'" required
 										class="single-input">
                                 </div>
                                 <div class="mt-10">
-									<input type="number" name="mobile_number" maxlength="10" minlength="10" placeholder="Mobile Number"
+									<input type="number" name="mobileNum" maxlength="10" minlength="10" placeholder="Mobile Number"
 										onfocus="this.placeholder = ''" onblur="this.placeholder = 'Mobile Number'" required
 										class="single-input">
 								</div>
@@ -187,7 +194,7 @@
 								<div class="input-group-icon mt-10">
 									<div class="icon"><i class="fa fa-plane" aria-hidden="true"></i></div>
 									<div class="form-select" id="default-select"">
-												<select>
+												<select name="city">
 													<option value=" 1">City</option>
 										<option value="1">Dhaka</option>
 										<option value="1">Dilli</option>
@@ -199,12 +206,12 @@
 								<div class="input-group-icon mt-10">
 									<div class="icon"><i class="fa fa-globe" aria-hidden="true"></i></div>
 									<div class="form-select" id="default-select"">
-												<select>
-													<option value=" 1">Country</option>
-										<option value="1">Bangladesh</option>
-										<option value="1">India</option>
-										<option value="1">England</option>
-										<option value="1">Srilanka</option>
+												<select name="country">
+													<option value=" Country">Country</option>
+										<option value="Bangladesh">Bangladesh</option>
+										<option value="India">India</option>
+										<option value="England">England</option>
+										<option value="Srilanka">Srilanka</option>
 										</select>
 									</div>
                                 </div>
@@ -212,37 +219,37 @@
                                 <div class="input-group-icon mt-10">
 									<div class="icon"><i class="fa fa-flask" aria-hidden="true"></i></div>
 									<div class="form-select" id="default-select"">
-												<select>
+												<select name="experience">
 													<option value="" disabled selected>Total Experience</option>
-                                                        <option value="0-6">0-6 Months</option>
-                                                    <option value="1"> 1 year</option>
-                                                    <option value="2"> 2 year</option>
-                                                    <option value="3">3 Year</option>
-                                                        <option value="4">4 Year</option>
-                                                        <option value="5">5 year</option>
+                                                        <option value="0-6 Months">0-6 Months</option>
+                                                    <option value="1 year"> 1 year</option>
+                                                    <option value="2 year"> 2 year</option>
+                                                    <option value="3 Year">3 Year</option>
+                                                        <option value="4 Year">4 Year</option>
+                                                        <option value="5 year">5 year</option>
                                                         <option value="more than 5">more Than 5 year</option>
 										</select>
 									</div>
                                 </div>
                                 <div class="mt-10">
-                                    <input type="text" name="current_emp" placeholder="Current Employer"
-                                    onfocus="this.placeholder = ''" onblur="this.placeholder = 'Current Employer'" required
+                                    <input type="text" name="currentEmp" placeholder="Current Employee"
+                                    onfocus="this.placeholder = ''" onblur="this.placeholder = 'Current Employee'" required
 										class="single-input-primary">
                                 </div>
 
                                 <div class="mt-10">
-                                    <input type="text" name="current_desg" placeholder="Current Desgination"
+                                    <input type="text" name="currentDeg" placeholder="Current Desgination"
                                     onfocus="this.placeholder = ''" onblur="this.placeholder = 'Current Desgination'" required
 										class="single-input-primary">
                                 </div>
 
 								<div class="mt-10">
-									<textarea class="single-textarea" placeholder="Key Skills" onfocus="this.placeholder = ''"
+									<textarea class="single-textarea" name="keySkills" placeholder="Key Skills" onfocus="this.placeholder = ''"
 										onblur="this.placeholder = 'Key Skills'" required></textarea>
                                 </div>
                                 <div class="mt-10">
-                                  <label class="">Upload Resume (Only .Docs & PDF)</label>
-									<input type="file" name="candi_docs" placeholder="Uploade Resume (Only .Docs & PDF)"
+                                  <label class="text-md-right col-form-label">Upload Resume (Only .Docs & PDF)</label>
+									<input type="file" name="resume_doc_id" placeholder="Uploade Resume (Only .Docs & PDF)"
 										onfocus="this.placeholder = ''" onblur="this.placeholder = 'candi_docs'" required
 										class="single-input">
 								</div>

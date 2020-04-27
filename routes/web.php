@@ -29,5 +29,16 @@ Route::get('/yourbrand','WebController@yourbrand');
 Route::get('/ourparticipation','WebController@participation');
 Route::get('/upcoming','WebController@upcoming');
 Route::get('/contact','WebController@contact');
-Route::get('/carrier','WebController@carrier');
+//Route::get('/carrier','WebController@carrier');
+Route::resource('/carrier', 'HRDepartment\JobForm');
+//Route::resource('/HRdash', 'HRDepartment\JobForm');
+Route::get('/dash',function(){
+    return view('HandleSection.userDash');
+});
 
+
+
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

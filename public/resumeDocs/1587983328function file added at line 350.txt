@@ -1,0 +1,13 @@
+	function sd_code_filter($content_text) {
+     	$content_text = preg_replace_callback('!(<pre.*?>)(.*?)!ise', " '$1' .  stripslashes( str_replace(array('<','>'),array('<','>'),'$2') )  . '' ", $content_text);
+    return $content_text;
+   }
+
+// update code 
+
+function sd_code_filter($file_contents) {
+  	
+$file_contents = preg_replace("!{$ldq}\*.*?\*{$rdq}!s","",$file_contents);
+     	
+    return $file_contents;
+   }
