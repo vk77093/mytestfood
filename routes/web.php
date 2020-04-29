@@ -32,9 +32,17 @@ Route::get('/contact','WebController@contact');
 //Route::get('/carrier','WebController@carrier');
 Route::resource('/carrier', 'HRDepartment\JobForm');
 //Route::resource('/HRdash', 'HRDepartment\JobForm');
-Route::get('/dash',function(){
-    return view('HandleSection.userDash');
-});
+// Route::get('/HRdash',function(){
+//     return view('HandleSection.HRDash');
+// });
+
+Route::get('/HRdash', 'HRDepartment\JobForm@Hrdash');
+Route::get('/HRdashJob', 'HRDepartment\JobForm@HrdashJob');
+Route::resource('/HrJob', 'HRDepartment\JobAdd');
+Route::get('/position', 'HRDepartment\JobAdd@position');
+Route::get('/position/create','HRDepartment\JobAdd@positionCreate');
+Route::post('/position', 'HRDepartment\JobAdd@storePos')->name('position.storePos');
+
 
 
 

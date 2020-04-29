@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\AddJob;
 
 class WebController extends Controller
 {
@@ -35,7 +36,8 @@ class WebController extends Controller
         return view('Webpage.contact');
     }
     public function carrier(){
-        return view('Webpage.carrier');
+        $jobData=AddJob::where('status','open')->orderBy('id','desc')->paginate(3);
+        return view('Webpage.carrier',compact('jobData'));
     }
 
 }

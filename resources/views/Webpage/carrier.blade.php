@@ -7,11 +7,11 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap">
-                                <h2>Carrier</h2>
+                                <h2>Career</h2>
                                 <nav aria-label="breadcrumb ">
                                     <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a href="">Home</a></li>
-                                    <li class="breadcrumb-item"><a href="">Carrier</a></li>
+                                    <li class="breadcrumb-item"><a href="">Career</a></li>
                                     </ol>
                                 </nav>
                             </div>
@@ -51,7 +51,8 @@
         <!--- jop card----->
         <div class="container">
             <div class="row">
-                <div class="col-sm-4">
+                @forelse ($jobData as $job)
+ <div class="col-sm-4">
                     <!-- Card -->
 <div class="card chart-card mb-4">
 
@@ -59,12 +60,12 @@
   <div class="card-body pb-0">
 
     <!-- Title -->
-    <h4 class="card-title font-weight-bold">POSITION NAME</h4>
+  <h4 class="card-title font-weight-bold">{{$job->position->positionName}}</h4>
     <!-- Text -->
-    <p class="card-text mb-4">At Location some NAME</p>
-    <p class="card-text mb-4">Posted date  •  Oct 16, 1:45PM</p>
+  <p class="card-text mb-4">{{$job->location}}</p>
+  <p class="card-text mb-4">Posted date  •  {{$job->created_at}}</p>
     <div class="d-flex justify-content-between">
-      <p class="display-4 align-self-end">05</p>
+    <p class="display-4 align-self-end"><p>Post Required</p> {{$job->number_of_position}}</p>
       {{-- <p class="align-self-end pb-2">887.02 (.03%)</p> --}}
     </div>
 
@@ -72,8 +73,16 @@
 </div>
 <!-- Card -->
                 </div>
+                @empty
+                <div class="card chart-card mb-4">
+                <div class="card-body pb-0">
+                   <h4 class="card-title font-weight-bold">Currently There are No Open Job is there</h4>
+                </div>
+                </div>
+                @endforelse
+
           <!--- second card----->
-          <div class="col-sm-4">
+          {{-- <div class="col-sm-4">
                     <!-- Card -->
 <div class="card chart-card mb-4">
 
@@ -88,14 +97,14 @@
     <div class="d-flex justify-content-between">
       <p class="display-4 align-self-end">05</p>
       {{-- <p class="align-self-end pb-2">887.02 (.03%)</p> --}}
-    </div>
+    {{-- </div>
 
   </div>
 </div>
-</div>
+</div> --}}
           <!---end of second card----->
   <!---Third Card------>
-  <div class="col-sm-4">
+  {{--<div class="col-sm-4">
                     <!-- Card -->
 <div class="card chart-card mb-4">
 
@@ -110,11 +119,11 @@
     <div class="d-flex justify-content-between">
       <p class="display-4 align-self-end">05</p>
       {{-- <p class="align-self-end pb-2">887.02 (.03%)</p> --}}
-    </div>
+    {{-- </div>
 
   </div>
 </div>
-</div>
+</div>  --}}
   <!--end of Third card----->
             </div>
         </div>
@@ -123,15 +132,8 @@
     <!--- page pagination----->
     <nav aria-label="Page navigation example">
   <ul class="pagination justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="#" tabindex="-1">Previous</a>
-    </li>
-    <li class="page-item"><a class="page-link" href="#">1</a></li>
-    <li class="page-item"><a class="page-link" href="#">2</a></li>
-    <li class="page-item"><a class="page-link" href="#">3</a></li>
-    <li class="page-item">
-      <a class="page-link" href="#">Next</a>
-    </li>
+{{$jobData->render()}}
+
   </ul>
 </nav>
     <!---end of page pagination end----->
@@ -157,11 +159,12 @@
 									<div class="icon"><i class="fa fa-graduation-cap" aria-hidden="true"></i></div>
 									<div class="form-select" id="default-select" aria-required="true">
 												<select name="position">
-													<option selected value="disabled">Selcet Below Open Job Post</option>
-										<option value="Electrical">Electrical</option>
-										<option value="Sales">Sales</option>
-										<option value="Newyork">Newyork</option>
-										<option value="Some More">Some More</option>
+                                                    <option selected value="disabled">Selcet Below Open Job Post</option>
+                                                    @forelse ($jobData as $job)
+                                                <option value="{{$job->position->positionName}}">{{$job->position->positionName}}</option>
+                                                    @empty
+                                                      <option selected value="disabled">---their are currently not any Job-----</option>
+                                                    @endforelse
 										</select>
 									</div>
 								</div>

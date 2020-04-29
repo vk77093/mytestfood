@@ -39,10 +39,10 @@
                 </li>
 
                 <li>
-                    <a href="#">ADD Position</a>
+                    <a href="/position/create">ADD Position</a>
                 </li>
                 <li>
-                    <a href="#">ADD JOB</a>
+                    <a href="/HrJob/create">ADD JOB</a>
                 </li>
 
             </ul>
@@ -70,10 +70,13 @@
                                 <a class="nav-link" href="/carrier">HOME</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">View Job</a>
+                                <a class="nav-link" href="/HRdashJob">Applied Job</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">View Position</a>
+                                <a class="nav-link" href="/position">View Position</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/HrJob">Added Job</a>
                             </li>
                         </ul>
                     </div>

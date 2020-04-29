@@ -36,4 +36,14 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+
+    //middkeware setting
+    public function isOperation()
+    {
+        if ($this->role == 'HR') {
+            return true;
+        } else {
+            return false;
+        }
+    }
 }

@@ -2,15 +2,14 @@
 
 namespace App\Http\Controllers\HRDepartment;
 
+use Illuminate\Support\Facades\Session;
+
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use App\JobFormIn;
-use App\ResumeDoc;
-use Illuminate\Support\Facades\Session;
+use App\Position;
 use App\AddJob;
 
-
-class JobForm extends Controller
+class JobAdd extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -19,18 +18,14 @@ class JobForm extends Controller
      */
     public function index()
     {
-        $jobData = AddJob::where('job_status', 'open')->orderBy('id', 'desc')->paginate(3);
-        return view('Webpage.carrier', compact('jobData'));
+        $jobData=AddJob::orderBy('id','desc')->paginate(4);
+        return view('HandleSection.viewAddedJob',compact('jobData'));
     }
 
-    public function Hrdash(){
-        return view('HandleSection.HRDash');
-    }
-
-    // job view Form
-    public function HrdashJob(){
-        $appliedJobData= JobFormIn::orderBy('id','desc')->paginate(4);
-        return view('HandleSection.viewJob',compact('appliedJobData'));
+    //view for the position
+    public function position(){
+        $position=Position::orderBy('id','desc')->paginate(5);
+        return view('HandleSection.viewPosition',compact('position'));
     }
 
     /**
@@ -40,8 +35,13 @@ class JobForm extends Controller
      */
     public function create()
     {
-        $jobData=JobAdd::orderBy('id','desc')->where('job_status','open')->get();
-        return view('Webpage.carrier',compact('jobData'));
+        $position=Position::all();
+        return view('HandleSection.Addjob',compact('position'));
+    }
+
+    //position add function
+    public function positionCreate(){
+        return view('HandleSection.AddPostion');
     }
 
     /**
@@ -52,21 +52,18 @@ class JobForm extends Controller
      */
     public function store(Request $request)
     {
-        //dd($request->all());
-        $inputData = $request->all();
-        // $userData = Auth::user();
-        // $userData->mkt_fileds();
-        if ($file = $request->file('resume_doc_id')) {
-            $nameData = time() . $file->getClientOriginalName();
-            $file->move('resumeDocs', $nameData);
-            $fileresume = ResumeDoc::create(['file' => $nameData]);
-            $inputData['resume_doc_id'] =$fileresume->id;
-        }
-        JobFormIn::create($inputData);
-        //echo "the data got added";
-        Session::flash('User_Resume', 'Thanks for Sending the your details with
-        us our Hr person can call to you if they think all the critriea is matching for job profile');
-        return redirect('/carrier#userSubmit');
+$jobData=$request->all();
+AddJob::create($jobData);
+Session::flash('jobAdded','A new Job is added');
+return redirect('/HrJob');
+    }
+
+    // adding the position store
+    public function storePos(Request $request){
+        $position = $request->all();
+        Position::create($position);
+        Session::flash('position','A new Postion is added');
+        return redirect('/position');
 
     }
 
