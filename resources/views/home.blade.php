@@ -18,9 +18,10 @@
                 </div>
                  <div class="card-body">
 <a href="/HRdash"><button class="btn btn-info">HR Department</button></a>
+<a href="/Mktdash"><button class="btn btn-info">Marketing Department</button></a>
                  </div>
      <div class="card-body">
-<a href="/Mktdash"><button class="btn btn-info">Marketing Department</button></a>
+
                  </div>
             </div>
 

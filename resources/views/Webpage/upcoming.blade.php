@@ -162,16 +162,16 @@
 <section class="services-area">
     <div class="container pb-top">
 <ul class="nav nav-tabs nav-justified md-tabs indigo" id="myTabJust" role="tablist">
-    @forelse ($eventType as $event)
-     @if ($event->id==1)
+    @forelse ($eventData as $event)
+     @if ($event->eventType->event_type_id==1)
        <li class="nav-item">
-       <a class="nav-link active" id="{{$event->event_name}}-tab-just" data-toggle="tab" href="#{{$event->event_name}}-just" role="tab" aria-controls="{{$event->event_name}}-just"
-      aria-selected="true">{{$event->event_name}}</a>
+       <a class="nav-link active" id="{{$event->eventType->event_name}}-tab-just" data-toggle="tab" href="#{{$event->eventType->event_name}}-just" role="tab" aria-controls="{{$event->eventType->event_name}}-just"
+      aria-selected="true">{{$event->eventType->event_name}}</a>
   </li>
      @else
  <li class="nav-item">
- <a class="nav-link" id="{{$event->event_name}}-tab-just" data-toggle="tab" href="#{{$event->event_name}}-just" role="tab" aria-controls="{{$event->event_name}}-just"
-      aria-selected="false">{{$event->event_name}}</a>
+ <a class="nav-link" id="{{$event->eventType->event_name}}-tab-just" data-toggle="tab" href="#{{$event->eventType->event_name}}-just" role="tab" aria-controls="{{$event->eventType->event_name}}-just"
+      aria-selected="false">{{$event->eventType->event_name}}</a>
   </li>
      @endif
     @empty
