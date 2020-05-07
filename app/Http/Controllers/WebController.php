@@ -4,6 +4,9 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\AddJob;
+use App\EventType;
+use App\UpcomingEvent;
+
 
 class WebController extends Controller
 {
@@ -27,10 +30,13 @@ class WebController extends Controller
         return view('Webpage.yourbrand');
     }
     public function participation(){
-        return view('Webpage.ourparticipation');
+        $eventData = UpcomingEvent::where('event_status', 'closed')->orderBy('id', 'desc')->get();
+        return view('Webpage.ourparticipation',compact('eventData'));
     }
     public function upcoming(){
-        return view('Webpage.upcoming');
+        $eventType = EventType::orderBy('id', 'asc')->get();
+$eventData=UpcomingEvent::where('event_status','open')->orderBy('id','desc')->get();
+        return view('Webpage.upcoming', compact('eventType', 'eventData'));
     }
     public function contact(){
         return view('Webpage.contact');

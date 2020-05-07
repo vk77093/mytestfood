@@ -31,20 +31,23 @@ Route::get('/upcoming','WebController@upcoming');
 Route::get('/contact','WebController@contact');
 //Route::get('/carrier','WebController@carrier');
 Route::resource('/carrier', 'HRDepartment\JobForm');
-//Route::resource('/HRdash', 'HRDepartment\JobForm');
-// Route::get('/HRdash',function(){
-//     return view('HandleSection.HRDash');
-// });
 
-Route::get('/HRdash', 'HRDepartment\JobForm@Hrdash');
-Route::get('/HRdashJob', 'HRDepartment\JobForm@HrdashJob');
-Route::resource('/HrJob', 'HRDepartment\JobAdd');
-Route::get('/position', 'HRDepartment\JobAdd@position');
-Route::get('/position/create','HRDepartment\JobAdd@positionCreate');
-Route::post('/position', 'HRDepartment\JobAdd@storePos')->name('position.storePos');
+Route::group(['middleware' => 'HRdepartment','as'=> 'HRdepartment'], function () {
+    Route::get('/HRdash', 'HRDepartment\JobForm@Hrdash');
+    Route::get('/HRdashJob', 'HRDepartment\JobForm@HrdashJob');
+    Route::resource('/HrJob', 'HRDepartment\JobAdd');
+    Route::get('/position', 'HRDepartment\JobAdd@position');
+    Route::get('/position/create', 'HRDepartment\JobAdd@positionCreate');
+    Route::post('/position', 'HRDepartment\JobAdd@storePos')->name('position.storePos');
+});
+Route::group(['middleware' => 'Marketing','as'=>'Marketing.'], function () {
+    Route::resource('/mktEvent', 'MKTDepartment\UpcomingEventAdd');
+    Route::get('/Mktdash', 'MKTDepartment\UpcomingEventAdd@mktdash');
+    Route::get('/eventType', 'MKTDepartment\UpcomingEventAdd@eventView');
+    Route::get('eventType/create', 'MKTDepartment\UpcomingEventAdd@createEventType');
 
-
-
+    Route::post('/eventType', 'MKTDepartment\UpcomingEventAdd@eventStore')->name('eventType.eventStore');
+});
 
 
 Auth::routes();

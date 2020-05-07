@@ -25,6 +25,9 @@
              <td>{{$job->number_of_position}}</td>
              <td>{{$job->job_status}}</td>
              <td>{{$job->created_at->diffForHumans()}}</td>
+             <td>
+             <a href="{{route('HRdepartmentHrJob.edit',$job->id)}}"><button type="submit" class="btn btn-info">Edit</button></a>
+             </td>
             </tr>
             @empty
             <h4 class="text-center">There are currently no any job is added</h4>

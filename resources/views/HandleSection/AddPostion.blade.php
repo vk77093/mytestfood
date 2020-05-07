@@ -9,7 +9,7 @@
     </h5>
 </div>
 <div class="card-body text-center">
-<form action="{{route('position.storePos')}}" method="POST">
+<form action="{{route('HRdepartmentposition.storePos')}}" method="POST">
         @csrf
 <div class="form-group">
     <label for="postion">Enter the Position Name</label>

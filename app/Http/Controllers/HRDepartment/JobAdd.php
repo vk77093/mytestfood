@@ -86,7 +86,11 @@ return redirect('/HrJob');
      */
     public function edit($id)
     {
-        //
+        $jobData=AddJob::findOrFail($id);
+$position=Position::all();
+        return view('HandleSection.editAddedJob', compact('jobData','position'));
+
+
     }
 
     /**
@@ -98,7 +102,11 @@ return redirect('/HrJob');
      */
     public function update(Request $request, $id)
     {
-        //
+        $jobData=AddJob::findOrFail($id);
+        $jobData->update($request->all());
+        Session::flash('jobAdded', 'Data Got updated');
+        return redirect('/HrJob');
+
     }
 
     /**

@@ -3,11 +3,11 @@
 <div class="container">
     <div class="card">
         <div class="card-header text-center">
-<h4>Please Post the Job Here</h4>
+        <h4>Please Post the Job Here</h4>
         </div>
         <div class="card-body">
 
-<form action="{{route('HrJob.store')}}" method="POST">
+<form action="{{route('HRdepartmentHrJob.store')}}" method="POST">
     @csrf
     <div class="form-group">
         <label for="position_id">Postion Type</label>

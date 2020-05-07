@@ -38,12 +38,21 @@ class User extends Authenticatable
     ];
 
     //middkeware setting
-    public function isOperation()
+    public function isHR()
     {
-        if ($this->role == 'HR') {
+        if ($this->department =='HR') {
             return true;
         } else {
             return false;
         }
     }
+    public function isMKT(){
+        if($this->department == 'marketing'){
+            return true;
+        }else{
+            return false;
+        }
+    }
+
+
 }

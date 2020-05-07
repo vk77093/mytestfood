@@ -2,11 +2,10 @@
 
 namespace App\Http\Middleware;
 
+use Closure;
 use Illuminate\Support\Facades\Auth;
 
-use Closure;
-
-class HRdepartment
+class Marketing
 {
     /**
      * Handle an incoming request.
@@ -17,8 +16,8 @@ class HRdepartment
      */
     public function handle($request, Closure $next)
     {
-        if (Auth::check()) {
-            if (Auth::user()->isHR()) {
+        if(Auth::check()){
+            if(Auth::user()->isMKT()){
                 return $next($request);
             }
         }
