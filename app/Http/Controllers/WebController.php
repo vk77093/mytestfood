@@ -46,4 +46,5 @@ $eventData=UpcomingEvent::where('event_status','open')->orderBy('id','desc')->ge
         return view('Webpage.carrier',compact('jobData'));
     }
 
+
 }

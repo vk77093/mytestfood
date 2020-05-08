@@ -76,6 +76,9 @@
                                 <a class="nav-link" href="/eventType">Event Type</a>
                             </li>
                             <li class="nav-item">
+                                <a class="nav-link" href="/memberData">Member Data</a>
+                            </li>
+                            <li class="nav-item">
                                 <a class="" href="{{ route('logout') }}"
                                        onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();">

@@ -31,6 +31,7 @@ Route::get('/upcoming','WebController@upcoming');
 Route::get('/contact','WebController@contact');
 //Route::get('/carrier','WebController@carrier');
 Route::resource('/carrier', 'HRDepartment\JobForm');
+Route::resource('/Become-A-Member', 'MKTDepartment\MemberController');
 
 Route::group(['middleware' => 'HRdepartment','as'=> 'HRdepartment'], function () {
     Route::get('/HRdash', 'HRDepartment\JobForm@Hrdash');
@@ -47,6 +48,7 @@ Route::group(['middleware' => 'Marketing','as'=>'Marketing.'], function () {
     Route::get('eventType/create', 'MKTDepartment\UpcomingEventAdd@createEventType');
 
     Route::post('/eventType', 'MKTDepartment\UpcomingEventAdd@eventStore')->name('eventType.eventStore');
+    Route::get('/memberData', 'MKTDepartment\MemberController@showData');
 });
 
 

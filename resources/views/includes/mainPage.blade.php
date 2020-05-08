@@ -83,8 +83,9 @@
                                                 </li>
                                                 <li><a href="">Contact</a>
                                                     <ul class="submenu">
-                                                        <li><a href="contact">Contact Us</a></li>
-                                                        <li><a href="carrier">Carrier</a></li>
+                                                        <li><a href="/contact">Contact Us</a></li>
+                                                        <li><a href="/carrier">Carrier</a></li>
+                                                        <li><a href="/Become-A-Member">Become A Member</a></li>
                                                     </ul>
 
                                                 </li>
