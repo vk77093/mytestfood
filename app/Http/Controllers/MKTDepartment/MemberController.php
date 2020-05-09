@@ -6,6 +6,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\MemberData;
 use Illuminate\Support\Facades\Session;
+use App\LabelType;
 
 class MemberController extends Controller
 {
@@ -19,7 +20,15 @@ class MemberController extends Controller
         return view('Webpage.becomeAMember');
     }
 
-    /**
+    public function labelCreate(){
+        return view('Marketing.addLabel');
+    }
+    public function labelView(){
+        $labelData=LabelType::orderBy('id','desc')->get();
+return view('Marketing.viewLabel',compact('labelData'));
+    }
+
+    /*
      * Show the form for creating a new resource.
      *
      * @return \Illuminate\Http\Response
@@ -55,6 +64,19 @@ return redirect('/Become-A-Member#memberData');
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
+
+     public function labelStore(Request $request){
+$labelData=$request->all();
+if($file=$request->file('labelFile')){
+    $nameData=$file->getClientOriginalName();
+    $file->move('labelDocs',$nameData);
+    $labelData['labelFile']=$nameData;
+}
+LabelType::create($labelData);
+Session::flash('labelData','A new label is added');
+return redirect('/labelView');
+
+     }
     public function show($id)
     {
         //

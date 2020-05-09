@@ -26,9 +26,9 @@ class WebController extends Controller
     public function ourbrand(){
         return view('Webpage.ourbrand');
     }
-    public function yourbrand(){
-        return view('Webpage.yourbrand');
-    }
+    // public function yourbrand(){
+    //     return view('Webpage.yourbrand');
+    // }
     public function participation(){
         $eventData = UpcomingEvent::where('event_status', 'closed')->orderBy('id', 'desc')->get();
         return view('Webpage.ourparticipation',compact('eventData'));

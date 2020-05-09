@@ -25,7 +25,15 @@ Route::get('ourproduct', 'WebController@product');
 Route::get('/nationPresent','WebController@present');
 Route::get('whoweserve','WebController@whoweserve');
 Route::get('/ourbrand','WebController@ourbrand');
-Route::get('/yourbrand','WebController@yourbrand');
+
+//dropdown list
+Route::get('/yourbrand', 'MKTDepartment\DropdownController@index');
+
+Route::get('/get-state-list', 'MKTDepartment\DropdownController@getStateLists');
+Route::get('/get-city-list', 'MKTDepartment\DropdownController@getCityLists');
+//Route::get('/yourbrand/create', 'MKTDepartment\DropdownController@createYourBrand');
+Route::post('/yourbrand', 'MKTDepartment\DropdownController@storeYourBrand')->name('yourbrand.store');
+
 Route::get('/ourparticipation','WebController@participation');
 Route::get('/upcoming','WebController@upcoming');
 Route::get('/contact','WebController@contact');
@@ -49,8 +57,15 @@ Route::group(['middleware' => 'Marketing','as'=>'Marketing.'], function () {
 
     Route::post('/eventType', 'MKTDepartment\UpcomingEventAdd@eventStore')->name('eventType.eventStore');
     Route::get('/memberData', 'MKTDepartment\MemberController@showData');
+    Route::get('/addLabel/create','MKTDepartment\MemberController@labelCreate');
+    Route::get('/labelView', 'MKTDepartment\MemberController@labelView');
+    Route::post('/labelView','MKTDepartment\MemberController@labelStore')->name('labelView.labelStore');
+    Route::get('/yourBrandData', 'MKTDepartment\DropdownController@ViewYourBrand');
 });
-
+//interLink Selection
+Route::get('dropdownlist', 'DropdownController@index');
+Route::get('get-state-list', 'DropdownController@getStateList');
+Route::get('get-city-list', 'DropdownController@getCityList');
 
 Auth::routes();
 

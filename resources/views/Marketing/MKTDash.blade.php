@@ -44,6 +44,9 @@
                 <li>
                     <a href="/eventType/create">Add Event Type</a>
                 </li>
+                <li>
+                    <a href="/addLabel/create">Add label Type</a>
+                </li>
 
             </ul>
 
@@ -77,6 +80,12 @@
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="/memberData">Member Data</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/labelView">Label Data</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/yourBrandData">Brand Data</a>
                             </li>
                             <li class="nav-item">
                                 <a class="" href="{{ route('logout') }}"
