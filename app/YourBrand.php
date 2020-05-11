@@ -13,5 +13,16 @@ class YourBrand extends Model
     // public function country(){
     //     return $this->belongsTo('App\')
     // }
+    public function country()
+    {
+        return $this->belongsTo('App\Country', 'country_id');
+    }
+    public function stateData()
+    {
+        return $this->belongsTo('App\State', 'state');
+    }
+    public function cityData(){
+        return $this->belongsTo('App\City','city');
+    }
 }
 

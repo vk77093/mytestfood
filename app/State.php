@@ -4,9 +4,7 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class MemberData extends Model
+class State extends Model
 {
-    protected $guarded=['id'];
-
 
 }

@@ -1,0 +1,224 @@
+id,name,created_at,updated_at
+1,Japan,null,null
+2,United States,null,null
+3,Mexico,null,null
+4,India,null,null
+5,Brazil,null,null
+6,China,null,null
+7,Bangladesh,null,null
+8,Argentina,null,null
+9,Pakistan,null,null
+10,Egypt,null,null
+11,Philippines,null,null
+12,Russia,null,null
+13,Turkey,null,null
+14,France,null,null
+15,"Korea, South",null,null
+16,Nigeria,null,null
+17,Indonesia,null,null
+18,United Kingdom,null,null
+19,Peru,null,null
+20,Iran,null,null
+21,Congo (Kinshasa),null,null
+22,Colombia,null,null
+23,Hong Kong,null,null
+24,Taiwan,null,null
+25,Thailand,null,null
+26,Chile,null,null
+27,Spain,null,null
+28,Vietnam,null,null
+29,Canada,null,null
+30,Singapore,null,null
+31,Angola,null,null
+32,Iraq,null,null
+33,Sudan,null,null
+34,Australia,null,null
+35,Saudi Arabia,null,null
+36,Burma,null,null
+37,C??te DŸ??Ivoire,null,null
+38,South Africa,null,null
+39,Germany,null,null
+40,Algeria,null,null
+41,Italy,null,null
+42,"Korea, North",null,null
+43,Afghanistan,null,null
+44,Greece,null,null
+45,Morocco,null,null
+46,Israel,null,null
+47,Ethiopia,null,null
+48,Kenya,null,null
+49,Venezuela,null,null
+50,Tanzania,null,null
+51,Portugal,null,null
+52,Poland,null,null
+53,Syria,null,null
+54,Ukraine,null,null
+55,Senegal,null,null
+56,Ecuador,null,null
+57,Malaysia,null,null
+58,Tunisia,null,null
+59,Austria,null,null
+60,Libya,null,null
+61,Uzbekistan,null,null
+62,Cuba,null,null
+63,Dominican Republic,null,null
+64,Azerbaijan,null,null
+65,Ghana,null,null
+66,Bolivia,null,null
+67,Kuwait,null,null
+68,Yemen,null,null
+69,Haiti,null,null
+70,Romania,null,null
+71,Cameroon,null,null
+72,Paraguay,null,null
+73,Lebanon,null,null
+74,Belarus,null,null
+75,Belgium,null,null
+76,Madagascar,null,null
+77,Hungary,null,null
+78,Zimbabwe,null,null
+79,Uruguay,null,null
+80,Mali,null,null
+81,Guinea,null,null
+82,Cambodia,null,null
+83,Togo,null,null
+84,Qatar,null,null
+85,Mozambique,null,null
+86,El Salvador,null,null
+87,Uganda,null,null
+88,Netherlands,null,null
+89,United Arab Emirates,null,null
+90,New Zealand,null,null
+91,Congo (Brazzaville),null,null
+92,Zambia,null,null
+93,Costa Rica,null,null
+94,Panama,null,null
+95,Sweden,null,null
+96,Switzerland,null,null
+97,Kazakhstan,null,null
+98,Bulgaria,null,null
+99,Czechia,null,null
+100,Burkina Faso,null,null
+101,Finland,null,null
+102,Armenia,null,null
+103,Somalia,null,null
+104,Georgia,null,null
+105,Serbia,null,null
+106,Tajikistan,null,null
+107,Denmark,null,null
+108,Jordan,null,null
+109,Ireland,null,null
+110,Liberia,null,null
+111,Guatemala,null,null
+112,Chad,null,null
+113,Honduras,null,null
+114,Jamaica,null,null
+115,Djibouti,null,null
+116,Nicaragua,null,null
+117,Niger,null,null
+118,Albania,null,null
+119,Nepal,null,null
+120,Mongolia,null,null
+121,Rwanda,null,null
+122,Kyrgyzstan,null,null
+123,Norway,null,null
+124,Central African Republic,null,null
+125,Sierra Leone,null,null
+126,Benin,null,null
+127,Laos,null,null
+128,Latvia,null,null
+129,Mauritania,null,null
+130,Oman,null,null
+131,Turkmenistan,null,null
+132,Croatia,null,null
+133,Bosnia And Herzegovina,null,null
+134,Moldova,null,null
+135,Malawi,null,null
+136,Eritrea,null,null
+137,Mauritius,null,null
+138,Gabon,null,null
+139,Bahrain,null,null
+140,Lithuania,null,null
+141,Macedonia,null,null
+142,Slovakia,null,null
+143,Guinea-Bissau,null,null
+144,Estonia,null,null
+145,Malta,null,null
+146,Lesotho,null,null
+147,Burundi,null,null
+148,Slovenia,null,null
+149,Brunei,null,null
+150,Trinidad And Tobago,null,null
+151,Papua New Guinea,null,null
+152,Namibia,null,null
+153,Guyana,null,null
+154,Suriname,null,null
+155,Timor-Leste,null,null
+156,"Bahamas, The",null,null
+157,Cyprus,null,null
+158,Sri Lanka,null,null
+159,Botswana,null,null
+160,Barbados,null,null
+161,Fiji,null,null
+162,Iceland,null,null
+163,Equatorial Guinea,null,null
+164,Cura??ao,null,null
+165,Montenegro,null,null
+166,Comoros,null,null
+167,Cabo Verde,null,null
+168,Maldives,null,null
+169,South Sudan,null,null
+170,Luxembourg,null,null
+171,Bhutan,null,null
+172,Swaziland,null,null
+173,Sao Tome And Principe,null,null
+174,Solomon Islands,null,null
+175,Aruba,null,null
+176,Samoa,null,null
+177,Andorra,null,null
+178,Saint Vincent And The Grenadines,null,null
+179,Vanuatu,null,null
+180,"Gambia, The",null,null
+181,Tonga,null,null
+182,Saint Lucia,null,null
+183,Monaco,null,null
+184,Liechtenstein,null,null
+185,Antigua And Barbuda,null,null
+186,Grenada,null,null
+187,Seychelles,null,null
+188,San Marino,null,null
+189,Kiribati,null,null
+190,Marshall Islands,null,null
+191,Dominica,null,null
+192,Saint Kitts And Nevis,null,null
+193,Belize,null,null
+194,American Samoa,null,null
+195,Tuvalu,null,null
+196,"Micronesia, Federated States Of",null,null
+197,Northern Mariana Islands,null,null
+198,Guam,null,null
+199,West Bank,null,null
+200,Sint Maarten,null,null
+201,Kosovo,null,null
+202,Palau,null,null
+203,Macau,null,null
+204,Puerto Rico,null,null
+205,Martinique,null,null
+206,Reunion,null,null
+207,Gibraltar,null,null
+208,Guadeloupe,null,null
+209,French Polynesia,null,null
+210,New Caledonia,null,null
+211,French Guiana,null,null
+212,Mayotte,null,null
+213,Greenland,null,null
+214,Faroe Islands,null,null
+215,Wallis And Futuna,null,null
+216,"Saint Helena, Ascension, And Tristan Da Cunha",null,null
+217,Bermuda,null,null
+218,Isle Of Man,null,null
+219,Turks And Caicos Islands,null,null
+220,Cayman Islands,null,null
+221,Cook Islands,null,null
+222,Falkland Islands (Islas Malvinas),null,null
+223,South Georgia And South Sandwich Islands,null,null

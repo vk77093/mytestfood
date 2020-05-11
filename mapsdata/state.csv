@@ -1,0 +1,3951 @@
+id,name,country id,created_at,updated_at
+1,TAkyA,1,null,null
+2,New York,2,null,null
+3,Ciudad de MAcxico,3,null,null
+4,MahArAshtra,4,null,null
+5,SAeo Paulo,5,null,null
+6,Delhi,4,null,null
+7,Shanghai,6,null,null
+8,West Bengal,4,null,null
+9,California,2,null,null
+10,Dhaka,7,null,null
+11,"Buenos Aires, Ciudad AutAnoma de",8,null,null
+12,Sindh,9,null,null
+13,Al QAhirah,10,null,null
+14,Rio de Janeiro,5,null,null
+15,ACEsaka,1,null,null
+16,Beijing,6,null,null
+17,Manila,11,null,null
+18,Moskva,12,null,null
+19,Astanbul,13,null,null
+20,AZledeFrance,14,null,null
+21,Seoul,15,null,null
+22,Lagos,16,null,null
+23,Jakarta,17,null,null
+24,Guangdong,6,null,null
+25,Illinois,2,null,null
+26,"London, City of",18,null,null
+27,Lima,19,null,null
+28,TehrAn,20,null,null
+29,Kinshasa,21,null,null
+30,BogotA,22,null,null
+31,Hubei,6,null,null
+32,Tianjin,6,null,null
+33,Tamil NAdu ,4,null,null
+34,Taipei,24,null,null
+35,KarnAtaka,4,null,null
+36,Krung Thep Maha Nakhon,25,null,null
+37,Punjab,9,null,null
+38,Chongqing,6,null,null
+39,Florida,2,null,null
+40,Telangana,4,null,null
+41,Texas,2,null,null
+42,RegiAn Metropolitana,26,null,null
+43,Pennsylvania,2,null,null
+44,Minas Gerais,5,null,null
+45,Madrid,27,null,null
+46,GujarAt,4,null,null
+47,Ha ChA Minh,28,null,null
+48,District of Columbia,2,null,null
+49,Georgia,2,null,null
+50,Ontario,29,null,null
+51,Luanda,31,null,null
+52,BaghdAd,32,null,null
+53,Catalonia,27,null,null
+54,Liaoning,6,null,null
+55,Khartoum,33,null,null
+56,Massachusetts,2,null,null
+57,New South Wales,34,null,null
+58,SanktPeterburg,12,null,null
+59,Chittagong,7,null,null
+60,Ar RiyAa,35,null,null
+61,HAˇ Nai,28,null,null
+62,Jalisco,3,null,null
+63,Victoria,34,null,null
+64,Al IskandarAyah,10,null,null
+65,Sichuan,6,null,null
+66,Yangon,36,null,null
+67,Arizona,2,null,null
+68,Shaanxi,6,null,null
+69,Rio Grande do Sul,5,null,null
+70,Guangxi,6,null,null
+71,Abidjan,37,null,null
+72,Distrito Federal,5,null,null
+73,Ankara,13,null,null
+74,Nuevo LeAn,3,null,null
+75,Kanagawa,1,null,null
+76,Jiangsu,6,null,null
+77,QuAcbec,29,null,null
+78,Guizhou,6,null,null
+79,Pernambuco,5,null,null
+80,Washington,2,null,null
+81,Heilongjiang,6,null,null
+82,CearA,5,null,null
+83,Fujian,6,null,null
+84,Michigan,2,null,null
+85,Bahia,5,null,null
+86,Busan,15,null,null
+87,Gauteng,38,null,null
+88,Berlin,39,null,null
+89,Alger,40,null,null
+90,Lazio,41,null,null
+91,PayAèngyang,42,null,null
+92,Antioquia,22,null,null
+93,KAbul,43,null,null
+94,AttikA,44,null,null
+95,Aichi,1,null,null
+96,Western Cape,38,null,null
+97,Jilin,6,null,null
+98,CasablancaSettat,45,null,null
+99,Uttar Pradesh,4,null,null
+100,Kano,16,null,null
+101,Tel Aviv,46,null,null
+102,AEdAs AEbeba,47,null,null
+103,ParanA,5,null,null
+104,Shandong,6,null,null
+105,Makkah al Mukarramah,35,null,null
+106,Nairobi City,48,null,null
+107,Zhejiang,6,null,null
+108,Distrito Capital,49,null,null
+109,Lombardy,41,null,null
+110,BadenWArttemberg,39,null,null
+111,Yunnan,6,null,null
+112,Dar es Salaam,50,null,null
+113,Minnesota,2,null,null
+114,RAjasthAn,4,null,null
+115,Shanxi,6,null,null
+116,Hesse,39,null,null
+117,Jawa Timur,17,null,null
+118,Lisboa,51,null,null
+119,Fukuoka,1,null,null
+120,Colorado,2,null,null
+121,Kaohsiung,24,null,null
+122,Quezon,11,null,null
+123,A?lA?skie,52,null,null
+124,aalab,53,null,null
+125,KwaZuluNatal,38,null,null
+126,"Kyyiv, Misto",54,null,null
+127,Al JAzah,10,null,null
+128,Henan,6,null,null
+129,Taichung,24,null,null
+130,Oyo,16,null,null
+131,Hunan,6,null,null
+132,Dakar,55,null,null
+133,Azmir,13,null,null
+134,Gansu,6,null,null
+135,Incheon,15,null,null
+136,HokkaidA,1,null,null
+137,Guayas,56,null,null
+138,Pulau Pinang,57,null,null
+139,KhorAsAne Raa?avA,20,null,null
+140,Dimashq,53,null,null
+141,Daegu,15,null,null
+142,Hebei,6,null,null
+143,Tunis,58,null,null
+144,Wien,59,null,null
+145,Jawa Barat,17,null,null
+146,Jiangxi,6,null,null
+147,British Columbia,29,null,null
+148,Birmingham,18,null,null
+149,Valle del Cauca,22,null,null
+150,Campania,41,null,null
+151,Miyagi,1,null,null
+152,Manchester,18,null,null
+153,Puebla,3,null,null
+154,AcarAbulus,60,null,null
+155,Toshkent,61,null,null
+156,La Habana,62,null,null
+157,Maryland,2,null,null
+158,ParA,5,null,null
+159,BihAr,4,null,null
+160,Ozama,63,null,null
+161,Xinjiang,6,null,null
+162,BakA,64,null,null
+163,Greater Accra,65,null,null
+164,Sumatera Utara,17,null,null
+165,Santa Cruz,66,null,null
+166,Missouri,2,null,null
+167,Nevada,2,null,null
+168,Zulia,49,null,null
+169,Al aEAEAYimah,67,null,null
+170,Ash SharqAyah,35,null,null
+171,Oregon,2,null,null
+172,Hainan,6,null,null
+173,Hiroshima,1,null,null
+174,Inner Mongolia,6,null,null
+175,Anhui,6,null,null
+176,Madhya Pradesh,4,null,null
+177,GoiAs,5,null,null
+178,AmAnat al aEAEAYimah,68,null,null
+179,Ouest,69,null,null
+180,Haei PhAng,28,null,null
+181,BucureAYti,70,null,null
+182,Littoral,71,null,null
+183,Tainan,24,null,null
+184,AsunciAn,72,null,null
+185,Khyber Pakhtunkhwa,9,null,null
+186,Queensland,34,null,null
+187,Beyrouth,73,null,null
+188,Minsk,74,null,null
+189,KyAto,1,null,null
+190,AtlAntico,22,null,null
+191,Carabobo,49,null,null
+192,Hamburg,39,null,null
+193,Amazonas,5,null,null
+194,Sumatera Selatan,17,null,null
+195,BrusselsCapital Region,75,null,null
+196,North RhineWestphalia,39,null,null
+197,Ohio,2,null,null
+198,Mazowieckie,52,null,null
+199,RabatSalAcKAcnitra,45,null,null
+200,EspArito Santo,5,null,null
+201,Pichincha,56,null,null
+202,Antananarivo,76,null,null
+203,Budapest,77,null,null
+204,Piedmont,41,null,null
+205,Ashanti,65,null,null
+206,Taoyuan,24,null,null
+207,EAYfahAn,20,null,null
+208,Centre,71,null,null
+209,La Paz,66,null,null
+210,Federal Capital Territory,16,null,null
+211,Harare,78,null,null
+212,Indiana,2,null,null
+213,Khulna,7,null,null
+214,Baja California,3,null,null
+215,Cibao Norte,63,null,null
+216,Western Australia,34,null,null
+217,MAcxico,3,null,null
+218,Andhra Pradesh,4,null,null
+219,Leeds,18,null,null
+220,HyAgo,1,null,null
+221,Kerala,4,null,null
+222,Montevideo,79,null,null
+223,Tuscany,41,null,null
+224,Bamako,80,null,null
+225,Conakry,81,null,null
+226,Bursa,13,null,null
+227,Guanajuato,3,null,null
+228,Virginia,2,null,null
+229,Daejeon,15,null,null
+230,North Carolina,2,null,null
+231,Phnom Penh,82,null,null
+232,Kharkivsaka Oblasta,54,null,null
+233,Maritime,83,null,null
+234,CArdoba,8,null,null
+235,Ad Dawacah,84,null,null
+236,Kuala Lumpur ,57,null,null
+237,Maputo,85,null,null
+238,Kaduna,16,null,null
+239,Gwangju,15,null,null
+240,San Salvador,86,null,null
+241,AuvergneRhAneAlpes,14,null,null
+242,Alborz,20,null,null
+243,Kampala,87,null,null
+244,AEzIarbAyjAne SharqA,20,null,null
+245,ZuidHolland,88,null,null
+246,Davao,11,null,null
+247,ProvenceAlpesCAte daAzur,14,null,null
+248,Jawa Tengah,17,null,null
+249,HaryAna,4,null,null
+250,Novosibirskaya Oblasta,12,null,null
+251,Dubayy,89,null,null
+252,Wisconsin,2,null,null
+253,Auckland,90,null,null
+254,Brazzaville,91,null,null
+255,HautKatanga,21,null,null
+256,Chihuahua,3,null,null
+257,Porto,51,null,null
+258,Lusaka,92,null,null
+259,NAnawA,32,null,null
+260,Sverdlovskaya Oblasta,12,null,null
+261,Mandalay,36,null,null
+262,Jharkhand,4,null,null
+263,KasaA Oriental,21,null,null
+264,Adana,13,null,null
+265,Sheffield,18,null,null
+266,San JosAc,93,null,null
+267,PanamA,94,null,null
+268,Nizhegorodskaya Oblasta,12,null,null
+269,Bavaria,39,null,null
+270,Stockholm,95,null,null
+271,Sulawesi Selatan,17,null,null
+272,GenAve,96,null,null
+273,FArs,20,null,null
+274,Andalusia,27,null,null
+275,AmapA,5,null,null
+276,Almaty,97,null,null
+277,Rhode Island,2,null,null
+278,Santa Fe,8,null,null
+279,Edo,16,null,null
+280,Alagoas,5,null,null
+281,SofiaGrad,98,null,null
+282,BanghAzA,60,null,null
+283,"Praha, HlavnA MA?sto",99,null,null
+284,Glasgow City,18,null,null
+285,South Australia,34,null,null
+286,Coahuila de Zaragoza,3,null,null
+287,Jammu and KashmAr,4,null,null
+288,Samarskaya Oblasta,12,null,null
+289,Omskaya Oblasta,12,null,null
+290,Cagayan de Oro,11,null,null
+291,Can ThAE,28,null,null
+292,Lara,49,null,null
+293,Uusimaa,101,null,null
+294,Tatarstan,12,null,null
+295,Alberta,29,null,null
+296,ZArich,96,null,null
+297,Ash ShAriqah,89,null,null
+298,Yerevan,102,null,null
+299,Banaadir,103,null,null
+300,Tbilisi,104,null,null
+301,Huambo,31,null,null
+302,Ondo,16,null,null
+303,Beograd,105,null,null
+304,Utah,2,null,null
+305,ChhattAsgarh,4,null,null
+306,Chelyabinskaya Oblasta,12,null,null
+307,Rio Grande do Norte,5,null,null
+308,Dushanbe,106,null,null
+309,Hovedstaden,107,null,null
+310,Gyeongnam,15,null,null
+311,Gyeonggi,15,null,null
+312,Tennessee,2,null,null
+313,Ulsan,15,null,null
+314,Dublin,109,null,null
+315,Rostovskaya Oblasta,12,null,null
+316,Dnipropetrovsaka Oblasta,54,null,null
+317,Qinghai,6,null,null
+318,HautsdeFrance,14,null,null
+319,Gaziantep,13,null,null
+320,Montserrado,110,null,null
+321,MaranhAeo,5,null,null
+322,NoordHolland,88,null,null
+323,Louisiana,2,null,null
+324,Guatemala,111,null,null
+325,Santa Catarina,5,null,null
+326,Eastern Cape,38,null,null
+327,Rivers,16,null,null
+328,Bashkortostan,12,null,null
+329,Kentucky,2,null,null
+330,Haifa,46,null,null
+331,Al MadAnah al Munawwarah,35,null,null
+332,Santander,22,null,null
+333,Aragua,49,null,null
+334,aimAY,53,null,null
+335,FAsMeknAs,45,null,null
+336,Ville de NaDjamAcna,112,null,null
+337,Francisco MorazAn,113,null,null
+338,Kingston,114,null,null
+339,Nay Pyi Taw,36,null,null
+340,Djibouti,115,null,null
+341,Managua,116,null,null
+342,Niamey,117,null,null
+343,TiranA,118,null,null
+344,BAgmatA,119,null,null
+345,Ulaanbaatar,120,null,null
+346,Kigali,121,null,null
+347,Bishkek,122,null,null
+348,Oslo,123,null,null
+349,Bangui,124,null,null
+350,Western Area,125,null,null
+351,IslAmAbAd,9,null,null
+352,Viangchan,127,null,null
+353,RAga,128,null,null
+354,MasqaAe,130,null,null
+355,"Zagreb, Grad",132,null,null
+356,"Bosnia and Herzegovina, Federation of",133,null,null
+357,ChiAYinAüu,134,null,null
+358,Lilongwe,135,null,null
+359,MaaAkel,136,null,null
+360,AbA ZIsaby,89,null,null
+361,Port Louis,137,null,null
+362,Estuaire,138,null,null
+363,Vilniaus Miestas,140,null,null
+364,Skopje,141,null,null
+365,Free State,38,null,null
+366,BratislavskA,142,null,null
+367,Bissau,143,null,null
+368,Harjumaa,144,null,null
+369,Wellington,90,null,null
+370,Valletta,145,null,null
+371,Maseru,146,null,null
+372,Astana,97,null,null
+373,Bujumbura Mairie,147,null,null
+374,Australian Capital Territory,34,null,null
+375,Ljubljana,148,null,null
+376,OuAcmAc,126,null,null
+377,Brunei and Muara,149,null,null
+378,Port of Spain,150,null,null
+379,National Capital,151,null,null
+380,Bern,96,null,null
+381,Khomas,152,null,null
+382,DemeraraMahaica,153,null,null
+383,Paramaribo,154,null,null
+384,DAli,155,null,null
+385,Chuquisaca,66,null,null
+386,LefkosAa,157,null,null
+387,Dodoma,50,null,null
+388,Western,158,null,null
+389,Gaborone,159,null,null
+390,Yamoussoukro,37,null,null
+391,Saint Michael,160,null,null
+392,Rewa,161,null,null
+393,HAfuAborgarsvAAi,162,null,null
+394,Bioko Norte,163,null,null
+395,Podgorica,165,null,null
+396,Grande Comore,166,null,null
+397,Praia,167,null,null
+398,Maale,168,null,null
+399,Central Equatoria,169,null,null
+400,Luxembourg,170,null,null
+401,Thimphu,171,null,null
+402,Hhohho,172,null,null
+403,SAeo TomAc,173,null,null
+404,Honiara,174,null,null
+405,Tuamasaga,176,null,null
+406,Andorra la Vella,177,null,null
+407,Saint George,178,null,null
+408,Shefa,179,null,null
+409,Banjul,180,null,null
+410,Tongatapu,181,null,null
+411,Castries,182,null,null
+412,Vaduz,184,null,null
+413,Saint John,185,null,null
+414,San Marino CittAˇ,188,null,null
+415,Majuro,190,null,null
+416,Saint George Basseterre,192,null,null
+417,Cayo,193,null,null
+418,Funafuti,195,null,null
+419,Pohnpei,196,null,null
+420,Gitega,147,null,null
+421,PrishtinA,201,null,null
+422,Melekeok,202,null,null
+423,aEAdan,68,null,null
+424,Cochabamba,66,null,null
+425,Quaeng Nam,28,null,null
+426,Permskiy Kray,12,null,null
+427,KhAzestAn,20,null,null
+428,San Luis PotosA,3,null,null
+429,Odesaka Oblasta,54,null,null
+430,Ningxia,6,null,null
+431,Donetsaka Oblasta,54,null,null
+432,DahAk,32,null,null
+433,Volgogradskaya Oblasta,12,null,null
+434,Assam,4,null,null
+435,ChandAgarh,4,null,null
+436,Shizuoka,1,null,null
+437,Qom,20,null,null
+438,YucatAn,3,null,null
+439,QuerActaro,3,null,null
+440,ParaAba,5,null,null
+441,Selangor,57,null,null
+442,Oklahoma,2,null,null
+443,General Santos,11,null,null
+444,ThaEa ThiAnHua,28,null,null
+445,Bacolod,11,null,null
+446,Connecticut,2,null,null
+447,ArbAl,32,null,null
+448,Krasnoyarskiy Kray,12,null,null
+449,Flanders,75,null,null
+450,Konya,13,null,null
+451,PiauA,5,null,null
+452,Okinawa,1,null,null
+453,Abia,16,null,null
+454,Borno,16,null,null
+455,Az ZarqAa,108,null,null
+456,Mersin,13,null,null
+457,Mendoza,8,null,null
+458,BiobAo,26,null,null
+459,BolAvar,22,null,null
+460,Mombasa,48,null,null
+461,Newcastle upon Tyne,18,null,null
+462,Callao,19,null,null
+463,Basque Country,27,null,null
+464,Johor,57,null,null
+465,MarrakechSafi,45,null,null
+466,Al BaAYrah,32,null,null
+467,Aguascalientes,3,null,null
+468,Okayama,1,null,null
+469,Lampung,17,null,null
+470,Sicilia,41,null,null
+471,Cardiff,18,null,null
+472,Tamaulipas,3,null,null
+473,Sumatera Barat,17,null,null
+474,ValparaAso,26,null,null
+475,Occitanie,14,null,null
+476,Odisha,4,null,null
+477,Voronezhskaya Oblasta,12,null,null
+478,Saratovskaya Oblasta,12,null,null
+479,Morelos,3,null,null
+480,Hawaii,2,null,null
+481,Delta,16,null,null
+482,BaselStadt,96,null,null
+483,TucumAn,8,null,null
+484,KermAnshAh,20,null,null
+485,KentrikA MakedonAa,44,null,null
+486,Nebraska,2,null,null
+487,Braga,51,null,null
+488,Nottingham,18,null,null
+489,SoussMassa,45,null,null
+490,Plateau,16,null,null
+491,Cebu,11,null,null
+492,Arequipa,19,null,null
+493,Liverpool,18,null,null
+494,RAjshAhi,7,null,null
+495,Sinaloa,3,null,null
+496,Valencia,27,null,null
+497,Mato Grosso,5,null,null
+498,BAnh AêaE?nh,28,null,null
+499,Lavivsaka Oblasta,54,null,null
+500,NouvelleAquitaine,14,null,null
+501,Riau,17,null,null
+502,Oran,40,null,null
+503,Melaka,57,null,null
+504,Zaporizaka Oblasta,54,null,null
+505,Antalya,13,null,null
+506,Al audaydah,68,null,null
+507,Mato Grosso do Sul,5,null,null
+508,Chungbuk,15,null,null
+509,Zamboanga,11,null,null
+510,Hamnam,42,null,null
+511,Kwara,16,null,null
+512,Saarland,39,null,null
+513,BalochistAn,9,null,null
+514,La Libertad,19,null,null
+515,KasaA Central,21,null,null
+516,Trabzon,13,null,null
+517,New Mexico,2,null,null
+518,AÅAdzkie,52,null,null
+519,MaA?opolskie,52,null,null
+520,TaaEizz,68,null,null
+521,TangerTActouanAl HoceAma,45,null,null
+522,Hsinchu,24,null,null
+523,Changhua,24,null,null
+524,FargaEona,61,null,null
+525,Namangan,61,null,null
+526,Wallonia,75,null,null
+527,Alabama,2,null,null
+528,Naga,11,null,null
+529,Pomorskie,52,null,null
+530,Bali,17,null,null
+531,Sokoto,16,null,null
+532,Bremen,39,null,null
+533,As SulaymAnAyah,32,null,null
+534,Lower Saxony,39,null,null
+535,Norte de Santander,22,null,null
+536,Kilimanjaro,50,null,null
+537,Kumamoto,1,null,null
+538,Guerrero,3,null,null
+539,KandahAr,43,null,null
+540,Uttarakhand,4,null,null
+541,Jeonbuk,15,null,null
+542,Samarqand,61,null,null
+543,Bulawayo,78,null,null
+544,Buenos Aires,8,null,null
+545,Enugu,16,null,null
+546,Sergipe,5,null,null
+547,CortAcs,113,null,null
+548,Perak,57,null,null
+549,Hambuk,42,null,null
+550,Tochigi,1,null,null
+551,An Najaf,32,null,null
+552,PointeNoire,91,null,null
+553,Al IsmAaEAlAyah,10,null,null
+554,Aêang Nai,28,null,null
+555,Irbid,108,null,null
+556,Andijon,61,null,null
+557,Krasnodarskiy Kray,12,null,null
+558,Aragon,27,null,null
+559,Liguria,41,null,null
+560,DiyarbakAr,13,null,null
+561,MichoacAn de Ocampo,3,null,null
+562,Ulayanovskaya Oblasta,12,null,null
+563,Utrecht,88,null,null
+564,Kwilu,21,null,null
+565,Yogyakarta,17,null,null
+566,DolnoA?lA?skie,52,null,null
+567,Manitoba,29,null,null
+568,Udmurtiya,12,null,null
+569,Wielkopolskie,52,null,null
+570,BAr SaaEAd,10,null,null
+571,SouthendonSea,18,null,null
+572,Saxony,39,null,null
+573,South Carolina,2,null,null
+574,Sulawesi Tengah,17,null,null
+575,Samsun,13,null,null
+576,Al UqAYur,10,null,null
+577,Kalimantan Barat,17,null,null
+578,Yaroslavskaya Oblasta,12,null,null
+579,Constantine,40,null,null
+580,Kalimantan Selatan,17,null,null
+581,KirkAk,32,null,null
+582,AnzoAtegui,49,null,null
+583,SAhAj,10,null,null
+584,Ad DaqahlAyah,10,null,null
+585,Altayskiy Kray,12,null,null
+586,SAstAn va BalAchestAn,20,null,null
+587,NangarhAr,43,null,null
+588,Lambayeque,19,null,null
+589,Sonora,3,null,null
+590,BAbil,32,null,null
+591,GAlAn,20,null,null
+592,Nagano,1,null,null
+593,Ngha An,28,null,null
+594,Ogun,16,null,null
+595,Kayseri,13,null,null
+596,Kalimantan Timur,17,null,null
+597,Primorskiy Kray,12,null,null
+598,Irkutskaya Oblasta,12,null,null
+599,Blantyre,135,null,null
+600,Khabarovskiy Kray,12,null,null
+601,Veracruz,3,null,null
+602,Tshopo,21,null,null
+603,KermAn,20,null,null
+604,AEzIarbAyjAne GharbA,20,null,null
+605,Quetzaltenango,111,null,null
+606,Sarawak,57,null,null
+607,Niigata,1,null,null
+608,Risaralda,22,null,null
+609,VallAce du Bandama,37,null,null
+610,Santiago de Cuba,62,null,null
+611,Kagoshima,1,null,null
+612,Dagestan,12,null,null
+613,Akwa Ibom,16,null,null
+614,"Bristol, City of",18,null,null
+615,Ishikawa,1,null,null
+616,Orenburgskaya Oblasta,12,null,null
+617,TabAk,35,null,null
+618,Quintana Roo,3,null,null
+619,Kemerovskaya Oblasta,12,null,null
+620,Al LAdhiqAyah,53,null,null
+621,VAstra GAtaland,95,null,null
+622,Shiga,1,null,null
+623,Tomskaya Oblasta,12,null,null
+624,Ehime,1,null,null
+625,Normandie,14,null,null
+626,Oaxaca,3,null,null
+627,Sofala,85,null,null
+628,LibanNord,73,null,null
+629,HamadAn,20,null,null
+630,Sabah,57,null,null
+631,Ryazanskaya Oblasta,12,null,null
+632,Tyumenskaya Oblasta,12,null,null
+633,Lipetskaya Oblasta,12,null,null
+634,EskiAYehir,13,null,null
+635,Aceh,17,null,null
+636,Salta,8,null,null
+637,Penzenskaya Oblasta,12,null,null
+638,Blida,40,null,null
+639,Mykolayivsaka Oblasta,54,null,null
+640,KarbalAa,32,null,null
+641,As Suways,10,null,null
+642,Kelantan,57,null,null
+643,"Edinburgh, City of",18,null,null
+644,Tlaxcala,3,null,null
+645,MarkazA,20,null,null
+646,Pingtung,24,null,null
+647,Annaba,40,null,null
+648,Brighton and Hove,18,null,null
+649,Astrakhanskaya Oblasta,12,null,null
+650,Bradford,18,null,null
+651,Puglia,41,null,null
+652,Al Buacayrah,10,null,null
+653,Al MinyA,10,null,null
+654,Keelung,24,null,null
+655,Central,72,null,null
+656,Chiayi,24,null,null
+657,ThANguyAn,28,null,null
+658,Anambra,16,null,null
+659,Mie,1,null,null
+660,Nusa Tenggara Barat,17,null,null
+661,Qashqadaryo,61,null,null
+662,RAf Dimashq,53,null,null
+663,Mwanza,50,null,null
+664,Red Sea,33,null,null
+665,Tulaskaya Oblasta,12,null,null
+666,BanA Suwayf,10,null,null
+667,EmiliaRomagna,41,null,null
+668,Kansas,2,null,null
+669,Osun,16,null,null
+670,Iowa,2,null,null
+671,Chiapas,3,null,null
+672,HerAt,43,null,null
+673,Homyelaskaya Voblastsa,74,null,null
+674,MoravskoslezskA Kraj ,99,null,null
+675,Yazd,20,null,null
+676,OromAya,47,null,null
+677,Kocaeli,13,null,null
+678,Iligan,11,null,null
+679,QazvAn,20,null,null
+680,Cross River,16,null,null
+681,Malatya,13,null,null
+682,HormozgAn,20,null,null
+683,aamAh,53,null,null
+684,Loreto,19,null,null
+685,Balkh,43,null,null
+686,Leicester,18,null,null
+687,Kirovskaya Oblasta,12,null,null
+688,Durango,3,null,null
+689,Jambi,17,null,null
+690,Sfax,58,null,null
+691,Sunderland,18,null,null
+692,Luhansaka Oblasta,54,null,null
+693,Sulawesi Utara,17,null,null
+694,Qaraghandy,97,null,null
+695,DhA QAr,32,null,null
+696,Belfast,18,null,null
+697,AZanlAurfa,13,null,null
+698,Chlef,40,null,null
+699,ACEita,1,null,null
+700,Baguio,11,null,null
+701,San Juan,8,null,null
+702,Chuvashiya,12,null,null
+703,Ekiti,16,null,null
+704,NorthWest,71,null,null
+705,Tokushima,1,null,null
+706,Arkansas,2,null,null
+707,Portsmouth,18,null,null
+708,Wakayama,1,null,null
+709,Grand Est,14,null,null
+710,Mon State,36,null,null
+711,TAchira,49,null,null
+712,Pays de la Loire,14,null,null
+713,Sughd,106,null,null
+714,Nord,71,null,null
+715,SudKivu,21,null,null
+716,Nagasaki,1,null,null
+717,Gyeongbuk,15,null,null
+718,Kaliningradskaya Oblasta,12,null,null
+719,Saint Catherine,114,null,null
+720,San Luis,8,null,null
+721,Katsina,16,null,null
+722,Magdalena,22,null,null
+723,Tabasco,3,null,null
+724,Bryanskaya Oblasta,12,null,null
+725,Bournemouth,18,null,null
+726,Bengkulu,17,null,null
+727,Batangas,11,null,null
+728,Tolima,22,null,null
+729,Ivanovskaya Oblasta,12,null,null
+730,Erzurum,13,null,null
+731,AsyAAe,10,null,null
+732,Lualaba,21,null,null
+733,Redcar and Cleveland,18,null,null
+734,ArdabAl,20,null,null
+735,Gifu,1,null,null
+736,JunAn,19,null,null
+737,KhAnh HAa,28,null,null
+738,Monagas,49,null,null
+739,Kurskaya Oblasta,12,null,null
+740,Oriental,45,null,null
+741,Jeju,15,null,null
+742,Zachodniopomorskie,52,null,null
+743,Murcia,27,null,null
+744,Al GharbAyah,10,null,null
+745,Copperbelt,92,null,null
+746,Zanzibar UrbanWest,50,null,null
+747,Pasay,11,null,null
+748,Mbale,87,null,null
+749,Kassala,33,null,null
+750,PayAèngnam,42,null,null
+751,Tverskaya Oblasta,12,null,null
+752,KhantyMansiyskiy Avtonomnyy OkrugYugra,12,null,null
+753,Al QaAYAm,35,null,null
+754,Khmelanytsaka Oblasta,54,null,null
+755,NoordBrabant,88,null,null
+756,Chiang Mai,25,null,null
+757,Piura,19,null,null
+758,Kisumu,48,null,null
+759,North Kordofan,33,null,null
+760,South Darfur,33,null,null
+761,Osh,122,null,null
+762,StokeonTrent,18,null,null
+763,Samut Prakan,25,null,null
+764,Nampula,85,null,null
+765,JihomoravskA Kraj,99,null,null
+766,Coventry,18,null,null
+767,Alajuela,93,null,null
+768,Iloilo,11,null,null
+769,Chaco,8,null,null
+770,MiAYrAtah,60,null,null
+771,aAail,35,null,null
+772,Idaho,2,null,null
+773,BejaAa,40,null,null
+774,Southampton,18,null,null
+775,NariAo,22,null,null
+776,Galicia,27,null,null
+777,Canary Islands,27,null,null
+778,KahramanmaraAY,13,null,null
+779,Caldas,22,null,null
+780,Balearic Islands,27,null,null
+781,MeghAlaya,4,null,null
+782,LorestAn,20,null,null
+783,Meta,22,null,null
+784,Kauno Miestas,140,null,null
+785,Negeri Sembilan,57,null,null
+786,Denizli,13,null,null
+787,Van,13,null,null
+788,Reading,18,null,null
+789,NajrAn,35,null,null
+790,Mahilyowskaya Voblastsa,74,null,null
+791,KujawskoPomorskie,52,null,null
+792,Pahang,57,null,null
+793,Gorontalo,17,null,null
+794,Nakuru,48,null,null
+795,North Ossetia,12,null,null
+796,Canterbury,90,null,null
+797,Stavropolaskiy Kray,12,null,null
+798,Cusco,19,null,null
+799,Northern,65,null,null
+800,Buryatiya,12,null,null
+801,HautsBassins,100,null,null
+802,Lubelskie,52,null,null
+803,Nova Scotia,29,null,null
+804,Kedah,57,null,null
+805,Al QAdisAyah,32,null,null
+806,Zhambyl,97,null,null
+807,ZanjAn,20,null,null
+808,Fukushima,1,null,null
+809,ItapAa,72,null,null
+810,Misiones,8,null,null
+811,CAˇ Mau,28,null,null
+812,Arkhangelaskaya Oblasta,12,null,null
+813,Maluku,17,null,null
+814,Santiago del Estero,8,null,null
+815,Ibaraki,1,null,null
+816,Uasin Gishu,48,null,null
+817,Huila,22,null,null
+818,Vinnytsaka Oblasta,54,null,null
+819,Hualien,24,null,null
+820,Terengganu,57,null,null
+821,An Giang,28,null,null
+822,PhA ThaEç,28,null,null
+823,Aêak Lak,28,null,null
+824,Ancash,19,null,null
+825,KordestAn,20,null,null
+826,OberAsterreich,59,null,null
+827,CamagAey,62,null,null
+828,Veneto,41,null,null
+829,MAcrida,49,null,null
+830,Belgorodskaya Oblasta,12,null,null
+831,White Nile,33,null,null
+832,MaysAn,32,null,null
+833,Gunma,1,null,null
+834,Kurganskaya Oblasta,12,null,null
+835,Vitsyebskaya Voblastsa,74,null,null
+836,Jeonnam,15,null,null
+837,Puerto Rico,204,null,null
+838,Arusha,50,null,null
+839,Corrientes,8,null,null
+840,Plovdiv,98,null,null
+841,Kaluzhskaya Oblasta,12,null,null
+842,Mississippi,2,null,null
+843,Hwangnam,42,null,null
+844,Saitama,1,null,null
+845,BAnh Thua?n,28,null,null
+846,Asturias,27,null,null
+847,KAchi,1,null,null
+848,Nakhon Ratchasima,25,null,null
+849,Orlovskaya Oblasta,12,null,null
+850,Kagawa,1,null,null
+851,NordKivu,21,null,null
+852,Toyama,1,null,null
+853,Al Gazira,33,null,null
+854,Mymensingh,7,null,null
+855,KangwAèn,42,null,null
+856,Pavlodar,97,null,null
+857,Sousse,58,null,null
+858,IaAYi,70,null,null
+859,KhorAsAne JonAbA,20,null,null
+860,MariyEl,12,null,null
+861,Miyazaki,1,null,null
+862,CastilleLeon,27,null,null
+863,WAsiAe,32,null,null
+864,Smolenskaya Oblasta,12,null,null
+865,Alto ParanA,72,null,null
+866,Moskovskaya Oblasta,12,null,null
+867,Khersonsaka Oblasta,54,null,null
+868,Albay,11,null,null
+869,Akita,1,null,null
+870,ExtrAmeNord,71,null,null
+871,Hidalgo,3,null,null
+872,Buxoro,61,null,null
+873,Murmanskaya Oblasta,12,null,null
+874,HolguAn,62,null,null
+875,Shyghys Qazaqstan,97,null,null
+876,Nayarit,3,null,null
+877,Vladimirskaya Oblasta,12,null,null
+878,Songkhla,25,null,null
+879,Poltavsaka Oblasta,54,null,null
+880,Sucre,49,null,null
+881,Hrodzyenskaya Voblastsa,74,null,null
+882,Al FayyAm,10,null,null
+883,Cluj,70,null,null
+884,Bauchi,16,null,null
+885,Vargas,49,null,null
+886,QuindAo,22,null,null
+887,TimiAY,70,null,null
+888,Abruzzo,41,null,null
+889,Angeles,11,null,null
+890,AswAn,10,null,null
+891,Varna,98,null,null
+892,RhinelandPalatinate,39,null,null
+893,Vologodskaya Oblasta,12,null,null
+894,Khatlon,106,null,null
+895,GalaAei,70,null,null
+896,BraAYov,70,null,null
+897,Ucayali,19,null,null
+898,Antofagasta,26,null,null
+899,Dayr az Zawr,53,null,null
+900,Zabaykalaskiy Kray,12,null,null
+901,Cesar,22,null,null
+902,KabardinoBalkariya,12,null,null
+903,Chernihivsaka Oblasta,54,null,null
+904,RondAnia,5,null,null
+905,Jujuy,8,null,null
+906,Hatay,13,null,null
+907,Olongapo,11,null,null
+908,Dolj,70,null,null
+909,Miranda,49,null,null
+910,ConstanAea,70,null,null
+911,Mordoviya,12,null,null
+912,GEncE,64,null,null
+913,"Kingston upon Hull, City of",18,null,null
+914,Batman,13,null,null
+915,QinA,10,null,null
+916,Jinja,87,null,null
+917,Tambovskaya Oblasta,12,null,null
+918,Brestskaya Voblastsa,74,null,null
+919,Kian Giang,28,null,null
+920,SAc TrAüng,28,null,null
+921,Qyzylorda,97,null,null
+922,Plaines Wilhems,137,null,null
+923,Chagang,42,null,null
+924,DiyAlA,32,null,null
+925,DumyAAe,10,null,null
+926,Aomori,1,null,null
+927,Chernivetsaka Oblasta,54,null,null
+928,Cherkasaka Oblasta,54,null,null
+929,New Jersey,2,null,null
+930,Iwate,1,null,null
+931,Al AnbAr,32,null,null
+932,Sumsaka Oblasta,54,null,null
+933,Swansea,18,null,null
+934,ThiAs,55,null,null
+935,Benue,16,null,null
+936,Niger,16,null,null
+937,Podlaskie,52,null,null
+938,Mbeya,50,null,null
+939,Sardegna,41,null,null
+940,PayAèngbuk,42,null,null
+941,Azuay,56,null,null
+942,Rangpur,7,null,null
+943,Bago,36,null,null
+944,Barinas,49,null,null
+945,Negros Occidental,11,null,null
+946,Mizoram,4,null,null
+947,Nusa Tenggara Timur,17,null,null
+948,Zhytomyrsaka Oblasta,54,null,null
+949,Tungurahua,56,null,null
+950,GolestAn,20,null,null
+951,Batna,40,null,null
+952,Tacna,19,null,null
+953,Tacloban,11,null,null
+954,Cotabato,11,null,null
+955,Rize,13,null,null
+956,Ica,19,null,null
+957,SumqayAt,64,null,null
+958,Kaolack,55,null,null
+959,Kostromskaya Oblasta,12,null,null
+960,Aquateur,21,null,null
+961,SActif,40,null,null
+962,Navarre,27,null,null
+963,Ubon Ratchathani,25,null,null
+964,GuantAnamo,62,null,null
+965,Blackpool,18,null,null
+966,Sulawesi Barat,17,null,null
+967,Yamagata,1,null,null
+968,ElazAAY,13,null,null
+969,MAzandarAn,20,null,null
+970,Gombe,16,null,null
+971,Limpopo,38,null,null
+972,SchleswigHolstein,39,null,null
+973,SkAùne,95,null,null
+974,KasaA,21,null,null
+975,Taninthayi,36,null,null
+976,AraucanAa,26,null,null
+977,Vaud,96,null,null
+978,Kareliya,12,null,null
+979,Manipur,4,null,null
+980,Sivas,13,null,null
+981,Al BuAenAn,60,null,null
+982,Steiermark,59,null,null
+983,Maniema,21,null,null
+984,AqtAbe,97,null,null
+985,Entre RAos,8,null,null
+986,BalAkesir,13,null,null
+987,Portuguesa,49,null,null
+988,Sakarya,13,null,null
+989,Kunduz,43,null,null
+990,Pirkanmaa,101,null,null
+991,Cauca,22,null,null
+992,Nonthaburi,25,null,null
+993,aaaramawt,68,null,null
+994,Acre,5,null,null
+995,Debub,136,null,null
+996,Manica,85,null,null
+997,LAcm Aêang,28,null,null
+998,Yobe,16,null,null
+999,SassandraMarahouAc,37,null,null
+1000,Rivnensaka Oblasta,54,null,null
+1001,Alaska,2,null,null
+1002,North Darfur,33,null,null
+1003,DirA Dawa,47,null,null
+1004,Khon Kaen,25,null,null
+1005,Morogoro,50,null,null
+1006,Villa Clara,62,null,null
+1007,Arua,87,null,null
+1008,Quaeng NgAei,28,null,null
+1009,NiA,105,null,null
+1010,Luzern,96,null,null
+1011,Kirovohradsaka Oblasta,54,null,null
+1012,Manicaland,78,null,null
+1013,JalalAbad,122,null,null
+1014,BAˇ RaE?aVAcng TAˇu,28,null,null
+1015,Fukui,1,null,null
+1016,BorsodAbaAjZemplAcn,77,null,null
+1017,Plymouth,18,null,null
+1018,Udon Thani,25,null,null
+1019,Oruro,66,null,null
+1020,Kongo Central,21,null,null
+1021,Podkarpackie,52,null,null
+1022,Puno,19,null,null
+1023,Ternopilasaka Oblasta,54,null,null
+1024,BAnh DAEAEng,28,null,null
+1025,Manisa,13,null,null
+1026,Gangwon,15,null,null
+1027,Nam AêaE?nh,28,null,null
+1028,NeuquAcn,8,null,null
+1029,IvanoFrankivsaka Oblasta,54,null,null
+1030,Laguna,11,null,null
+1031,Midtjylland,107,null,null
+1032,Ayeyawady,36,null,null
+1033,Sylhet,7,null,null
+1034,Qostanay,97,null,null
+1035,KoAickA,142,null,null
+1036,CentreVal de Loire,14,null,null
+1037,Luton,18,null,null
+1038,Sakha (Yakutiya),12,null,null
+1039,Jizzax,61,null,null
+1040,Tocantins,5,null,null
+1041,Roraima,5,null,null
+1042,Jubbada Hoose,103,null,null
+1043,Ibb,68,null,null
+1044,Lebap,131,null,null
+1045,FalcAn,49,null,null
+1046,Zacatecas,3,null,null
+1047,Santa Ana,86,null,null
+1048,El Beni,66,null,null
+1049,Libertador General Bernardo OaHiggins,26,null,null
+1050,Maradi,117,null,null
+1051,Prahova,70,null,null
+1052,Nakhon Si Thammarat,25,null,null
+1053,Adamaoua,71,null,null
+1054,HajdABihar,77,null,null
+1055,New Hampshire,2,null,null
+1056,Komi,12,null,null
+1057,Zinder,117,null,null
+1058,QoraqalpogaEiston,61,null,null
+1059,SaxonyAnhalt,39,null,null
+1060,Tlemcen,40,null,null
+1061,DrAcaTafilalet,45,null,null
+1062,SoltAstik Qazaqstan,97,null,null
+1063,TarapacA,26,null,null
+1064,Yanggang,42,null,null
+1065,Puducherry,4,null,null
+1066,Zamfara,16,null,null
+1067,Kepulauan Riau,17,null,null
+1068,Chon Buri,25,null,null
+1069,Sagaing,36,null,null
+1070,Chechnya,12,null,null
+1071,Sikasso,80,null,null
+1072,Adamawa,16,null,null
+1073,Novi Sad,105,null,null
+1074,Southern Province,121,null,null
+1075,Skikda,40,null,null
+1076,Bac LiAu,28,null,null
+1077,Tanga,50,null,null
+1078,AdAyaman,13,null,null
+1079,Colima,3,null,null
+1080,Al audAd ash ShamAlAyah,35,null,null
+1081,"Srpska, Republika",133,null,null
+1082,NaZAcrAckorAc,81,null,null
+1083,Formosa,8,null,null
+1084,Amurskaya Oblasta,12,null,null
+1085,Nueva Ecija,11,null,null
+1086,Tibet,6,null,null
+1087,GabAs,58,null,null
+1088,BaghlAn,43,null,null
+1089,Novgorodskaya Oblasta,12,null,null
+1090,Est,71,null,null
+1091,Brandenburg,39,null,null
+1092,Higuamo,63,null,null
+1093,Surxondaryo,61,null,null
+1094,GilgitBaltistan,9,null,null
+1095,Groningen,88,null,null
+1096,FriuliVenezia Giulia,41,null,null
+1097,A?wiAtokrzyskie,52,null,null
+1098,Imo,16,null,null
+1099,Navoiy,61,null,null
+1100,SplitskoDalmatinska Aupanija,132,null,null
+1101,Bihor,70,null,null
+1102,Volynsaka Oblasta,54,null,null
+1103,ManabA,56,null,null
+1104,Hordaland,123,null,null
+1105,BrAüila,70,null,null
+1106,El Oro,56,null,null
+1107,SouthWest,71,null,null
+1108,KArAkkale,13,null,null
+1109,aEAsAr,35,null,null
+1110,BasSassandra,37,null,null
+1111,Toamasina,76,null,null
+1112,ThABAnh,28,null,null
+1113,Batys Qazaqstan,97,null,null
+1114,Bretagne,14,null,null
+1115,Cantabria,27,null,null
+1116,Sidi Bel AbbAs,40,null,null
+1117,KhorAsAne ShomAlA,20,null,null
+1118,Yuma,63,null,null
+1119,aajjah,68,null,null
+1120,Benguela,31,null,null
+1121,Ilocos Norte,11,null,null
+1122,AEmara,47,null,null
+1123,Southern,46,null,null
+1124,Salzburg,59,null,null
+1125,Tanganyika,21,null,null
+1126,Maine,2,null,null
+1127,Campeche,3,null,null
+1128,North Dakota,2,null,null
+1129,Madeira,51,null,null
+1130,Lampang,25,null,null
+1131,ColAn,94,null,null
+1132,ZIsufAr,130,null,null
+1133,Las Tunas,62,null,null
+1134,Tripura,4,null,null
+1135,Thuringia,39,null,null
+1136,MecklenburgWestern Pomerania,39,null,null
+1137,Donga,126,null,null
+1138,BarisAl,7,null,null
+1139,Biskra,40,null,null
+1140,Pskovskaya Oblasta,12,null,null
+1141,Al Marqab,60,null,null
+1142,San Miguel,86,null,null
+1143,Helmand,43,null,null
+1144,DaAYoguz,131,null,null
+1145,Al Gedaref,33,null,null
+1146,Rivera,79,null,null
+1147,Hodh ech Chargui,129,null,null
+1148,Az ZAwiyah,60,null,null
+1149,FAryAb,43,null,null
+1150,BacAüu,70,null,null
+1151,Kyyivsaka Oblasta,54,null,null
+1152,Saskatchewan,29,null,null
+1153,AydAn,13,null,null
+1154,SudUbangi,21,null,null
+1155,Thanh HAa,28,null,null
+1156,Yamanashi,1,null,null
+1157,Maule,26,null,null
+1158,Cartago,93,null,null
+1159,Nueva Esparta,49,null,null
+1160,Burgas,98,null,null
+1161,West Virginia,2,null,null
+1162,MayoKAcbbi Est,112,null,null
+1163,Kalimantan Utara,17,null,null
+1164,Oxfordshire,18,null,null
+1165,Granma,62,null,null
+1166,KlaipA?dos Miestas,140,null,null
+1167,Ziguinchor,55,null,null
+1168,DhamAr,68,null,null
+1169,Trujillo,49,null,null
+1170,Norfolk,18,null,null
+1171,Butuan,11,null,null
+1172,Baja California Sur,3,null,null
+1173,Aberdeen City,18,null,null
+1174,Quaeng BAnh,28,null,null
+1175,Lomami,21,null,null
+1176,ZambAczia,85,null,null
+1177,Cork,109,null,null
+1178,Borgou,126,null,null
+1179,Catamarca,8,null,null
+1180,Mostaganem,40,null,null
+1181,CsongrAd,77,null,null
+1182,Maluku Utara,17,null,null
+1183,Kamchatskiy Kray,12,null,null
+1184,Pinar del RAo,62,null,null
+1185,WarmiAskoMazurskie,52,null,null
+1186,Cienfuegos,62,null,null
+1187,River Nile,33,null,null
+1188,Baranya,77,null,null
+1189,Blue Nile,33,null,null
+1190,Arica y Parinacota,26,null,null
+1191,KAtahya,13,null,null
+1192,Ruse,98,null,null
+1193,Tiaret,40,null,null
+1194,Fianarantsoa,76,null,null
+1195,Imereti,104,null,null
+1196,Tarlac,11,null,null
+1197,Aorum,13,null,null
+1198,Midlands,78,null,null
+1199,Al MinAfAyah,10,null,null
+1200,AtyraA,97,null,null
+1201,Calabria,41,null,null
+1202,An NuqAAe al Khams,60,null,null
+1203,South Dakota,2,null,null
+1204,PotosA,66,null,null
+1205,Ninh Thua?n,28,null,null
+1206,Rakhine State,36,null,null
+1207,North West,38,null,null
+1208,Mary,131,null,null
+1209,ShamAl SAnAa,10,null,null
+1210,Savanes,37,null,null
+1211,Ar Raqqah,53,null,null
+1212,El Oued,40,null,null
+1213,South Kordofan,33,null,null
+1214,SzabolcsSzatmArBereg,77,null,null
+1215,Sakhalinskaya Oblasta,12,null,null
+1216,Ouargla,40,null,null
+1217,VarsinaisSuomi,101,null,null
+1218,Sud,69,null,null
+1219,Wakiso,87,null,null
+1220,Taitung,24,null,null
+1221,HArerA Hizb,47,null,null
+1222,Al MuthannA,32,null,null
+1223,Los Lagos,26,null,null
+1224,LibanSud,73,null,null
+1225,HimAchal Pradesh,4,null,null
+1226,Rogaland,123,null,null
+1227,Esmeraldas,56,null,null
+1228,Litoral,163,null,null
+1229,Quaeng Ninh,28,null,null
+1230,Chimborazo,56,null,null
+1231,Isparta,13,null,null
+1232,TAcbessa,40,null,null
+1233,Kragujevac,105,null,null
+1234,ArgeAY,70,null,null
+1235,PrimorskoGoranska Aupanija,132,null,null
+1236,Djelfa,40,null,null
+1237,ACEaAçak,105,null,null
+1238,BourgogneFrancheComtAc,14,null,null
+1239,Al Marj,60,null,null
+1240,Papua,17,null,null
+1241,MoyenChari,112,null,null
+1242,Arad,70,null,null
+1243,BAshehr,20,null,null
+1244,Sonsonate,86,null,null
+1245,Ormoc,11,null,null
+1246,Khakasiya,12,null,null
+1247,Al QalyAbAyah,10,null,null
+1248,Artibonite,69,null,null
+1249,Ayacucho,19,null,null
+1250,San Fernando,150,null,null
+1251,HAˇ TAcnh,28,null,null
+1252,Sulawesi Tenggara,17,null,null
+1253,Northern Cape,38,null,null
+1254,Elbasan,118,null,null
+1255,Nantou,24,null,null
+1256,Banten,17,null,null
+1257,LeAn,116,null,null
+1258,Kigoma,50,null,null
+1259,PlzeAskA Kraj,99,null,null
+1260,Phitsanulok,25,null,null
+1261,Dagupan,11,null,null
+1262,DytikA EllAda,44,null,null
+1263,Cibao Sur,63,null,null
+1264,West Darfur,33,null,null
+1265,AcarAeAs,53,null,null
+1266,La Rioja,8,null,null
+1267,BoyacA,22,null,null
+1268,Coquimbo,26,null,null
+1269,Raas al Khaymah,89,null,null
+1270,Upper Nile,169,null,null
+1271,Mongala,21,null,null
+1272,Shan State,36,null,null
+1273,Los RAos,26,null,null
+1274,Zamboanga del Sur,11,null,null
+1275,YamaloNenetskiy Avtonomnyy Okrug,12,null,null
+1276,Tarija,66,null,null
+1277,MAcdenine,58,null,null
+1278,Maldonado,79,null,null
+1279,York,18,null,null
+1280,AZalAac ad DAn,32,null,null
+1281,Adygeya,12,null,null
+1282,OuaddaA,112,null,null
+1283,Syddanmark,107,null,null
+1284,HuAnuco,19,null,null
+1285,CastilleLa Mancha,27,null,null
+1286,Surat Thani,25,null,null
+1287,Al Baacr al Aacmar,10,null,null
+1288,HautUAclAc,21,null,null
+1289,Puerto Princesa,11,null,null
+1290,StAnga Nistrului,134,null,null
+1291,Afyonkarahisar,13,null,null
+1292,Zonguldak,13,null,null
+1293,Shimane,1,null,null
+1294,Logone Occidental,112,null,null
+1295,Eastern,65,null,null
+1296,ShkodAr,118,null,null
+1297,Sibiu,70,null,null
+1298,Ajaria,104,null,null
+1299,Minskaya Voblastsa,74,null,null
+1300,Tirol,59,null,null
+1301,Ordu,13,null,null
+1302,Hwangbuk,42,null,null
+1303,Battambang,82,null,null
+1304,Mpumalanga,38,null,null
+1305,Mahajanga,76,null,null
+1306,Pathum Thani,25,null,null
+1307,Tottori,1,null,null
+1308,Valdesia,63,null,null
+1309,LemesAs,157,null,null
+1310,AlAm,20,null,null
+1311,UAYak,13,null,null
+1312,Mardin,13,null,null
+1313,Cibao Nordeste,63,null,null
+1314,Dundee City,18,null,null
+1315,BAülAei,134,null,null
+1316,ShamAl al BAAeinah,130,null,null
+1317,Zakarpatsaka Oblasta,54,null,null
+1318,Trans Nzoia,48,null,null
+1319,Xorazm,61,null,null
+1320,Yilan,24,null,null
+1321,Miaoli,24,null,null
+1322,Tororo,87,null,null
+1323,Pattani,25,null,null
+1324,Masila,40,null,null
+1325,AEnseba,136,null,null
+1326,Aêang ThAp,28,null,null
+1327,MureAY,70,null,null
+1328,Umbria,41,null,null
+1329,Shirak,102,null,null
+1330,Kalimantan Tengah,17,null,null
+1331,Waikato,90,null,null
+1332,Yala,25,null,null
+1333,Diourbel,55,null,null
+1334,Jijel,40,null,null
+1335,Lang SAEn,28,null,null
+1336,Trang,25,null,null
+1337,MAcdAca,40,null,null
+1338,MangghystaA,97,null,null
+1339,El Progreso,111,null,null
+1340,Montagnes,37,null,null
+1341,Gulu,87,null,null
+1342,Al Jabal al GharbA,60,null,null
+1343,Imbabura,56,null,null
+1344,Matanzas,62,null,null
+1345,Tabora,50,null,null
+1346,DaraEA,53,null,null
+1347,AtlAntida,113,null,null
+1348,Phra Nakhon Si Ayutthaya,25,null,null
+1349,Machakos,48,null,null
+1350,Kairouan,58,null,null
+1351,FejAcr,77,null,null
+1352,Tizi Ouzou,40,null,null
+1353,Kafr ash Shaykh,10,null,null
+1354,Al WAhIsAt,60,null,null
+1355,Suffolk,18,null,null
+1356,Stara Zagora,98,null,null
+1357,BAcchar,40,null,null
+1358,Gia Lai,28,null,null
+1359,Cajamarca,19,null,null
+1360,SemAnawA Kaeyih BahrA,136,null,null
+1361,DurrAs,118,null,null
+1362,SaAda,40,null,null
+1363,Ciego de AÅvila,62,null,null
+1364,Gelderland,88,null,null
+1365,Phuket,25,null,null
+1366,Melilla,27,null,null
+1367,GhaznA,43,null,null
+1368,Chubut,8,null,null
+1369,Al BalqAa,108,null,null
+1370,LabAc,81,null,null
+1371,Peterborough,18,null,null
+1372,Extremadura,27,null,null
+1373,Bordj Bou ArrAcridj,40,null,null
+1374,Bizerte,58,null,null
+1375,Kachin State,36,null,null
+1376,Chinandega,116,null,null
+1377,Long An,28,null,null
+1378,Pasco,19,null,null
+1379,KrAti,44,null,null
+1380,PohjoisPohjanmaa,101,null,null
+1381,MaramureAY,70,null,null
+1382,GyArMosonSopron,77,null,null
+1383,Lira,87,null,null
+1384,Clarendon,114,null,null
+1385,Souk Ahras,40,null,null
+1386,AˇiauliA Miestas,140,null,null
+1387,La Guajira,22,null,null
+1388,Mara,50,null,null
+1389,YeDebub BihAroch BihAreseboch na Hizboch,47,null,null
+1390,Namibe,31,null,null
+1391,PetAcn,111,null,null
+1392,SemnAn,20,null,null
+1393,AZles du Vent,209,null,null
+1394,Newfoundland and Labrador,29,null,null
+1395,Opolskie,52,null,null
+1396,TrAˇ Vinh,28,null,null
+1397,Morobe,151,null,null
+1398,BuzAüu,70,null,null
+1399,Ninh BAnh,28,null,null
+1400,CaquetA,22,null,null
+1401,Cundinamarca,22,null,null
+1402,Sennar,33,null,null
+1403,Masaya,116,null,null
+1404,Bay,103,null,null
+1405,Tokat,13,null,null
+1406,Erzincan,13,null,null
+1407,Tete,85,null,null
+1408,Atacama,26,null,null
+1409,ChahAr MaacAl va BakhtAArA,20,null,null
+1410,Aqmola,97,null,null
+1411,Idlib,53,null,null
+1412,Gaza,85,null,null
+1413,HautLomami,21,null,null
+1414,ThessalAa,44,null,null
+1415,KarabAk,13,null,null
+1416,Cambridgeshire,18,null,null
+1417,Al Jawf,35,null,null
+1418,Surt,60,null,null
+1419,Al aasakah,53,null,null
+1420,Darnah,60,null,null
+1421,GAhDjiboua,37,null,null
+1422,Andaman and Nicobar Islands,4,null,null
+1423,PanevA?Aio Miestas,140,null,null
+1424,Western Bahr el Ghazal,169,null,null
+1425,Nasarawa,16,null,null
+1426,Sancti SpAritus,62,null,null
+1427,Magway,36,null,null
+1428,Gafsa,58,null,null
+1429,Edirne,13,null,null
+1430,Ruvuma,50,null,null
+1431,TAcy Ninh,28,null,null
+1432,Loja,56,null,null
+1433,Saint James,114,null,null
+1434,Kepulauan Bangka Belitung,17,null,null
+1435,Malanje,31,null,null
+1436,FryslAcn,88,null,null
+1437,HuAla,31,null,null
+1438,Papua Barat,17,null,null
+1439,GhardaAa,40,null,null
+1440,ZlAnskA Kraj,99,null,null
+1441,TiaEÅn Giang,28,null,null
+1442,Guelma,40,null,null
+1443,SAcgou,80,null,null
+1444,Apure,49,null,null
+1445,Limburg,88,null,null
+1446,TekirdaAY,13,null,null
+1447,Nordjylland,107,null,null
+1448,Bay of Plenty,90,null,null
+1449,Montana,2,null,null
+1450,Karaman,13,null,null
+1451,Inhambane,85,null,null
+1452,Tetovo,141,null,null
+1453,Pleven,98,null,null
+1454,Lubuskie,52,null,null
+1455,North Central,158,null,null
+1456,SetAbal,51,null,null
+1457,Nakhon Pathom,25,null,null
+1458,Centrale,83,null,null
+1459,Agadez,117,null,null
+1460,Taraba,16,null,null
+1461,Otago,90,null,null
+1462,Magallanes y de la AntArtica Chilena,26,null,null
+1463,Leningradskaya Oblasta,12,null,null
+1464,GuArico,49,null,null
+1465,Chiang Rai,25,null,null
+1466,Kindia,81,null,null
+1467,Gao,80,null,null
+1468,OgoouAcMaritime,138,null,null
+1469,BokAc,81,null,null
+1470,KarachayevoCherkesiya,12,null,null
+1471,Tahoua,117,null,null
+1472,Delaware,2,null,null
+1473,Toliara,76,null,null
+1474,GuelmimOued Noun,45,null,null
+1475,Nabeul,58,null,null
+1476,Cagayan,11,null,null
+1477,BotoAYani,70,null,null
+1478,BiAc,31,null,null
+1479,Maribor,148,null,null
+1480,Siirt,13,null,null
+1481,Kankan,81,null,null
+1482,BAcsKiskun,77,null,null
+1483,Laghouat,40,null,null
+1484,Akershus,123,null,null
+1485,Devon,18,null,null
+1486,ChAy,122,null,null
+1487,Satu Mare,70,null,null
+1488,Nakhon Sawan,25,null,null
+1489,Iringa,50,null,null
+1490,Overijssel,88,null,null
+1491,Daugavpils Novads,128,null,null
+1492,La Pampa,8,null,null
+1493,Shabeellaha Dhexe,103,null,null
+1494,Balkan,131,null,null
+1495,Cabo Delgado,85,null,null
+1496,Manzini,172,null,null
+1497,Bouira,40,null,null
+1498,ChiriquA,94,null,null
+1499,Niassa,85,null,null
+1500,Alibori,126,null,null
+1501,Vas,77,null,null
+1502,Siem Reap,82,null,null
+1503,JAszNagykunSzolnok,77,null,null
+1504,Tumbes,19,null,null
+1505,Matagalpa,116,null,null
+1506,Somogy,77,null,null
+1507,Mopti,80,null,null
+1508,Vermont,2,null,null
+1509,Tyva,12,null,null
+1510,Mascara,40,null,null
+1511,Kebbi,16,null,null
+1512,Western Kordofan,33,null,null
+1513,EstelA,116,null,null
+1514,TrentinoAlto Adige,41,null,null
+1515,Escuintla,111,null,null
+1516,VAclcea,70,null,null
+1517,Shinyanga,50,null,null
+1518,VAstmanland,95,null,null
+1519,Louangphabang,127,null,null
+1520,PardubickA Kraj,99,null,null
+1521,Ratchaburi,25,null,null
+1522,Kalmykiya,12,null,null
+1523,Yunlin,24,null,null
+1524,Coimbra,51,null,null
+1525,MehedinAei,70,null,null
+1526,Suceava,70,null,null
+1527,Salto,79,null,null
+1528,AZaaEdah,68,null,null
+1529,DebubawA Kaeyih BahrA,136,null,null
+1530,Kon Tum,28,null,null
+1531,Ticino,96,null,null
+1532,HAa BAnh,28,null,null
+1533,Granada,116,null,null
+1534,JAzAn,35,null,null
+1535,Vrancea,70,null,null
+1536,Nong Khai,25,null,null
+1537,Tigray,47,null,null
+1538,ComoAc,37,null,null
+1539,Niari,91,null,null
+1540,PaktiyA,43,null,null
+1541,MaAerAac,10,null,null
+1542,VAcnh Long,28,null,null
+1543,Amambay,72,null,null
+1544,Champasak,127,null,null
+1545,Capiz,11,null,null
+1546,NeamAe,70,null,null
+1547,LibereckA Kraj,99,null,null
+1548,Ad DAkhilAyah,130,null,null
+1549,OlomouckA Kraj,99,null,null
+1550,Lorri,102,null,null
+1551,Tartumaa,144,null,null
+1552,Oum el Bouaghi,40,null,null
+1553,Marche,41,null,null
+1554,Kagera,50,null,null
+1555,SabhA,60,null,null
+1556,Subotica,105,null,null
+1557,Chanthaburi,25,null,null
+1558,Choluteca,113,null,null
+1559,Kiambu,48,null,null
+1560,Giresun,13,null,null
+1561,Kericho,48,null,null
+1562,JihoAçeskA Kraj ,99,null,null
+1563,PAijAtHAme,101,null,null
+1564,A?rebro,95,null,null
+1565,KeskiSuomi,101,null,null
+1566,Misamis Occidental,11,null,null
+1567,BrodskoPosavska Aupanija,132,null,null
+1568,Mangochi,135,null,null
+1569,LaAriana,58,null,null
+1570,OngtAstik Qazaqstan,97,null,null
+1571,Gorj,70,null,null
+1572,KohgAlAyeh va Bowyer Aacmad,20,null,null
+1573,Ituri,21,null,null
+1574,A?stergAtland,95,null,null
+1575,Bolu,13,null,null
+1576,Mtwara,50,null,null
+1577,YAn BAi,28,null,null
+1578,Saint Andrew,114,null,null
+1579,Sliven,98,null,null
+1580,Sirdaryo,61,null,null
+1581,Magadanskaya Oblasta,12,null,null
+1582,KrAlovAchradeckA Kraj,99,null,null
+1583,OsjeAçkoBaranjska Aupanija,132,null,null
+1584,Al aEAqabah,108,null,null
+1585,Cotopaxi,56,null,null
+1586,Dobrich,98,null,null
+1587,NaxAsAvan,64,null,null
+1588,PreAovskA,142,null,null
+1589,KArAYehir,13,null,null
+1590,Al Fujayrah,89,null,null
+1591,A?steckA Kraj,99,null,null
+1592,Kilifi,48,null,null
+1593,JowzjAn,43,null,null
+1594,Bath and North East Somerset,18,null,null
+1595,Northern Territory,34,null,null
+1596,Province Sud,210,null,null
+1597,Volta,65,null,null
+1598,ChocA,22,null,null
+1599,Tulcea,70,null,null
+1600,NAgAland,4,null,null
+1601,PohjoisSavo,101,null,null
+1602,Cabinda,31,null,null
+1603,NiAYde,13,null,null
+1604,Buskerud,123,null,null
+1605,New Brunswick,29,null,null
+1606,KArnten,59,null,null
+1607,Phetchaburi,25,null,null
+1608,Enriquillo,63,null,null
+1609,Limerick,109,null,null
+1610,Francistown,159,null,null
+1611,JAnkAping,95,null,null
+1612,VlorA,118,null,null
+1613,Cheshire West and Chester,18,null,null
+1614,Tambacounda,55,null,null
+1615,Rukwa,50,null,null
+1616,DAcmboviAea,70,null,null
+1617,CaaguazA,72,null,null
+1618,Yozgat,13,null,null
+1619,AAYrA,13,null,null
+1620,Surigao del Norte,11,null,null
+1621,Aanakkale,13,null,null
+1622,AilinskA,142,null,null
+1623,CentreOuest,100,null,null
+1624,Shumen,98,null,null
+1625,Mono,126,null,null
+1626,Dakhlet Nouadhibou,129,null,null
+1627,Northern Province,121,null,null
+1628,Bitola,141,null,null
+1629,Açpeiros,44,null,null
+1630,Huehuetenango,111,null,null
+1631,Chumphon,25,null,null
+1632,LiepAja,128,null,null
+1633,Louga,55,null,null
+1634,LimAn,93,null,null
+1635,SavannakhAct,127,null,null
+1636,Mbarara,87,null,null
+1637,Derry and Strabane,18,null,null
+1638,Western Province,121,null,null
+1639,Atlantique,126,null,null
+1640,CaraAYSeverin,70,null,null
+1641,Kampong Cham,82,null,null
+1642,Carchi,56,null,null
+1643,Antsiranana,76,null,null
+1644,Amasya,13,null,null
+1645,MuAY,13,null,null
+1646,Nan,25,null,null
+1647,Pernik,98,null,null
+1648,ManawatuWanganui,90,null,null
+1649,Chimaltenango,111,null,null
+1650,BanskobystrickA,142,null,null
+1651,Kilis,13,null,null
+1652,Fier,118,null,null
+1653,Upper East,65,null,null
+1654,Zou,126,null,null
+1655,Kasserine,58,null,null
+1656,Abkhazia,104,null,null
+1657,BistriAeaNAüsAüud,70,null,null
+1658,Zomba,135,null,null
+1659,Atacora,126,null,null
+1660,Tasmania,34,null,null
+1661,Plateaux,83,null,null
+1662,BingAl,13,null,null
+1663,Al Karak,108,null,null
+1664,NabatAyAc,73,null,null
+1665,Prachin Buri,25,null,null
+1666,Haskovo,98,null,null
+1667,Orhon,120,null,null
+1668,PaysandA,79,null,null
+1669,Olt,70,null,null
+1670,Wyoming,2,null,null
+1671,Ceuta,27,null,null
+1672,VAsterbotten,95,null,null
+1673,BAcqaa,73,null,null
+1674,Upper West,65,null,null
+1675,Sikkim,4,null,null
+1676,HakkAcri,13,null,null
+1677,Kars,13,null,null
+1678,Kayes,80,null,null
+1679,Cojedes,49,null,null
+1680,Khammouan,127,null,null
+1681,Satakunta,101,null,null
+1682,Yaracuy,49,null,null
+1683,Uttaradit,25,null,null
+1684,Masvingo,78,null,null
+1685,Sakon Nakhon,25,null,null
+1686,Yevreyskaya Avtonomnaya Oblasta,12,null,null
+1687,Tamanrasset,40,null,null
+1688,Galway,109,null,null
+1689,NevAYehir,13,null,null
+1690,Kampong Chhnang,82,null,null
+1691,Inverclyde,18,null,null
+1692,VArmland,95,null,null
+1693,Prey Veng,82,null,null
+1694,Assaba,129,null,null
+1695,FarAh,43,null,null
+1696,Katavi,50,null,null
+1697,Telemark,123,null,null
+1698,CAülAüraAYi,70,null,null
+1699,El Valle,63,null,null
+1700,Lagunes,37,null,null
+1701,Cumbria,18,null,null
+1702,As SuwaydAa,53,null,null
+1703,Vratsa,98,null,null
+1704,Monastir,58,null,null
+1705,AankArA,13,null,null
+1706,Zadarska Aupanija,132,null,null
+1707,Salima,135,null,null
+1708,Mamou,81,null,null
+1709,Comayagua,113,null,null
+1710,Muyinga,147,null,null
+1711,Sara Buri,25,null,null
+1712,AZirvan,64,null,null
+1713,SAeo Vicente,167,null,null
+1714,Sankt Gallen,96,null,null
+1715,North Yorkshire,18,null,null
+1716,KomAromEsztergom,77,null,null
+1717,Kastamonu,13,null,null
+1718,YsykKAl,122,null,null
+1719,Lobatse,159,null,null
+1720,TrnavskA,142,null,null
+1721,TotonicapAn,111,null,null
+1722,PhA YAn,28,null,null
+1723,Kolda,55,null,null
+1724,Arauca,22,null,null
+1725,Vaslui,70,null,null
+1726,CaAar,56,null,null
+1727,Giurgiu,70,null,null
+1728,Basilicata,41,null,null
+1729,South Ayrshire,18,null,null
+1730,Tombouctou,80,null,null
+1731,GAvleborg,95,null,null
+1732,Narathiwat,25,null,null
+1733,Artemisa,62,null,null
+1734,Putrajaya,57,null,null
+1735,Samar,11,null,null
+1736,Garissa,48,null,null
+1737,El Bayadh,40,null,null
+1738,Lacs,37,null,null
+1739,Kasese,87,null,null
+1740,Jelgavas Novads,128,null,null
+1741,LAˇo Cai,28,null,null
+1742,Madre de Dios,19,null,null
+1743,Lobaye,124,null,null
+1744,NAlAt,60,null,null
+1745,Laacij,68,null,null
+1746,Burdur,13,null,null
+1747,Alba,70,null,null
+1748,Goa,4,null,null
+1749,Masaka,87,null,null
+1750,BAckAcs,77,null,null
+1751,Alta Verapaz,111,null,null
+1752,NorthWestern,92,null,null
+1753,AZEki,64,null,null
+1754,BadakhshAn,43,null,null
+1755,SuchitepAcquez,111,null,null
+1756,TakhAr,43,null,null
+1757,Zrenjanin,105,null,null
+1758,Perlis,57,null,null
+1759,VestAgder,123,null,null
+1760,Kanchanaburi,25,null,null
+1761,Samut Sakhon,25,null,null
+1762,Kakamega,48,null,null
+1763,Cahul,134,null,null
+1764,Kweneng,159,null,null
+1765,SAülaj,70,null,null
+1766,Ouham,124,null,null
+1767,Belize,193,null,null
+1768,Hiiraan,103,null,null
+1769,Bitlis,13,null,null
+1770,Tataouine,58,null,null
+1771,Surin,25,null,null
+1772,Singida,50,null,null
+1773,Drenthe,88,null,null
+1774,Ouaka,124,null,null
+1775,VeszprAcm,77,null,null
+1776,Madang,151,null,null
+1777,Zala,77,null,null
+1778,BAmyAn,43,null,null
+1779,MambAcrAcKadAcA,124,null,null
+1780,Mashonaland West,78,null,null
+1781,Azores,51,null,null
+1782,Faro,51,null,null
+1783,Mudug,103,null,null
+1784,Casanare,22,null,null
+1785,Nelson,90,null,null
+1786,Covasna,70,null,null
+1787,Kogi,16,null,null
+1788,Cascades,100,null,null
+1789,Zaire,31,null,null
+1790,LEnkEran,64,null,null
+1791,UAge,31,null,null
+1792,Altay,12,null,null
+1793,Nkhotakota,135,null,null
+1794,Kronoberg,95,null,null
+1795,BAcja,58,null,null
+1796,Ban Tre,28,null,null
+1797,EtelAKarjala,101,null,null
+1798,RAo Negro,8,null,null
+1799,ConcepciAn,72,null,null
+1800,Western Highlands,151,null,null
+1801,Kamphaeng Phet,25,null,null
+1802,Embu,48,null,null
+1803,Chaiyaphum,25,null,null
+1804,Zanzan,37,null,null
+1805,KorAsA,118,null,null
+1806,San AndrAcs y Providencia,22,null,null
+1807,KArklareli,13,null,null
+1808,Kavango East,152,null,null
+1809,Haei DAEAEng,28,null,null
+1810,"Tierra del Fuego, AntArtida e Islas del AtlAntico Sur",8,null,null
+1811,Hawkeas Bay,90,null,null
+1812,Lop Buri,25,null,null
+1813,Al Mafraq,108,null,null
+1814,Puntarenas,93,null,null
+1815,Mafeteng,146,null,null
+1816,Pohjanmaa,101,null,null
+1817,NotAo AigaAo,44,null,null
+1818,Adrar,40,null,null
+1819,Kitgum,87,null,null
+1820,SumalA,47,null,null
+1821,Heves,77,null,null
+1822,Izabal,111,null,null
+1823,NanaGrAcbizi,124,null,null
+1824,Penghu,24,null,null
+1825,Tiris Zemmour,129,null,null
+1826,Bungoma,48,null,null
+1827,Ba,161,null,null
+1828,Halland,95,null,null
+1829,Avora,51,null,null
+1830,Cerro Largo,79,null,null
+1831,Nakhon Phanom,25,null,null
+1832,ApurAmac,19,null,null
+1833,Kalasin,25,null,null
+1834,Murzuq,60,null,null
+1835,KarlovaAçka Aupanija,132,null,null
+1836,Chontales,116,null,null
+1837,Moquegua,19,null,null
+1838,Corsica,14,null,null
+1839,TacuarembA,79,null,null
+1840,Aveiro,51,null,null
+1841,VysoAçina,99,null,null
+1842,Bac Giang,28,null,null
+1843,Yevlax,64,null,null
+1844,ParwAn,43,null,null
+1845,Suphan Buri,25,null,null
+1846,PohjoisKarjala,101,null,null
+1847,Veliko Tarnovo,98,null,null
+1848,IalomiAea,70,null,null
+1849,Pursat,82,null,null
+1850,Troms,123,null,null
+1851,Naryn,122,null,null
+1852,Northland,90,null,null
+1853,UsulutAn,86,null,null
+1854,Maha Sarakham,25,null,null
+1855,Delta Amacuro,49,null,null
+1856,Jendouba,58,null,null
+1857,Woroba,37,null,null
+1858,Nyeri,48,null,null
+1859,Jinotega,116,null,null
+1860,Kyustendil,98,null,null
+1861,Molise,41,null,null
+1862,Jutiapa,111,null,null
+1863,Phetchabun,25,null,null
+1864,NordUbangi,21,null,null
+1865,MaaEAn,108,null,null
+1866,Banteay Meanchey,82,null,null
+1867,Kampot,82,null,null
+1868,Kayin State,36,null,null
+1869,Al WAdA al JadAd,10,null,null
+1870,Pemba South,50,null,null
+1871,DenguAclAc,37,null,null
+1872,NAmrAz,43,null,null
+1873,Dosso,117,null,null
+1874,Chachoengsao,25,null,null
+1875,Teleorman,70,null,null
+1876,Waterford,109,null,null
+1877,Southland,90,null,null
+1878,LArnaka,157,null,null
+1879,Norrbotten,95,null,null
+1880,Ilocos Sur,11,null,null
+1881,CuscatlAn,86,null,null
+1882,Kunaa?Y,43,null,null
+1883,Cibao Noroeste,63,null,null
+1884,MuAYla,13,null,null
+1885,Kef,58,null,null
+1886,Sabaragamuwa,158,null,null
+1887,San MartAn,19,null,null
+1888,Leribe,146,null,null
+1889,Uva,158,null,null
+1890,Buriram,25,null,null
+1891,KantaHAme,101,null,null
+1892,StereA EllAda,44,null,null
+1893,Meru,48,null,null
+1894,Trarza,129,null,null
+1895,Busia,87,null,null
+1896,Valle,113,null,null
+1897,Bari,103,null,null
+1898,East BerbiceCorentyne,153,null,null
+1899,Berat,118,null,null
+1900,Njombe,50,null,null
+1901,KeskiPohjanmaa,101,null,null
+1902,Northern Bahr el Ghazal,169,null,null
+1903,EtelASavo,101,null,null
+1904,Zeeland,88,null,null
+1905,JAmtland,95,null,null
+1906,Mahdia,58,null,null
+1907,Veraguas,94,null,null
+1908,Bong,110,null,null
+1909,Jalapa,111,null,null
+1910,AysAcn,26,null,null
+1911,Wajir,48,null,null
+1912,BasUAclAc,21,null,null
+1913,North Western,158,null,null
+1914,AnatolikA MakedonAa kai ThrAki,44,null,null
+1915,Guanacaste,93,null,null
+1916,SololA,111,null,null
+1917,Boucle du Mouhoun,100,null,null
+1918,Highland,18,null,null
+1919,Leiria,51,null,null
+1920,Iganga,87,null,null
+1921,ArunAchal Pradesh,4,null,null
+1922,Sisaket,25,null,null
+1923,Upper DemeraraBerbice,153,null,null
+1924,Kabale,87,null,null
+1925,Pando,66,null,null
+1926,Umm al Qaywayn,89,null,null
+1927,Huancavelica,19,null,null
+1928,Caribe Sur,116,null,null
+1929,PArnumaa,144,null,null
+1930,Herrera,94,null,null
+1931,Phatthalung,25,null,null
+1932,WoleuNtem,138,null,null
+1933,Caribe Norte,116,null,null
+1934,HautOgoouAc,138,null,null
+1935,Ventspils,128,null,null
+1936,Kabarole,87,null,null
+1937,Prince Edward Island,29,null,null
+1938,Soriano,79,null,null
+1939,Luapula,92,null,null
+1940,Lovech,98,null,null
+1941,Sidi Bouzid,58,null,null
+1942,Harghita,70,null,null
+1943,Lindi,50,null,null
+1944,Artigas,79,null,null
+1945,Chiquimula,111,null,null
+1946,Sankuru,21,null,null
+1947,Lunda Sul,31,null,null
+1948,Lavalleja,79,null,null
+1949,GuairA,72,null,null
+1950,Mityana,87,null,null
+1951,Cao Bang,28,null,null
+1952,Western Equatoria,169,null,null
+1953,Bilecik,13,null,null
+1954,OuhamPendAc,124,null,null
+1955,MaiNdombe,21,null,null
+1956,Ali Sabieh,115,null,null
+1957,CentreNord,100,null,null
+1958,Baja Verapaz,111,null,null
+1959,DamAn and Diu,4,null,null
+1960,Kgatleng,159,null,null
+1961,Eastern Highlands,151,null,null
+1962,Perth and Kinross,18,null,null
+1963,NAgrAd,77,null,null
+1964,Tozeur,58,null,null
+1965,SacatepAcquez,111,null,null
+1966,Roi Et,25,null,null
+1967,Houaphan,127,null,null
+1968,Louth,109,null,null
+1969,Phrae,25,null,null
+1970,IonAa NAsia,44,null,null
+1971,Ruyigi,147,null,null
+1972,HAˇ Giang,28,null,null
+1973,RAzeknes Novads,128,null,null
+1974,GraubAnden,96,null,null
+1975,Razgrad,98,null,null
+1976,CentreEst,100,null,null
+1977,Al BayaAa,68,null,null
+1978,Olancho,113,null,null
+1979,San Vicente,86,null,null
+1980,Shabwah,68,null,null
+1981,AˇibenskoKninska Aupanija,132,null,null
+1982,Rayong,25,null,null
+1983,DubrovaAçkoNeretvanska Aupanija,132,null,null
+1984,Retalhuleu,111,null,null
+1985,Dalarna,95,null,null
+1986,TuyAn Quang,28,null,null
+1987,Kent,18,null,null
+1988,Zacapa,111,null,null
+1989,PAfos,157,null,null
+1990,Beja,51,null,null
+1991,Uvs,120,null,null
+1992,Phichit,25,null,null
+1993,CopAn,113,null,null
+1994,GAyAsay,64,null,null
+1995,Loei,25,null,null
+1996,Blekinge,95,null,null
+1997,Talas,122,null,null
+1998,Samut Songkhram,25,null,null
+1999,Kalmar,95,null,null
+2000,BayanA?lgiy,120,null,null
+2001,Sinop,13,null,null
+2002,Lappi,101,null,null
+2003,Adjumani,87,null,null
+2004,NordOuest,69,null,null
+2005,Satun,25,null,null
+2006,BraganAsa,51,null,null
+2007,NanaMambAcrAc,124,null,null
+2008,Gisborne,90,null,null
+2009,Manyara,50,null,null
+2010,KAcmo,124,null,null
+2011,Karonga,135,null,null
+2012,Tolna,77,null,null
+2013,AhuachapAn,86,null,null
+2014,Nordland,123,null,null
+2015,Cuvette,91,null,null
+2016,Valle daAosta,41,null,null
+2017,Durazno,79,null,null
+2018,Margibi,110,null,null
+2019,Nueva Segovia,116,null,null
+2020,SudEst,69,null,null
+2021,Prachuap Khiri Khan,25,null,null
+2022,Castelo Branco,51,null,null
+2023,Dornod,120,null,null
+2024,Kwanza Sul,31,null,null
+2025,Kampong Speu,82,null,null
+2026,Tak,25,null,null
+2027,Koh Kong,82,null,null
+2028,Mbomou,124,null,null
+2029,Fribourg,96,null,null
+2030,Artvin,13,null,null
+2031,GAmAAYhane,13,null,null
+2032,Guarda,51,null,null
+2033,Tshuapa,21,null,null
+2034,Lakes,169,null,null
+2035,Rivas,116,null,null
+2036,Masindi,87,null,null
+2037,NeuchActel,96,null,null
+2038,Krabi,25,null,null
+2039,Kymenlaakso,101,null,null
+2040,Napo,56,null,null
+2041,Dumfries and Galloway,18,null,null
+2042,Diffa,117,null,null
+2043,GrandaAnse,69,null,null
+2044,AustAgder,123,null,null
+2045,Pallisa,87,null,null
+2046,BAnshangul Gumuz,47,null,null
+2047,Hovd,120,null,null
+2048,Salamat,112,null,null
+2049,Nebbi,87,null,null
+2050,Marlborough,90,null,null
+2051,KAhistoni Badakhshon,106,null,null
+2052,Westmoreland,114,null,null
+2053,BafatA,143,null,null
+2054,Stung Treng,82,null,null
+2055,Logone Oriental,112,null,null
+2056,Carazo,116,null,null
+2057,Erongo,152,null,null
+2058,Hedmark,123,null,null
+2059,SantarAcm,51,null,null
+2060,VoreAo AigaAo,44,null,null
+2061,Chalatenango,86,null,null
+2062,Bac Kan,28,null,null
+2063,Tunceli,13,null,null
+2064,Boaco,116,null,null
+2065,HauteKotto,124,null,null
+2066,PeloponnAsos,44,null,null
+2067,CoclAc,94,null,null
+2068,Kisii,48,null,null
+2069,AeembucA,72,null,null
+2070,Sangha,91,null,null
+2071,Bengo,31,null,null
+2072,A?vArhangay,120,null,null
+2073,NgouniAc,138,null,null
+2074,GuAcra,112,null,null
+2075,HAvsgAl,120,null,null
+2076,Treinta y Tres,79,null,null
+2077,JanAb SAnAa,10,null,null
+2078,SAdermanland,95,null,null
+2079,Al Mahrah,68,null,null
+2080,DAdra and Nagar Haveli,4,null,null
+2081,CabaAas,86,null,null
+2082,Siliana,58,null,null
+2083,Vorarlberg,59,null,null
+2084,Rocha,79,null,null
+2085,SanghaMbaAcrAc,124,null,null
+2086,La UniAn,86,null,null
+2087,Jonglei,169,null,null
+2088,Lofa,110,null,null
+2089,Pemba North,50,null,null
+2090,Kerry,109,null,null
+2091,Viseu,51,null,null
+2092,Bayanhongor,120,null,null
+2093,Southern Highlands,151,null,null
+2094,Grand Gedeh,110,null,null
+2095,Isla de la Juventud,62,null,null
+2096,AAe AcafAlah,108,null,null
+2097,Batha,112,null,null
+2098,MoyenOgoouAc,138,null,null
+2099,Hardap,152,null,null
+2100,East Sepik,151,null,null
+2101,San Marcos,111,null,null
+2102,Zambezi,152,null,null
+2103,Mohaleas Hoek,146,null,null
+2104,Pastaza,56,null,null
+2105,Marsabit,48,null,null
+2106,Otjozondjupa,152,null,null
+2107,Ranong,25,null,null
+2108,Lamu,48,null,null
+2109,Preah Vihear,82,null,null
+2110,GhAt,60,null,null
+2111,Fatick,55,null,null
+2112,Selenge,120,null,null
+2113,Quthing,146,null,null
+2114,SamangAn,43,null,null
+2115,Svay Rieng,82,null,null
+2116,Koulikoro,80,null,null
+2117,MoronaSantiago,56,null,null
+2118,Coast,50,null,null
+2119,QuichAc,111,null,null
+2120,GjirokastAr,118,null,null
+2121,Zug,96,null,null
+2122,Yukon,29,null,null
+2123,LAckoumou,91,null,null
+2124,Bouenza,91,null,null
+2125,Gotland,95,null,null
+2126,Moyo,87,null,null
+2127,Uthai Thani,25,null,null
+2128,Tadjourah,115,null,null
+2129,Guaviare,22,null,null
+2130,Nkhata Bay,135,null,null
+2131,Putumayo,22,null,null
+2132,Heredia,93,null,null
+2133,Nsanje,135,null,null
+2134,Colonia,79,null,null
+2135,Kayunga,87,null,null
+2136,Cordillera,72,null,null
+2137,Gegharkaunika,102,null,null
+2138,Nenetskiy Avtonomnyy Okrug,12,null,null
+2139,Yasothon,25,null,null
+2140,Trat,25,null,null
+2141,Kilkenny,109,null,null
+2142,Ngozi,147,null,null
+2143,Nakhon Nayok,25,null,null
+2144,Moxico,31,null,null
+2145,Phayao,25,null,null
+2146,Fermanagh and Omagh,18,null,null
+2147,Rutana,147,null,null
+2148,Likouala,91,null,null
+2149,Samburu,48,null,null
+2150,Orange Walk,193,null,null
+2151,Cornwall,18,null,null
+2152,Ararat,102,null,null
+2153,Bururi,147,null,null
+2154,Madriz,116,null,null
+2155,Viljandimaa,144,null,null
+2156,Sligo,109,null,null
+2157,Turkana,48,null,null
+2158,Sing Buri,25,null,null
+2159,Chin State,36,null,null
+2160,Tagant,129,null,null
+2161,Kratie,82,null,null
+2162,KAcbili,58,null,null
+2163,Arhangay,120,null,null
+2164,New Ireland,151,null,null
+2165,Canelones,79,null,null
+2166,Makamba,147,null,null
+2167,Oppland,123,null,null
+2168,Faranah,81,null,null
+2169,Kayanza,147,null,null
+2170,BasseKotto,124,null,null
+2171,TandjilAc,112,null,null
+2172,Nyanga,138,null,null
+2173,Mzimba,135,null,null
+2174,TillabAcri,117,null,null
+2175,Northwest Territories,29,null,null
+2176,SAEn La,28,null,null
+2177,Mubende,87,null,null
+2178,ParaguarA,72,null,null
+2179,Al Jufrah,60,null,null
+2180,West New Britain,151,null,null
+2181,Aragatsotn,102,null,null
+2182,LezhA,118,null,null
+2183,Lower River,180,null,null
+2184,MAre og Romsdal,123,null,null
+2185,Mchinji,135,null,null
+2186,Tindouf,40,null,null
+2187,KAcdougou,55,null,null
+2188,Muramvya,147,null,null
+2189,Karas,152,null,null
+2190,Kanem,112,null,null
+2191,KukAs,118,null,null
+2192,Obock,115,null,null
+2193,TAv,120,null,null
+2194,Quaeng TraE?,28,null,null
+2195,Baringo,48,null,null
+2196,Bulgan,120,null,null
+2197,LaghmAn,43,null,null
+2198,Kayah State,36,null,null
+2199,Jigawa,16,null,null
+2200,OgoouAcIvindo,138,null,null
+2201,VAsternorrland,95,null,null
+2202,Vila Real,51,null,null
+2203,Zaghouan,58,null,null
+2204,Maarib,68,null,null
+2205,Santa Rosa,111,null,null
+2206,Mulanje,135,null,null
+2207,Ntungamo,87,null,null
+2208,ButhaButhe,146,null,null
+2209,Omaheke,152,null,null
+2210,OgoouAcLolo,138,null,null
+2211,Xaignabouli,127,null,null
+2212,MorazAn,86,null,null
+2213,Nickerie,154,null,null
+2214,SAhbaatar,120,null,null
+2215,Presidente Hayes,72,null,null
+2216,Dedza,135,null,null
+2217,Portalegre,51,null,null
+2218,Viana do Castelo,51,null,null
+2219,Chai Nat,25,null,null
+2220,ZamoraChinchipe,56,null,null
+2221,Takeo,82,null,null
+2222,CentreSud,100,null,null
+2223,Santa BArbara,113,null,null
+2224,Paro,171,null,null
+2225,GhAr,43,null,null
+2226,Solothurn,96,null,null
+2227,DibAr,118,null,null
+2228,Hentiy,120,null,null
+2229,Kiboga,87,null,null
+2230,Matabeleland South,78,null,null
+2231,GabA,143,null,null
+2232,Portland,114,null,null
+2233,Upper River,180,null,null
+2234,Schwyz,96,null,null
+2235,Sironko,87,null,null
+2236,Lamphun,25,null,null
+2237,Muchinga,92,null,null
+2238,Pool,91,null,null
+2239,Ang Thong,25,null,null
+2240,Saint Ann,114,null,null
+2241,RAo San Juan,116,null,null
+2242,Chitipa,135,null,null
+2243,Borkou,112,null,null
+2244,Sanma,179,null,null
+2245,Burgenland,59,null,null
+2246,Kuando Kubango,31,null,null
+2247,Kumi,87,null,null
+2248,Kisoro,87,null,null
+2249,HautMbomou,124,null,null
+2250,BaselLandschaft,96,null,null
+2251,Kamuli,87,null,null
+2252,Bubanza,147,null,null
+2253,PlateauCentral,100,null,null
+2254,Gedo,103,null,null
+2255,Tovuz,64,null,null
+2256,Ohangwena,152,null,null
+2257,ZAbul,43,null,null
+2258,Dikhil,115,null,null
+2259,Lunda Norte,31,null,null
+2260,Grand Cape Mount,110,null,null
+2261,LAAnemaa,144,null,null
+2262,BaminguiBangoran,124,null,null
+2263,Milne Bay,151,null,null
+2264,CuyuniMazaruni,153,null,null
+2265,NordEst,69,null,null
+2266,Nimba,110,null,null
+2267,ArkhabAl SuquAerA,68,null,null
+2268,Los Santos,94,null,null
+2269,West Sepik,151,null,null
+2270,Mpigi,87,null,null
+2271,Wadi Fira,112,null,null
+2272,BolamaBijagAs,143,null,null
+2273,Stann Creek,193,null,null
+2274,Karuzi,147,null,null
+2275,Lakshadweep,4,null,null
+2276,CuvetteOuest,91,null,null
+2277,Cacheu,143,null,null
+2278,BoquerAn,72,null,null
+2279,Ntcheu,135,null,null
+2280,Sinoe,110,null,null
+2281,Chukotskiy Avtonomnyy Okrug,12,null,null
+2282,Sukhothai,25,null,null
+2283,Vichada,22,null,null
+2284,Vakaga,124,null,null
+2285,Cunene,31,null,null
+2286,West Coast,90,null,null
+2287,UruzgAn,43,null,null
+2288,Tombali,143,null,null
+2289,Bocas del Toro,94,null,null
+2290,Kgalagadi,159,null,null
+2291,Phangnga,25,null,null
+2292,Obwalden,96,null,null
+2293,Chimbu,151,null,null
+2294,San Pedro,72,null,null
+2295,Chobe,159,null,null
+2296,Mae Hong Son,25,null,null
+2297,GuainAa,22,null,null
+2298,MontLiban,73,null,null
+2299,Mokhotlong,146,null,null
+2300,Ocotepeque,113,null,null
+2301,DornogovA?,120,null,null
+2302,Corozal,193,null,null
+2303,Uri,96,null,null
+2304,GEdEbEy,64,null,null
+2305,Bioko Sur,163,null,null
+2306,Orkney Islands,18,null,null
+2307,Centro Sur,163,null,null
+2308,Katakwi,87,null,null
+2309,Brakna,129,null,null
+2310,Brokopondo,154,null,null
+2311,Vayotsa Dzor,102,null,null
+2312,Kwanza Norte,31,null,null
+2313,Dzavhan,120,null,null
+2314,Illizi,40,null,null
+2315,Mondolkiri,82,null,null
+2316,Lempira,113,null,null
+2317,Saint Mary,114,null,null
+2318,Trelawny,114,null,null
+2319,Toledo,193,null,null
+2320,Unity,169,null,null
+2321,Islas de la BahAa,113,null,null
+2322,Nidwalden,96,null,null
+2323,KApAsA,43,null,null
+2324,Goranboy,64,null,null
+2325,SjAlland,107,null,null
+2326,Nakasongola,87,null,null
+2327,OAYuz,64,null,null
+2328,Oio,143,null,null
+2329,Davao del Norte,11,null,null
+2330,Shetland Islands,18,null,null
+2331,Cankuzo,147,null,null
+2332,WeleNzas,163,null,null
+2333,BokAo,127,null,null
+2334,Ghanzi,159,null,null
+2335,Hanover,114,null,null
+2336,Diekirch,170,null,null
+2337,Lubombo,172,null,null
+2338,Nunavut,29,null,null
+2339,Kirundo,147,null,null
+2340,GalApagos,56,null,null
+2341,PhAngsali,127,null,null
+2342,Monaghan,109,null,null
+2343,VaupAcs,22,null,null
+2344,Manus,151,null,null
+2345,Glarus,96,null,null
+2346,Appenzell Innerrhoden,96,null,null
+2347,Gulf,151,null,null
+2348,Salavan,127,null,null
+2349,CaazapA,72,null,null
+2350,IntibucA,113,null,null
+2351,Qeqqata,213,null,null
+2352,Kibaale,87,null,null
+2353,Kalangala,87,null,null
+2354,Finnmark,123,null,null
+2355,Berea,146,null,null
+2356,Wangdue Phodrang,171,null,null
+2357,Punakha,171,null,null
+2358,Commewijne,154,null,null
+2359,Roscommon,109,null,null
+2360,Kunene,152,null,null
+2361,Gracias a Dios,113,null,null
+2362,Al QunayAeirah,53,null,null
+2363,Attapu,127,null,null
+2364,Saint Elizabeth,114,null,null
+2365,Grevenmacher,170,null,null
+2366,Enga,151,null,null
+2367,Central River,180,null,null
+2368,Kaberamaido,87,null,null
+2369,Lac,112,null,null
+2370,Louangnamtha,127,null,null
+2371,Kujalleq,213,null,null
+2372,Saramacca,154,null,null
+2373,BAdghAs,43,null,null
+2374,DundgovA?,120,null,null
+2375,BarimaWaini,153,null,null
+2376,North Bank,180,null,null
+2377,Grand Kru,110,null,null
+2378,River Cess,110,null,null
+2379,Nugaal,103,null,null
+2380,Alto Paraguay,72,null,null
+2381,El ParaAso,113,null,null
+2382,Para,154,null,null
+2383,Shabeellaha Hoose,103,null,null
+2384,DariAcn,94,null,null
+2385,Al Jabal al Akhaar,60,null,null
+2386,Coronie,154,null,null
+2387,Bakool,103,null,null
+2388,Chiradzulu,135,null,null
+2389,Geita,50,null,null
+2390,Jubbada Dhexe,103,null,null
+2391,Hodh el Gharbi,129,null,null
+2392,Machinga,135,null,null
+2393,Kaabong,87,null,null
+2394,Soroti,87,null,null
+2395,Temotu,174,null,null
+2396,Guidimaka,129,null,null
+2397,EnnediOuest,112,null,null
+2398,Galguduud,103,null,null
+2399,Moroto,87,null,null
+2400,Inchiri,129,null,null
+2401,Upper TakutuUpper Essequibo,153,null,null
+2402,Chatham Islands,90,null,null
+2403,Kwango,21,null,null
+2404,Misamis Oriental,11,null,null
+2405,Kuna Yala,94,null,null
+2406,Rizal,11,null,null
+2407,Navotas,11,null,null
+2408,Mandaluyong,11,null,null
+2409,Mandaue,11,null,null
+2410,Pasig,11,null,null
+2411,New Taipei,24,null,null
+2412,Caloocan,11,null,null
+2413,Valenzuela,11,null,null
+2414,ParaAaque,11,null,null
+2415,Lucena,11,null,null
+2416,Masbate,11,null,null
+2417,Hackney,18,null,null
+2418,Surigao del Sur,11,null,null
+2419,Camden,18,null,null
+2420,Islington,18,null,null
+2421,Kensington and Chelsea,18,null,null
+2422,Malabon,11,null,null
+2423,Hammersmith and Fulham,18,null,null
+2424,Newham,18,null,null
+2425,Southwark,18,null,null
+2426,Waltham Forest,18,null,null
+2427,AêAˇ NaÊng,28,null,null
+2428,Northern Samar,11,null,null
+2429,Westminster,18,null,null
+2430,Lambeth,18,null,null
+2431,Lewisham,18,null,null
+2432,Benguet,11,null,null
+2433,Lanao del Sur,11,null,null
+2434,Taguig,11,null,null
+2435,Northamptonshire,18,null,null
+2436,Sliema,145,null,null
+2437,LapuLapu,11,null,null
+2438,Ealing,18,null,null
+2439,Tower Hamlets,18,null,null
+2440,Bataan,11,null,null
+2441,Santiago,11,null,null
+2442,Negros Oriental,11,null,null
+2443,Marikina,11,null,null
+2444,Sorsogon,11,null,null
+2445,Aklan,11,null,null
+2446,Redbridge,18,null,null
+2447,Wandsworth,18,null,null
+2448,Fgura,145,null,null
+2449,Birkirkara,145,null,null
+2450,Haringey,18,null,null
+2451,Aamrun,145,null,null
+2452,Koboko,87,null,null
+2453,Enfield,18,null,null
+2454,Nouakchott Sud,129,null,null
+2455,Antique,11,null,null
+2456,Darlington,18,null,null
+2457,Camarines Norte,11,null,null
+2458,Catanduanes,11,null,null
+2459,Isla,145,null,null
+2460,South Tyneside,18,null,null
+2461,Medway,18,null,null
+2462,Bac Ninh,28,null,null
+2463,Nueva Vizcaya,11,null,null
+2464,Tarxien,145,null,null
+2465,Sulu,11,null,null
+2466,TawiTawi,11,null,null
+2467,Piran,148,null,null
+2468,Merton,18,null,null
+2469,Barnsley,18,null,null
+2470,Ben Arous,58,null,null
+2471,Floriana,145,null,null
+2472,Thurrock,18,null,null
+2473,Imsida,145,null,null
+2474,Brent,18,null,null
+2475,North Somerset,18,null,null
+2476,Nouakchott Ouest,129,null,null
+2477,Santa Venera,145,null,null
+2478,Tameside,18,null,null
+2479,PietAˇ,145,null,null
+2480,Taa Xbiex,145,null,null
+2481,Isle of Wight,18,null,null
+2482,Croydon,18,null,null
+2483,"Vale of Glamorgan, The",18,null,null
+2484,Trafford,18,null,null
+2485,Kingston upon Thames,18,null,null
+2486,Barnet,18,null,null
+2487,Sutton,18,null,null
+2488,Doncaster,18,null,null
+2489,Havering,18,null,null
+2490,GAira,145,null,null
+2491,Oriental Mindoro,11,null,null
+2492,Manouba,58,null,null
+2493,Muntinlupa,11,null,null
+2494,Worcestershire,18,null,null
+2495,Stockport,18,null,null
+2496,Renfrewshire,18,null,null
+2497,Uppsala,95,null,null
+2498,Hillingdon,18,null,null
+2499,Shropshire,18,null,null
+2500,Davao del Sur,11,null,null
+2501,Lincolnshire,18,null,null
+2502,BAcni MellalKhAcnifra,45,null,null
+2503,HAEng YAn,28,null,null
+2504,Wirral,18,null,null
+2505,Oldham,18,null,null
+2506,Richmond upon Thames,18,null,null
+2507,Lancashire,18,null,null
+2508,Harrow,18,null,null
+2509,Rotherham,18,null,null
+2510,Dorset,18,null,null
+2511,San Aˇwann,145,null,null
+2512,Newport,18,null,null
+2513,Neath Port Talbot,18,null,null
+2514,Rumphi,135,null,null
+2515,Derby,18,null,null
+2516,Makati,11,null,null
+2517,Sultan Kudarat,11,null,null
+2518,Hounslow,18,null,null
+2519,Torfaen,18,null,null
+2520,Angus,18,null,null
+2521,Flores,79,null,null
+2522,Cavite,11,null,null
+2523,Marinduque,11,null,null
+2524,San Aˇiljan,145,null,null
+2525,Lanao del Norte,11,null,null
+2526,Occidental Mindoro,11,null,null
+2527,Khenchela,40,null,null
+2528,Halton,18,null,null
+2529,Somerset,18,null,null
+2530,DAn LaoghaireRathdown,109,null,null
+2531,Dudley,18,null,null
+2532,Compostela Valley,11,null,null
+2533,Bugiri,87,null,null
+2534,Wigan,18,null,null
+2535,Davao Occidental,11,null,null
+2536,Herefordshire,18,null,null
+2537,GambAla Hizboch,47,null,null
+2538,Southern Leyte,11,null,null
+2539,Fife,18,null,null
+2540,Rochdale,18,null,null
+2541,Birgu,145,null,null
+2542,AbAYeron,64,null,null
+2543,Chiba,1,null,null
+2544,Buckinghamshire,18,null,null
+2545,Balzan,145,null,null
+2546,Wokingham,18,null,null
+2547,Abra,11,null,null
+2548,"Krym, Avtonomna Respublika",54,null,null
+2549,South Gloucestershire,18,null,null
+2550,Bracknell Forest,18,null,null
+2551,Wiltshire,18,null,null
+2552,Northumberland,18,null,null
+2553,Milton Keynes,18,null,null
+2554,PanamA Oeste,94,null,null
+2555,Carmarthenshire,18,null,null
+2556,Camiguin,11,null,null
+2557,Gloucestershire,18,null,null
+2558,Kitui,48,null,null
+2559,West Berkshire,18,null,null
+2560,Qormi,145,null,null
+2561,Midlothian,18,null,null
+2562,Biliran,11,null,null
+2563,Ards and North Down,18,null,null
+2564,North Lincolnshire,18,null,null
+2565,Essex,18,null,null
+2566,North Lanarkshire,18,null,null
+2567,Zamboanga del Norte,11,null,null
+2568,Kampong Thom,82,null,null
+2569,Balaka,135,null,null
+2570,Mosta,145,null,null
+2571,Hartlepool,18,null,null
+2572,Kapchorwa,87,null,null
+2573,La Union,11,null,null
+2574,Arima,150,null,null
+2575,Warrington,18,null,null
+2576,Merthyr Tydfil,18,null,null
+2577,Salford,18,null,null
+2578,Hertfordshire,18,null,null
+2579,Koper,148,null,null
+2580,AEabbar,145,null,null
+2581,Gwynedd,18,null,null
+2582,Walsall,18,null,null
+2583,Al Wakrah,84,null,null
+2584,South Dublin,109,null,null
+2585,Swieqi,145,null,null
+2586,Mid and East Antrim,18,null,null
+2587,Aˇkofja Loka,148,null,null
+2588,Pembrokeshire,18,null,null
+2589,Zambales,11,null,null
+2590,Wrexham,18,null,null
+2591,Mid Ulster,18,null,null
+2592,Bundibugyo,87,null,null
+2593,Kandal,82,null,null
+2594,Yoro,113,null,null
+2595,Bulacan,11,null,null
+2596,Boumerdes,40,null,null
+2597,DomAale,148,null,null
+2598,Kraljevo,105,null,null
+2599,Pangasinan,11,null,null
+2600,Lisburn and Castlereagh,18,null,null
+2601,Ratanakiri,82,null,null
+2602,Bridgend,18,null,null
+2603,HAˇ Nam,28,null,null
+2604,Wicklow,109,null,null
+2605,Kalkara,145,null,null
+2606,Bormla,145,null,null
+2607,Thyolo,135,null,null
+2608,"Newry, Mourne and Down",18,null,null
+2609,Romblon,11,null,null
+2610,Barking and Dagenham,18,null,null
+2611,Ravne na KoroAkem,148,null,null
+2612,Tipperary,109,null,null
+2613,Leskovac,105,null,null
+2614,BaalbekHermel,73,null,null
+2615,Wexford,109,null,null
+2616,Bromley,18,null,null
+2617,Marsaskala,145,null,null
+2618,Isiolo,48,null,null
+2619,UAice,105,null,null
+2620,Sarangani,11,null,null
+2621,West Dunbartonshire,18,null,null
+2622,Antrim and Newtownabbey,18,null,null
+2623,EschsurAlzette,170,null,null
+2624,Lija,145,null,null
+2625,Rabat (Ghawdex),145,null,null
+2626,Wakefield,18,null,null
+2627,Izola,148,null,null
+2628,Simiyu,50,null,null
+2629,Hoima,87,null,null
+2630,Aurora,11,null,null
+2631,Kirklees,18,null,null
+2632,AEejtun,145,null,null
+2633,Velenje,148,null,null
+2634,Staffordshire,18,null,null
+2635,Clare,109,null,null
+2636,Poole,18,null,null
+2637,Homa Bay,48,null,null
+2638,Jagodina,105,null,null
+2639,Mukono,87,null,null
+2640,Mashonaland Central,78,null,null
+2641,Oshana,152,null,null
+2642,Mandera,48,null,null
+2643,Bexley,18,null,null
+2644,Gateshead,18,null,null
+2645,Calderdale,18,null,null
+2646,Migori,48,null,null
+2647,Kildare,109,null,null
+2648,Kirinyaga,48,null,null
+2649,Siquijor,11,null,null
+2650,Yumbe,87,null,null
+2651,Fontana,145,null,null
+2652,Paola,145,null,null
+2653,Sihanoukville,82,null,null
+2654,"Armagh, Banbridge and Craigavon",18,null,null
+2655,Grand Bassa,110,null,null
+2656,XgAsajra,145,null,null
+2657,Iklin,145,null,null
+2658,Clackmannanshire,18,null,null
+2659,Slovenske Konjice,148,null,null
+2660,Vranje,105,null,null
+2661,West Sussex,18,null,null
+2662,VAcnh PhAc,28,null,null
+2663,Nouakchott Nord,129,null,null
+2664,Eastern Samar,11,null,null
+2665,ElgeyoMarakwet,48,null,null
+2666,Stirling,18,null,null
+2667,Al MaacwAt,68,null,null
+2668,MeAica,148,null,null
+2669,Phalombe,135,null,null
+2670,Monmouthshire,18,null,null
+2671,Nyamira,48,null,null
+2672,Aargau,96,null,null
+2673,Blackburn with Darwen,18,null,null
+2674,Valjevo,105,null,null
+2675,North Tyneside,18,null,null
+2676,Moray,18,null,null
+2677,Flintshire,18,null,null
+2678,Fingal,109,null,null
+2679,Malaita,174,null,null
+2680,Celje,148,null,null
+2681,Kirkop,145,null,null
+2682,Meath,109,null,null
+2683,Isles of Scilly,18,null,null
+2684,Nandi,48,null,null
+2685,Pembroke,145,null,null
+2686,Aˇabac,105,null,null
+2687,Bolton,18,null,null
+2688,Tasman,90,null,null
+2689,Makira and Ulawa,174,null,null
+2690,Kamnik,148,null,null
+2691,Baucau,155,null,null
+2692,Radlje ob Dravi,148,null,null
+2693,Leitrim,109,null,null
+2694,Attard,145,null,null
+2695,Solihull,18,null,null
+2696,"Scottish Borders, The",18,null,null
+2697,Rhondda Cynon Taff,18,null,null
+2698,Chaguanas,150,null,null
+2699,Raplamaa,144,null,null
+2700,Marsa,145,null,null
+2701,Offaly,109,null,null
+2702,Basilan,11,null,null
+2703,Valmiera,128,null,null
+2704,Kranj,148,null,null
+2705,MohAcli,166,null,null
+2706,Causeway Coast and Glens,18,null,null
+2707,Conwy,18,null,null
+2708,Pampanga,11,null,null
+2709,Grosuplje,148,null,null
+2710,Murangaa,48,null,null
+2711,Bududa,87,null,null
+2712,Ifugao,11,null,null
+2713,aEAjmAn,89,null,null
+2714,GAsargAsur,145,null,null
+2715,LAAneVirumaa,144,null,null
+2716,Alytaus Miestas,140,null,null
+2717,AEebbuA,145,null,null
+2718,Zagorje ob Savi,148,null,null
+2719,Carlow,109,null,null
+2720,Slovenj Gradec,148,null,null
+2721,Bomet,48,null,null
+2722,Gudja,145,null,null
+2723,Dravograd,148,null,null
+2724,Essequibo IslandsWest Demerara,153,null,null
+2725,EscaldesEngordany,177,null,null
+2726,JAÊgevamaa,144,null,null
+2727,Gornji Milanovac,105,null,null
+2728,Relizane,40,null,null
+2729,Aalec,148,null,null
+2730,Denbighshire,18,null,null
+2731,Nara,1,null,null
+2732,Bukidnon,11,null,null
+2733,Litija,148,null,null
+2734,Bajina BaAta,105,null,null
+2735,Imqabba,145,null,null
+2736,Wolverhampton,18,null,null
+2737,San Pawl ilBaAsar,145,null,null
+2738,Westmeath,109,null,null
+2739,KrAko,148,null,null
+2740,Jesenice,148,null,null
+2741,Radovljica,148,null,null
+2742,Marsaxlokk,145,null,null
+2743,Prevalje,148,null,null
+2744,Omusati,152,null,null
+2745,Saaremaa,144,null,null
+2746,Choiseul,174,null,null
+2747,DytikA MakedonAa,44,null,null
+2748,GAsaxaq,145,null,null
+2749,BirAebbuAa,145,null,null
+2750,AEurrieq,145,null,null
+2751,Naxxar,145,null,null
+2752,SopiAte,141,null,null
+2753,Trbovlje,148,null,null
+2754,JAkabpils Novads,128,null,null
+2755,Longford,109,null,null
+2756,Schaffhausen,96,null,null
+2757,Ar RayyAn,84,null,null
+2758,IvanAçna Gorica,148,null,null
+2759,Bury,18,null,null
+2760,RogaAka Slatina,148,null,null
+2761,Lyantonde,87,null,null
+2762,East Renfrewshire,18,null,null
+2763,Zamboanga Sibugay,11,null,null
+2764,AAn Temouchent,40,null,null
+2765,Serravalle,188,null,null
+2766,VAÊrumaa,144,null,null
+2767,aEAmrAn,68,null,null
+2768,AakkAcr,73,null,null
+2769,Mashonaland East,78,null,null
+2770,Mayo,109,null,null
+2771,PAÊlvamaa,144,null,null
+2772,LaAko,148,null,null
+2773,Bedford,18,null,null
+2774,Bender,134,null,null
+2775,Chikwawa,135,null,null
+2776,Rutland,18,null,null
+2777,Isabela,11,null,null
+2778,DunaAjvAros,77,null,null
+2779,Kasungu,135,null,null
+2780,Safi,145,null,null
+2781,Labuan,57,null,null
+2782,Yalova,13,null,null
+2783,PoAega,105,null,null
+2784,Sandwell,18,null,null
+2785,West Lothian,18,null,null
+2786,RuAe,148,null,null
+2787,Imtarfa,145,null,null
+2788,SAeo Salvador do Mundo,167,null,null
+2789,Warwickshire,18,null,null
+2790,KerA?em,145,null,null
+2791,Cavan,109,null,null
+2792,A?land,101,null,null
+2793,Nova Gorica,148,null,null
+2794,Airovnica,148,null,null
+2795,Ribeira Grande,167,null,null
+2796,Taranaki,90,null,null
+2797,Krupanj,105,null,null
+2798,Lebane,105,null,null
+2799,Aˇtore,148,null,null
+2800,Siaya,48,null,null
+2801,Aleksinac,105,null,null
+2802,Cerklje na Gorenjskem,148,null,null
+2803,Bujumbura Rural,147,null,null
+2804,AˇoAtanj,148,null,null
+2805,Aêian BiAn,28,null,null
+2806,Luqa,145,null,null
+2807,Tobago,150,null,null
+2808,Diego Martin,150,null,null
+2809,VladiAçin Han,105,null,null
+2810,KnjaAevac,105,null,null
+2811,Batanes,11,null,null
+2812,Murska Sobota,148,null,null
+2813,Ljubovija,105,null,null
+2814,Slovenska Bistrica,148,null,null
+2815,Smederevska Palanka,105,null,null
+2816,Qrendi,145,null,null
+2817,Gornja Radgona,148,null,null
+2818,KarlovarskA Kraj,99,null,null
+2819,Zanzibar North,50,null,null
+2820,Mali Zvornik,105,null,null
+2821,Point Fortin,150,null,null
+2822,Novo Mesto,148,null,null
+2823,DarhanUul,120,null,null
+2824,JArvamaa,144,null,null
+2825,Surdulica,105,null,null
+2826,PoAarevac,105,null,null
+2827,Mayuge,87,null,null
+2828,Durham,18,null,null
+2829,VaraAdinska Aupanija,132,null,null
+2830,Ptuj,148,null,null
+2831,Powys,18,null,null
+2832,Maguindanao,11,null,null
+2833,Nitriansky,142,null,null
+2834,Ermera,155,null,null
+2835,ZajeAçar,105,null,null
+2836,Isle of Anglesey,18,null,null
+2837,Aˇentjur,148,null,null
+2838,Al Khawr wa adh DhakhArah,84,null,null
+2839,Eilean Siar,18,null,null
+2840,Dowa,135,null,null
+2841,Laois,109,null,null
+2842,Bobonaro,155,null,null
+2843,AAn Defla,40,null,null
+2844,MaadabA,108,null,null
+2845,Eastern Province,121,null,null
+2846,Quirino,11,null,null
+2847,Prebold,148,null,null
+2848,MiklavA na Dravskem Polju,148,null,null
+2849,Guimaras,11,null,null
+2850,San JuanLaventille,150,null,null
+2851,AˇempeterVrtojba,148,null,null
+2852,Mozirje,148,null,null
+2853,Aˇmartno ob Paki,148,null,null
+2854,Rumonge,147,null,null
+2855,TrenAçiansky,142,null,null
+2856,Trebnje,148,null,null
+2857,Bor,105,null,null
+2858,Yambol,98,null,null
+2859,Loznica,105,null,null
+2860,ParaAin,105,null,null
+2861,TrAiAç,148,null,null
+2862,JArmala,128,null,null
+2863,Bulambuli,87,null,null
+2864,Borgo Maggiore,188,null,null
+2865,Maracha,87,null,null
+2866,Luwero,87,null,null
+2867,West Pokot,48,null,null
+2868,Jarash,108,null,null
+2869,Polzela,148,null,null
+2870,Bayelsa,16,null,null
+2871,Lienchiang,24,null,null
+2872,Hiiumaa,144,null,null
+2873,Namayingo,87,null,null
+2874,Xewkija,145,null,null
+2875,Caerphilly,18,null,null
+2876,Selibe Phikwe,159,null,null
+2877,KiAçevo,141,null,null
+2878,LuAçani,105,null,null
+2879,Knowsley,18,null,null
+2880,Valgamaa,144,null,null
+2881,BreAice,148,null,null
+2882,Tbong Khmum,82,null,null
+2883,GAsasri,145,null,null
+2884,KoAçevje,148,null,null
+2885,Smederevo,105,null,null
+2886,BAnh PhAEaE?c,28,null,null
+2887,KruAevac,105,null,null
+2888,Hrastnik,148,null,null
+2889,Mila,40,null,null
+2890,Al BuraymA,130,null,null
+2891,Hunedoara,70,null,null
+2892,Mountain,11,null,null
+2893,Luuka,87,null,null
+2894,Dingli,145,null,null
+2895,Apayao,11,null,null
+2896,Ankaran,148,null,null
+2897,Lendava,148,null,null
+2898,Ha?u Giang,28,null,null
+2899,HoAçeSlivnica,148,null,null
+2900,Selnica ob Dravi,148,null,null
+2901,Despotovac,105,null,null
+2902,Chuuk,196,null,null
+2903,Mauren,184,null,null
+2904,Kinmen,24,null,null
+2905,Aˇmartno pri Litiji,148,null,null
+2906,Saga,1,null,null
+2907,MamushA,201,null,null
+2908,LiquiAsA,155,null,null
+2909,Ingushetiya,12,null,null
+2910,Osmaniye,13,null,null
+2911,Cibitoke,147,null,null
+2912,Belait,149,null,null
+2913,Kibuku,87,null,null
+2914,XagAsra,145,null,null
+2915,Lenart,148,null,null
+2916,Lai ChAcu,28,null,null
+2917,Manatuto,155,null,null
+2918,Neno,135,null,null
+2919,MoravAçe,148,null,null
+2920,Apac,87,null,null
+2921,Imdina,145,null,null
+2922,"Sevastopola, Misto",54,null,null
+2923,Kladovo,105,null,null
+2924,Jura,96,null,null
+2925,DAzce,13,null,null
+2926,Kanal,148,null,null
+2927,NiederAsterreich,59,null,null
+2928,Mwaro,147,null,null
+2929,Nadur,145,null,null
+2930,Nazarje,148,null,null
+2931,MengeA,148,null,null
+2932,PanAçevo,105,null,null
+2933,Brezovica,148,null,null
+2934,ZreAçe,148,null,null
+2935,Preddvor,148,null,null
+2936,Rubirizi,87,null,null
+2937,Vuzenica,148,null,null
+2938,Munxar,145,null,null
+2939,Vrhnika,148,null,null
+2940,Pirot,105,null,null
+2941,Domagnano,188,null,null
+2942,Greenwich,18,null,null
+2943,Sevnica,148,null,null
+2944,PoljAçane,148,null,null
+2945,Vlasotince,105,null,null
+2946,Agusan del Sur,11,null,null
+2947,Zanzibar CentralSouth,50,null,null
+2948,Airi,148,null,null
+2949,Aˇmarje pri JelAah,148,null,null
+2950,Komenda,148,null,null
+2951,Metlika,148,null,null
+2952,Tipaza,40,null,null
+2953,Sannat,145,null,null
+2954,Vojnik,148,null,null
+2955,Medvode,148,null,null
+2956,Orellana,56,null,null
+2957,Aˇkofljica,148,null,null
+2958,Remich,170,null,null
+2959,Isabel,174,null,null
+2960,Agusan del Norte,11,null,null
+2961,Buikwe,87,null,null
+2962,Muta,148,null,null
+2963,Radenci,148,null,null
+2964,Eschen,184,null,null
+2965,Yap,196,null,null
+2966,NovobArdA,201,null,null
+2967,GraAsanicA,201,null,null
+2968,Bled,148,null,null
+2969,Duplek,148,null,null
+2970,Trstenik,105,null,null
+2971,Bushenyi,87,null,null
+2972,Schellenberg,184,null,null
+2973,Acquaviva,188,null,null
+2974,SiAAiewi,145,null,null
+2975,Rabat,145,null,null
+2976,South Lanarkshire,18,null,null
+2977,Borovnica,148,null,null
+2978,Kaliro,87,null,null
+2979,TunapunaPiarco,150,null,null
+2980,Ljutomer,148,null,null
+2981,AraAçinovo,141,null,null
+2982,Idrija,148,null,null
+2983,LogDragomer,148,null,null
+2984,Naklo,148,null,null
+2985,Prokuplje,105,null,null
+2986,Tissemsilt,40,null,null
+2987,BatoAçina,105,null,null
+2988,Abyan,68,null,null
+2989,MellieAsa,145,null,null
+2990,Sopron,77,null,null
+2991,Umm AZalAl,84,null,null
+2992,Al BAacah,35,null,null
+2993,VrnjaAçka Banja,105,null,null
+2994,Aileu,155,null,null
+2995,Oplotnica,148,null,null
+2996,Fiorentino,188,null,null
+2997,Namutumba,87,null,null
+2998,Vestfold,123,null,null
+2999,PenalDebe,150,null,null
+3000,SaintLouis,55,null,null
+3001,Nippes,69,null,null
+3002,OrmoA,148,null,null
+3003,Couffo,126,null,null
+3004,Ebonyi,16,null,null
+3005,Manafwa,87,null,null
+3006,Dimitrovgrad,105,null,null
+3007,MeAimurska Aupanija,132,null,null
+3008,AˇenAçur,148,null,null
+3009,Ibanda,87,null,null
+3010,Mirna,148,null,null
+3011,RaAçeFram,148,null,null
+3012,Flevoland,88,null,null
+3013,ACErnomelj,148,null,null
+3014,Makueni,48,null,null
+3015,Ferizaj,201,null,null
+3016,TaitaTaveta,48,null,null
+3017,Vitanje,148,null,null
+3018,Sremski Karlovci,105,null,null
+3019,Doljevac,105,null,null
+3020,Rukungiri,87,null,null
+3021,GAsajnsielem,145,null,null
+3022,Donegal,109,null,null
+3023,East Sussex,18,null,null
+3024,Tafea,179,null,null
+3025,KoprivniAçkoKriAevaAçka Aupanija,132,null,null
+3026,Windsor and Maidenhead,18,null,null
+3027,Butambala,87,null,null
+3028,KanjiAa,105,null,null
+3029,Aˇentjernej,148,null,null
+3030,AnnobAn,163,null,null
+3031,Santo Domingo de los TsAchilas,56,null,null
+3032,KhAst,43,null,null
+3033,Kyenjojo,87,null,null
+3034,Central Bedfordshire,18,null,null
+3035,aEAjlAn,108,null,null
+3036,Velika Plana,105,null,null
+3037,AzIs ZIsaaEAyin,84,null,null
+3038,Qala,145,null,null
+3039,Prizren,201,null,null
+3040,Raymah,68,null,null
+3041,Montegiardino,188,null,null
+3042,Mitooma,87,null,null
+3043,Blaenau Gwent,18,null,null
+3044,Nagykanizsa,77,null,null
+3045,Kalungu,87,null,null
+3046,Brvenica,141,null,null
+3047,Svilajnac,105,null,null
+3048,Ainaro,155,null,null
+3049,VukovarskoSrijemska Aupanija,132,null,null
+3050,AdIs DIsAliaE,68,null,null
+3051,Santa LuA?ija,145,null,null
+3052,Slough,18,null,null
+3053,MajAperk,148,null,null
+3054,Sefton,18,null,null
+3055,Bukomansimbi,87,null,null
+3056,Svrljig,105,null,null
+3057,Horjul,148,null,null
+3058,Postojna,148,null,null
+3059,LuAçe,148,null,null
+3060,Hajdina,148,null,null
+3061,Aˇid,105,null,null
+3062,Negotin,105,null,null
+3063,North East Lincolnshire,18,null,null
+3064,Kajiado,48,null,null
+3065,Telford and Wrekin,18,null,null
+3066,Tana River,48,null,null
+3067,Gorje,148,null,null
+3068,Pivka,148,null,null
+3069,BraslovAçe,148,null,null
+3070,MasallA,64,null,null
+3071,Butaleja,87,null,null
+3072,SamegreloZemo Svaneti,104,null,null
+3073,Tarrafal,167,null,null
+3074,Tivat,165,null,null
+3075,Lovrenc na Pohorju,148,null,null
+3076,Ruggell,184,null,null
+3077,Pesnica,148,null,null
+3078,Serere,87,null,null
+3079,Cerknica,148,null,null
+3080,Amuria,87,null,null
+3081,Gamprin,184,null,null
+3082,Bojnik,105,null,null
+3083,Sheema,87,null,null
+3084,Capellen,170,null,null
+3085,Vodice,148,null,null
+3086,Bukedea,87,null,null
+3087,Dobrna,148,null,null
+3088,Nakaseke,87,null,null
+3089,El Tarf,40,null,null
+3090,Oddar Meanchey,82,null,null
+3091,Wiltz,170,null,null
+3092,Kween,87,null,null
+3093,Aˇentilj,148,null,null
+3094,Gorgol,129,null,null
+3095,Vransko,148,null,null
+3096,VrAac,105,null,null
+3097,Aˇentrupert,148,null,null
+3098,Odranci,148,null,null
+3099,Davao Oriental,11,null,null
+3100,Nyandarua,48,null,null
+3101,Logatec,148,null,null
+3102,Kole,87,null,null
+3103,CouvaTabaquiteTalparo,150,null,null
+3104,Partesh,201,null,null
+3105,AEebbuA (Ghawdex),145,null,null
+3106,Bohinj,148,null,null
+3107,Zombo,87,null,null
+3108,Narok,48,null,null
+3109,Rakai,87,null,null
+3110,Schaan,184,null,null
+3111,Encamp,177,null,null
+3112,AjdovAAçina,148,null,null
+3113,NasAèn,42,null,null
+3114,Lwengo,87,null,null
+3115,Trzin,148,null,null
+3116,SEdErEk,64,null,null
+3117,GoriAnica,148,null,null
+3118,ImAarr,145,null,null
+3119,Bukwa,87,null,null
+3120,Oshikoto,152,null,null
+3121,RenAçeVogrsko,148,null,null
+3122,Salaspils Novads,128,null,null
+3123,Gllogovc,201,null,null
+3124,Kikinda,105,null,null
+3125,Dokolo,87,null,null
+3126,Dornava,148,null,null
+3127,Astara,64,null,null
+3128,Rahovec,201,null,null
+3129,AaEana,176,null,null
+3130,South Cotabato,11,null,null
+3131,Beltinci,148,null,null
+3132,Topola,105,null,null
+3133,Sokobanja,105,null,null
+3134,Bogovinje,141,null,null
+3135,Balzers,184,null,null
+3136,FushA KosovA,201,null,null
+3137,Obiliq,201,null,null
+3138,Kamwenge,87,null,null
+3139,Shtime,201,null,null
+3140,Swindon,18,null,null
+3141,Bela Crkva,105,null,null
+3142,Aelezniki,148,null,null
+3143,Ngora,87,null,null
+3144,Echternach,170,null,null
+3145,Kara,83,null,null
+3146,Dol pri Ljubljani,148,null,null
+3147,Kumanovo,141,null,null
+3148,Ig,148,null,null
+3149,Vushtrri,201,null,null
+3150,Falkirk,18,null,null
+3151,SeAana,148,null,null
+3152,Alebtong,87,null,null
+3153,Visaginas,140,null,null
+3154,Brcko District,133,null,null
+3155,Gorenja VasPoljane,148,null,null
+3156,OecussiAmbeno,155,null,null
+3157,BjelovarskoBilogorska Aupanija,132,null,null
+3158,GAsarb,145,null,null
+3159,Cerkno,148,null,null
+3160,Cova Lima,155,null,null
+3161,Cheshire East,18,null,null
+3162,LautAcm,155,null,null
+3163,Armavir,102,null,null
+3164,LoAka Dolina,148,null,null
+3165,Chiesanuova,188,null,null
+3166,Sveti Jurij ob AˇAçavnici,148,null,null
+3167,ReAçica ob Savinji,148,null,null
+3168,MalishevA,201,null,null
+3169,Paul,167,null,null
+3170,Manufahi,155,null,null
+3171,Dobrepolje,148,null,null
+3172,Kanungu,87,null,null
+3173,Ljubno,148,null,null
+3174,StopiAu Novads,128,null,null
+3175,StraAa,148,null,null
+3176,Gomba,87,null,null
+3177,East New Britain,151,null,null
+3178,Senta,105,null,null
+3179,Sejong,15,null,null
+3180,TiAina,148,null,null
+3181,South East,159,null,null
+3182,AigaileTai,176,null,null
+3183,AˇmarjeAke Toplice,148,null,null
+3184,Al JafArah,60,null,null
+3185,VrapAçiAte,141,null,null
+3186,KidriAçevo,148,null,null
+3187,SemiAç,148,null,null
+3188,Oyam,87,null,null
+3189,PoAeAkoSlavonska Aupanija,132,null,null
+3190,Ilinden,141,null,null
+3191,StarAe,148,null,null
+3192,BaAçka Palanka,105,null,null
+3193,Brda,148,null,null
+3194,TurniAAçe,148,null,null
+3195,Yamaguchi,1,null,null
+3196,Aêak NAng,28,null,null
+3197,Blace,105,null,null
+3198,Lipjan,201,null,null
+3199,Gostivar,141,null,null
+3200,La Massana,177,null,null
+3201,Tabor,148,null,null
+3202,SuharekA,201,null,null
+3203,SucumbAos,56,null,null
+3204,AAYdam,64,null,null
+3205,KriAevci,148,null,null
+3206,Strumica,141,null,null
+3207,Siparia,150,null,null
+3208,Tutong,149,null,null
+3209,Viti,201,null,null
+3210,Kllokot,201,null,null
+3211,Hampshire,18,null,null
+3212,GjakovA,201,null,null
+3213,Sembabule,87,null,null
+3214,Vianden,170,null,null
+3215,Tsirang,171,null,null
+3216,Wardak,43,null,null
+3217,Ada,105,null,null
+3218,Pailin,82,null,null
+3219,Petrovec,141,null,null
+3220,Sveta Trojica v Slovenskih Goricah,148,null,null
+3221,PejA,201,null,null
+3222,Sveta Ana,148,null,null
+3223,Tolmin,148,null,null
+3224,Pazardzhik,98,null,null
+3225,Princes Town,150,null,null
+3226,Tarrafal de SAeo Nicolau,167,null,null
+3227,Triesen,184,null,null
+3228,Benedikt,148,null,null
+3229,StudeniAçani,141,null,null
+3230,Kep,82,null,null
+3231,Sant JuliAˇ de LAria,177,null,null
+3232,Palangos Miestas,140,null,null
+3233,Faetano,188,null,null
+3234,Buyende,87,null,null
+3235,SAeo LourenAso dos ArgAeos,167,null,null
+3236,Kwale,48,null,null
+3237,Mirna PeAç,148,null,null
+3238,Isingiro,87,null,null
+3239,Apatin,105,null,null
+3240,MArupes Novads,128,null,null
+3241,Novi Pazar,105,null,null
+3242,Kyegegwa,87,null,null
+3243,San Lawrenz,145,null,null
+3244,RadeAçe,148,null,null
+3245,Buhweju,87,null,null
+3246,KaAsanik,201,null,null
+3247,Debar,141,null,null
+3248,Hani i Elezit,201,null,null
+3249,Derbyshire,18,null,null
+3250,Mersch,170,null,null
+3251,BErdE,64,null,null
+3252,Budva,165,null,null
+3253,Ucar,64,null,null
+3254,Sombor,105,null,null
+3255,OdAaci,105,null,null
+3256,Chungnam,15,null,null
+3257,Destrnik,148,null,null
+3258,Tearce,141,null,null
+3259,Astfold,123,null,null
+3260,VerAej,148,null,null
+3261,Kungota,148,null,null
+3262,Auprija,105,null,null
+3263,PomeroonSupenaam,153,null,null
+3264,Jegunovce,141,null,null
+3265,ACErenAovci,148,null,null
+3266,Kobarid,148,null,null
+3267,Aelino,141,null,null
+3268,Ohrid,141,null,null
+3269,Skenderajaˇ,201,null,null
+3270,Penama,179,null,null
+3271,DeAsan,201,null,null
+3272,Markovci,148,null,null
+3273,Laikipia,48,null,null
+3274,TharakaNithi,48,null,null
+3275,Arilje,105,null,null
+3276,Kovin,105,null,null
+3277,Boljevac,105,null,null
+3278,Kavango West,152,null,null
+3279,PodujevA,201,null,null
+3280,KlinA,201,null,null
+3281,CElilabad,64,null,null
+3282,Mayabeque,62,null,null
+3283,Struga,141,null,null
+3284,Vipava,148,null,null
+3285,Ilirska Bistrica,148,null,null
+3286,Saulkrastu Novads,128,null,null
+3287,AuAemberk,148,null,null
+3288,Ialoveni,134,null,null
+3289,Batken,122,null,null
+3290,KosjeriA,105,null,null
+3291,Veles,141,null,null
+3292,DobrovaPolhov Gradec,148,null,null
+3293,Amolatar,87,null,null
+3294,ACEaAka,141,null,null
+3295,Wanica,154,null,null
+3296,Velike LaAAçe,148,null,null
+3297,Puconci,148,null,null
+3298,Anjouan,166,null,null
+3299,Saint Thomas,114,null,null
+3300,Aˇkocjan,148,null,null
+3301,AZEmkir,64,null,null
+3302,Naftalan,64,null,null
+3303,Kardzhali,98,null,null
+3304,Mukdahan,25,null,null
+3305,Guria,104,null,null
+3306,BaAçka Topola,105,null,null
+3307,Nong Bua Lamphu,25,null,null
+3308,Dolenjske Toplice,148,null,null
+3309,Drochia,134,null,null
+3310,AiAevac,105,null,null
+3311,MokronogTrebelno,148,null,null
+3312,Herceg Novi,165,null,null
+3313,PlandiAte,105,null,null
+3314,RogaAovci,148,null,null
+3315,VirovitiAçkoPodravska Aupanija,132,null,null
+3316,HrpeljeKozina,148,null,null
+3317,Cankova,148,null,null
+3318,Velika Polana,148,null,null
+3319,SrediAAçe ob Dravi,148,null,null
+3320,Lamwo,87,null,null
+3321,Kotayka,102,null,null
+3322,XaAsmaz,64,null,null
+3323,StrAüAYeni,134,null,null
+3324,IdaVirumaa,144,null,null
+3325,Biombo,143,null,null
+3326,BogatiA,105,null,null
+3327,Lipkovo,141,null,null
+3328,BalakEn,64,null,null
+3329,Qazax,64,null,null
+3330,Varvarin,105,null,null
+3331,Vidin,98,null,null
+3332,KoAçani,141,null,null
+3333,ACEeAinovoObleAevo,141,null,null
+3334,Santa Elena,56,null,null
+3335,St. Helens,18,null,null
+3336,RaAanj,105,null,null
+3337,CAsu Novads,128,null,null
+3338,Dinagat Islands,11,null,null
+3339,Mongar,171,null,null
+3340,Anenii Noi,134,null,null
+3341,Blagoevgrad,98,null,null
+3342,BartAn,13,null,null
+3343,Sabirabad,64,null,null
+3344,Mionica,105,null,null
+3345,Jiwaka,151,null,null
+3346,Junik,201,null,null
+3347,Soroca,134,null,null
+3348,SisaAçkoMoslavaAçka Aupanija,132,null,null
+3349,AranAelovac,105,null,null
+3350,Kula,105,null,null
+3351,Gabrovo,98,null,null
+3352,Bloke,148,null,null
+3353,ApaAçe,148,null,null
+3354,Cerkvenjak,148,null,null
+3355,Lukovica,148,null,null
+3356,Haa,171,null,null
+3357,KrapinskoZagorska Aupanija,132,null,null
+3358,Novi BeAçej,105,null,null
+3359,BeAçej,105,null,null
+3360,AZErur,64,null,null
+3361,JurAinci,148,null,null
+3362,Aizkraukles Novads,128,null,null
+3363,HAnceAYti,134,null,null
+3364,AmmAchostos,157,null,null
+3365,KerAneia,157,null,null
+3366,Orhei,134,null,null
+3367,Gornji Grad,148,null,null
+3368,AitoraAa,105,null,null
+3369,MingEAsevir,64,null,null
+3370,Amnat Charoen,25,null,null
+3371,Videm,148,null,null
+3372,Kotido,87,null,null
+3373,Titel,105,null,null
+3374,LAgar,43,null,null
+3375,LaAsAn,64,null,null
+3376,Cirkulane,148,null,null
+3377,Ungheni,134,null,null
+3378,Bar,165,null,null
+3379,Ribnica,148,null,null
+3380,MirenKostanjevica,148,null,null
+3381,PaktAkA,43,null,null
+3382,Hela,151,null,null
+3383,IAYdAr,13,null,null
+3384,Istog,201,null,null
+3385,Planken,184,null,null
+3386,DubAüsari,134,null,null
+3387,Pader,87,null,null
+3388,MeroAina,105,null,null
+3389,Triesenberg,184,null,null
+3390,Zaqatala,64,null,null
+3391,Atua,176,null,null
+3392,FloreAYti,134,null,null
+3393,Podlehnik,148,null,null
+3394,Bovec,148,null,null
+3395,Kotor,165,null,null
+3396,Stara Pazova,105,null,null
+3397,SAeo Miguel,167,null,null
+3398,Carnikavas Novads,128,null,null
+3399,Viqueque,155,null,null
+3400,Clervaux,170,null,null
+3401,Redange,170,null,null
+3402,SAeo Domingos,167,null,null
+3403,Bosilovo,141,null,null
+3404,VevAçani,141,null,null
+3405,HAdmezAvAsArhely,77,null,null
+3406,AAYdaAY,64,null,null
+3407,SAngerei,134,null,null
+3408,OmbellaMpoko,124,null,null
+3409,Aˇtip,141,null,null
+3410,ZavrAç,148,null,null
+3411,YardAmlA,64,null,null
+3412,Mosteiros,167,null,null
+3413,SaatlA,64,null,null
+3414,Kaffrine,55,null,null
+3415,Ribnica na Pohorju,148,null,null
+3416,BeylEqan,64,null,null
+3417,Criuleni,134,null,null
+3418,Briceni,134,null,null
+3419,Aekavas Novads,128,null,null
+3420,Sveti TomaA,148,null,null
+3421,Sangre Grande,150,null,null
+3422,SudOuest,100,null,null
+3423,EdineAe,134,null,null
+3424,BeoAçin ,105,null,null
+3425,Shiselweni,172,null,null
+3426,Ordino,177,null,null
+3427,Targovishte,98,null,null
+3428,Bosilegrad,105,null,null
+3429,KniA,105,null,null
+3430,KamenicA,201,null,null
+3431,Kostanjevica na Krki,148,null,null
+3432,Canillo,177,null,null
+3433,Agago,87,null,null
+3434,MahaicaBerbice,153,null,null
+3435,Sveti AndraA v Slovenskih Goricah,148,null,null
+3436,Brava,167,null,null
+3437,Sa Kaeo,25,null,null
+3438,Komen,148,null,null
+3439,TErtEr,64,null,null
+3440,SeAçanj,105,null,null
+3441,BaAçki Petrovac,105,null,null
+3442,FAzuli,64,null,null
+3443,TeleneAYti,134,null,null
+3444,CimiAYlia,134,null,null
+3445,MarijampolA?,140,null,null
+3446,FAüleAYti,134,null,null
+3447,StocktononTees,18,null,null
+3448,Kuzma,148,null,null
+3449,DivaAça,148,null,null
+3450,InAçukalna Novads,128,null,null
+3451,Sare Pul,43,null,null
+3452,OcniAea,134,null,null
+3453,AAYcabEdi,64,null,null
+3454,Kozje,148,null,null
+3455,DAykundA,43,null,null
+3456,Bogdanci,141,null,null
+3457,Buliisa,87,null,null
+3458,Xiangkhouang,127,null,null
+3459,Plasnica,141,null,null
+3460,Amudat,87,null,null
+3461,Sveti Jurij v Slovenskih Goricah,148,null,null
+3462,Lerik,64,null,null
+3463,Glodeni,134,null,null
+3464,Bueng Kan,25,null,null
+3465,KovaAçica,105,null,null
+3466,Bolikhamxai,127,null,null
+3467,ACEoka,105,null,null
+3468,IkAA˙iles Novads,128,null,null
+3469,Aksaray,13,null,null
+3470,Dobje,148,null,null
+3471,AZoldAüneAYti,134,null,null
+3472,Gornji Petrovci,148,null,null
+3473,Samdrup Jongkhar,171,null,null
+3474,Dragash,201,null,null
+3475,AAYsu,64,null,null
+3476,Moravske Toplice,148,null,null
+3477,Podvelka,148,null,null
+3478,Olaines Novads,128,null,null
+3479,Sarpang,171,null,null
+3480,BilEsuvar,64,null,null
+3481,Nisporeni,134,null,null
+3482,Makole,148,null,null
+3483,Basarabeasca,134,null,null
+3484,Mtskheta Mtianeti,104,null,null
+3485,Salyan,64,null,null
+3486,Trashigang,171,null,null
+3487,AEdaAu Novads,128,null,null
+3488,Leova,134,null,null
+3489,ZErdab,64,null,null
+3490,QEbElE,64,null,null
+3491,KArdEmir,64,null,null
+3492,GAügAüuzia,134,null,null
+3493,Aabalj,105,null,null
+3494,Ozolnieku Novads,128,null,null
+3495,Ceredigion,18,null,null
+3496,MedveAa,105,null,null
+3497,CAüuAYeni,134,null,null
+3498,Napak,87,null,null
+3499,Prilep,141,null,null
+3500,Ulcinj,165,null,null
+3501,Vrbas,105,null,null
+3502,AAYstafa,64,null,null
+3503,Pemagatshel,171,null,null
+3504,Santa Catarina do Fogo,167,null,null
+3505,AitiAte,105,null,null
+3506,Qusar,64,null,null
+3507,Quba,64,null,null
+3508,AmiAYli,64,null,null
+3509,ZEngilan,64,null,null
+3510,Taraclia,134,null,null
+3511,RazkriAje,148,null,null
+3512,Kvemo Kartli,104,null,null
+3513,Shida Kartli,104,null,null
+3514,NeftAsala,64,null,null
+3515,RoAaje,165,null,null
+3516,ACEajetina,105,null,null
+3517,Rezina,134,null,null
+3518,KrivogaAtani,141,null,null
+3519,Rogatec,148,null,null
+3520,Qachaas Nek,146,null,null
+3521,Sremska Mitrovica,105,null,null
+3522,AZtefanVodAü,134,null,null
+3523,FaaEasaleleaga,176,null,null
+3524,Ivanjica,105,null,null
+3525,Warrap,169,null,null
+3526,SAcdhiou,55,null,null
+3527,GAygAl,64,null,null
+3528,ACErna na KoroAkem,148,null,null
+3529,Bomi,110,null,null
+3530,InAija,105,null,null
+3531,RAAYcani,134,null,null
+3532,Vasilevo,141,null,null
+3533,Aabari,105,null,null
+3534,ZveAsan,201,null,null
+3535,East Darfur,33,null,null
+3536,Kaakheti,104,null,null
+3537,RadoviA,141,null,null
+3538,Kalinga,11,null,null
+3539,Cantemir,134,null,null
+3540,Osilnica,148,null,null
+3541,Petrovac na Mlavi,105,null,null
+3542,Istarska Aupanija,132,null,null
+3543,Collines,126,null,null
+3544,ElektrAcnai,140,null,null
+3545,Mali IAoA,105,null,null
+3546,Centar Aupa,141,null,null
+3547,Ub,105,null,null
+3548,RaAça,105,null,null
+3549,Srbobran,105,null,null
+3550,Ljig,105,null,null
+3551,Maio,167,null,null
+3552,Ranillug,201,null,null
+3553,Kiryandongo,87,null,null
+3554,Rekovac,105,null,null
+3555,Woqooyi Galbeed,103,null,null
+3556,Kiruhura,87,null,null
+3557,Sigave,215,null,null
+3558,Garkalnes Novads,128,null,null
+3559,QubadlA,64,null,null
+3560,PrAncipe,173,null,null
+3561,Zrnovci,141,null,null
+3562,Novo Selo,141,null,null
+3563,Gevgelija,141,null,null
+3564,Novi KneAevac,105,null,null
+3565,Eastern Equatoria,169,null,null
+3566,LielvArdes Novads,128,null,null
+3567,CEbrayAl,64,null,null
+3568,Siguldas Novads,128,null,null
+3569,SamtskheJavakheti,104,null,null
+3570,Chhukha,171,null,null
+3571,Lajkovac,105,null,null
+3572,KruAevo,141,null,null
+3573,Priboj,105,null,null
+3574,Tavush,102,null,null
+3575,Bijelo Polje,165,null,null
+3576,Ash ShamAl,84,null,null
+3577,Panjshir,43,null,null
+3578,Grad,148,null,null
+3579,ProbiAtip,141,null,null
+3580,Aleksandrovac,105,null,null
+3581,Berane,165,null,null
+3582,Petnjica,165,null,null
+3583,SodraAica,148,null,null
+3584,SiyEzEn,64,null,null
+3585,Samux,64,null,null
+3586,Negotino,141,null,null
+3587,Jonava,140,null,null
+3588,Dobrovnik,148,null,null
+3589,MayoKAcbbi Ouest,112,null,null
+3590,Matam,55,null,null
+3591,Abim,87,null,null
+3592,A?mnAgovA?,120,null,null
+3593,MayaroRio Claro,150,null,null
+3594,Malo CrniAe,105,null,null
+3595,BabAtes Novads,128,null,null
+3596,KurAumlija,105,null,null
+3597,Ntoroko,87,null,null
+3598,AZabran,64,null,null
+3599,Vinica,141,null,null
+3600,ACEuAçerSandevo,141,null,null
+3601,RaAka,105,null,null
+3602,Mislinja,148,null,null
+3603,Golubac,105,null,null
+3604,Trnovska Vas,148,null,null
+3605,PeAinci,105,null,null
+3606,Mandoul,112,null,null
+3607,KEngErli,64,null,null
+3608,Ordubad,64,null,null
+3609,Nova Crnja,105,null,null
+3610,Druskininkai,140,null,null
+3611,MaAeikiai,140,null,null
+3612,EtelAPohjanmaa,101,null,null
+3613,BaAç,105,null,null
+3614,Smolyan,98,null,null
+3615,PodAçetrtek,148,null,null
+3616,VaaEaoFonoti,176,null,null
+3617,DonduAYeni,134,null,null
+3618,Kavadarci,141,null,null
+3619,AsmayAllA,64,null,null
+3620,OudAmxai,127,null,null
+3621,Irig,105,null,null
+3622,Kretinga,140,null,null
+3623,JanAb al BAAeinah,130,null,null
+3624,Majdanpek,105,null,null
+3625,Kriva Palanka,141,null,null
+3626,Danilovgrad,165,null,null
+3627,DelAçevo,141,null,null
+3628,Ogres Novads,128,null,null
+3629,Bougainville,151,null,null
+3630,Makedonska Kamenica,141,null,null
+3631,SatupaaEitea,176,null,null
+3632,Otuke,87,null,null
+3633,Ruma,105,null,null
+3634,Samtse,171,null,null
+3635,SkrAveru Novads,128,null,null
+3636,Sveti Nikole,141,null,null
+3637,Qax,64,null,null
+3638,Ribeira Grande de Santiago,167,null,null
+3639,Vaisigano,176,null,null
+3640,HacAqabul,64,null,null
+3641,ThabaTseka,146,null,null
+3642,Trakai,140,null,null
+3643,LoAki Potok,148,null,null
+3644,Gjilan,201,null,null
+3645,BirAtono,140,null,null
+3646,NikAiA,165,null,null
+3647,Valandovo,141,null,null
+3648,East Riding of Yorkshire,18,null,null
+3649,Malampa,179,null,null
+3650,North Ayrshire,18,null,null
+3651,Bauskas Novads,128,null,null
+3652,Utena,140,null,null
+3653,JanAb ash SharqAyah,130,null,null
+3654,TauragA?,140,null,null
+3655,DaAYkEsEn,64,null,null
+3656,PlungA?,140,null,null
+3657,Silistra,98,null,null
+3658,Alibunar,105,null,null
+3659,Dolneni,141,null,null
+3660,Gagaifomauga,176,null,null
+3661,KElbEcEr,64,null,null
+3662,AˇilutA?,140,null,null
+3663,Kobilje,148,null,null
+3664,Vladimirci,105,null,null
+3665,Palauli,176,null,null
+3666,Baldones Novads,128,null,null
+3667,Ardahan,13,null,null
+3668,Sal,167,null,null
+3669,PreiAu Novads,128,null,null
+3670,VilkaviAkis,140,null,null
+3671,Kranjska Gora,148,null,null
+3672,Amuru,87,null,null
+3673,Iecavas Novads,128,null,null
+3674,AZArnak,13,null,null
+3675,East Ayrshire,18,null,null
+3676,Rosoman,141,null,null
+3677,PriekuAu Novads,128,null,null
+3678,NgAbeBuglAc,94,null,null
+3679,Plav,165,null,null
+3680,Gusinje,165,null,null
+3681,Syunika,102,null,null
+3682,ShtArpcA,201,null,null
+3683,TelAiai,140,null,null
+3684,KA?dainiai,140,null,null
+3685,Ribeira Brava,167,null,null
+3686,Qobustan,64,null,null
+3687,ShamAl ash SharqAyah,130,null,null
+3688,Kosrae,196,null,null
+3689,Aetale,148,null,null
+3690,XocalA,64,null,null
+3691,AZuAYa,64,null,null
+3692,Tutin,105,null,null
+3693,Zelenikovo,141,null,null
+3694,Resen,141,null,null
+3695,BabuAnica,105,null,null
+3696,XocavEnd,64,null,null
+3697,KaiAiadorys,140,null,null
+3698,Brus,105,null,null
+3699,Tukuma Novads,128,null,null
+3700,AZahbuz,64,null,null
+3701,Dobeles Novads,128,null,null
+3702,Neringa,140,null,null
+3703,Prienai,140,null,null
+3704,Kratovo,141,null,null
+3705,UkmergA?,140,null,null
+3706,AkmenA?,140,null,null
+3707,HadjerLamis,112,null,null
+3708,Kalvarijos,140,null,null
+3709,Aˇalovci,148,null,null
+3710,OseAçina,105,null,null
+3711,KiAcNtem,163,null,null
+3712,Quinara,143,null,null
+3713,Mogila,141,null,null
+3714,Nakapiripirit,87,null,null
+3715,PehAçevo,141,null,null
+3716,Musandam,130,null,null
+3717,Gash Barka,136,null,null
+3718,RadviliAkis,140,null,null
+3719,Leposaviq,201,null,null
+3720,Veliko GradiAte,105,null,null
+3721,Temburong,149,null,null
+3722,ViAAnu Novads,128,null,null
+3723,Camarines Sur,11,null,null
+3724,Togdheer,103,null,null
+3725,KuAçevo,105,null,null
+3726,LAgatnes Novads,128,null,null
+3727,Koceljeva,105,null,null
+3728,Arta,115,null,null
+3729,Temerin,105,null,null
+3730,Berovo,141,null,null
+3731,KazlA RAdos,140,null,null
+3732,Raseiniai,140,null,null
+3733,Mojkovac,165,null,null
+3734,GadAin Han,105,null,null
+3735,Rojas Novads,128,null,null
+3736,LAvAnu Novads,128,null,null
+3737,Lapovo,105,null,null
+3738,Opovo,105,null,null
+3739,Kyankwanzi,87,null,null
+3740,RopaAu Novads,128,null,null
+3741,AˇilalA?,140,null,null
+3742,Aˇakiai,140,null,null
+3743,Bayburt,13,null,null
+3744,AˇalAçininkai,140,null,null
+3745,Pljevlja,165,null,null
+3746,Boa Vista,167,null,null
+3747,GrobiAas Novads,128,null,null
+3748,Engures Novads,128,null,null
+3749,JoniAkis,140,null,null
+3750,Pasvalys,140,null,null
+3751,Kainuu,101,null,null
+3752,Zubin Potok,201,null,null
+3753,Skuodas,140,null,null
+3754,Ntchisi,135,null,null
+3755,Talsu Novads,128,null,null
+3756,XAckong,127,null,null
+3757,Trashi Yangtse,171,null,null
+3758,Aˇirvintos,140,null,null
+3759,Bistrica ob Sotli,148,null,null
+3760,Sila,112,null,null
+3761,KrAslavas Novads,128,null,null
+3762,RundAles Novads,128,null,null
+3763,MArsraga Novads,128,null,null
+3764,RokiAkis,140,null,null
+3765,Jurbarkas,140,null,null
+3766,TArvetes Novads,128,null,null
+3767,Karbinci,141,null,null
+3768,KelmA?,140,null,null
+3769,MAlpils Novads,128,null,null
+3770,Demir Hisar,141,null,null
+3771,KupiAkis,140,null,null
+3772,BirAai,140,null,null
+3773,SolAçava,148,null,null
+3774,Barh el Gazel,112,null,null
+3775,PagAcgiai,140,null,null
+3776,RAjienas Novads,128,null,null
+3777,Cetinje,165,null,null
+3778,Kokneses Novads,128,null,null
+3779,Saldus Novads,128,null,null
+3780,PAaviAu Novads,128,null,null
+3781,Krimuldas Novads,128,null,null
+3782,Auces Novads,128,null,null
+3783,LimbaAu Novads,128,null,null
+3784,Pakruojis,140,null,null
+3785,Ludzas Novads,128,null,null
+3786,Cesvaines Novads,128,null,null
+3787,Province Nord,210,null,null
+3788,Aizputes Novads,128,null,null
+3789,Lazdijai,140,null,null
+3790,Central Darfur,33,null,null
+3791,HodoA,148,null,null
+3792,KonAçe,141,null,null
+3793,Rankovce,141,null,null
+3794,KuldAgas Novads,128,null,null
+3795,Lozovo,141,null,null
+3796,AˇvenAçionys,140,null,null
+3797,Kandavas Novads,128,null,null
+3798,Andrijevica,165,null,null
+3799,Smiltenes Novads,128,null,null
+3800,AnykAAçiai,140,null,null
+3801,Zarasai,140,null,null
+3802,MolA?tai,140,null,null
+3803,Balvu Novads,128,null,null
+3804,SalacgrAvas Novads,128,null,null
+3805,Rietavo,140,null,null
+3806,IlAkstes Novads,128,null,null
+3807,Salas Novads,128,null,null
+3808,Nwoya,87,null,null
+3809,BrocAnu Novads,128,null,null
+3810,VarakAAnu Novads,128,null,null
+3811,CanindeyA,72,null,null
+3812,GagaaEemauga,176,null,null
+3813,Aagubica,105,null,null
+3814,KocAnu Novads,128,null,null
+3815,TrgoviAte,105,null,null
+3816,Torba,179,null,null
+3817,Jaunpils Novads,128,null,null
+3818,Gulbenes Novads,128,null,null
+3819,Mavrovo i RostuAa,141,null,null
+3820,Aeguma Novads,128,null,null
+3821,Madonas Novads,128,null,null
+3822,LiAçkoSenjska Aupanija,132,null,null
+3823,Raunas Novads,128,null,null
+3824,AEfar,47,null,null
+3825,Gradsko,141,null,null
+3826,RachaaLechkhumi da Kvemo Svaneti,104,null,null
+3827,Ignalina,140,null,null
+3828,Priekules Novads,128,null,null
+3829,Demir Kapija,141,null,null
+3830,Burtnieku Novads,128,null,null
+3831,Ahal,131,null,null
+3832,North East,159,null,null
+3833,East Lothian,18,null,null
+3834,Kostel,148,null,null
+3835,XAzA,64,null,null
+3836,BeverAnas Novads,128,null,null
+3837,Sogn og Fjordane,123,null,null
+3838,Prijepolje,105,null,null
+3839,Trongsa,171,null,null
+3840,Aglonas Novads,128,null,null
+3841,East Dunbartonshire,18,null,null
+3842,NAcas Novads,128,null,null
+3843,Valkas Novads,128,null,null
+3844,Zilupes Novads,128,null,null
+3845,AlAksnes Novads,128,null,null
+3846,AknAstes Novads,128,null,null
+3847,Vecumnieku Novads,128,null,null
+3848,Zhemgang,171,null,null
+3849,Porto Novo,167,null,null
+3850,StrenAçu Novads,128,null,null
+3851,SAjas Novads,128,null,null
+3852,Skrundas Novads,128,null,null
+3853,Durbes Novads,128,null,null
+3854,KArsavas Novads,128,null,null
+3855,VarA?na,140,null,null
+3856,Jaunpiebalgas Novads,128,null,null
+3857,Debarca,141,null,null
+3858,Rennell and Bellona,174,null,null
+3859,Naama,40,null,null
+3860,Matabeleland North,78,null,null
+3861,RiebiAu Novads,128,null,null
+3862,NAristAn,43,null,null
+3863,Jaunjelgavas Novads,128,null,null
+3864,Dagdas Novads,128,null,null
+3865,ViAakas Novads,128,null,null
+3866,Alojas Novads,128,null,null
+3867,Sjenica,105,null,null
+3868,VaiAodes Novads,128,null,null
+3869,Staro NagoriAçane,141,null,null
+3870,A?rgAu Novads,128,null,null
+3871,Mazsalacas Novads,128,null,null
+3872,PArgaujas Novads,128,null,null
+3873,KolaAin,165,null,null
+3874,Awdal,103,null,null
+3875,River Gee,110,null,null
+3876,ChariBaguirmi,112,null,null
+3877,Gbarpolu,110,null,null
+3878,Vecpiebalgas Novads,128,null,null
+3879,XaisAmboun,127,null,null
+3880,Kouilou,91,null,null
+3881,Alsungas Novads,128,null,null
+3882,Amatas Novads,128,null,null
+3883,Sool,103,null,null
+3884,VArkavas Novads,128,null,null
+3885,LubAnas Novads,128,null,null
+3886,NaukAAnu Novads,128,null,null
+3887,Argyll and Bute,18,null,null
+3888,Apes Novads,128,null,null
+3889,Baltinavas Novads,128,null,null
+3890,Aabljak,165,null,null
+3891,Makedonski Brod,141,null,null
+3892,Dundagas Novads,128,null,null
+3893,ViesAtes Novads,128,null,null
+3894,Ascension,216,null,null
+3895,GovAAltay,120,null,null
+3896,Neretas Novads,128,null,null
+3897,Ciblas Novads,128,null,null
+3898,EnnediEst,112,null,null
+3899,PAvilostas Novads,128,null,null
+3900,Lhuentse,171,null,null
+3901,Bumthang,171,null,null
+3902,Nova VaroA,105,null,null
+3903,Sanaag,103,null,null
+3904,RugAju Novads,128,null,null
+3905,Dagana,171,null,null
+3906,Bela Palanka,105,null,null
+3907,Novaci,141,null,null
+3908,Rucavas Novads,128,null,null
+3909,Sowa Town,159,null,null
+3910,Jezersko,148,null,null
+3911,Aˇavnik,165,null,null
+3912,Kidal,80,null,null
+3913,Crna Trava,105,null,null
+3914,PluAine,165,null,null
+3915,GovA?sAmber,120,null,null
+3916,Tristan da Cunha,216,null,null
+3917,WAdA al aayAt,60,null,null
+3918,Gasa,171,null,null
+3919,WAdA ash ShAAeia,60,null,null
+3920,Jwaneng,159,null,null
+3921,PotaroSiparuni,153,null,null
+3922,Al WusAeA,130,null,null
+3923,EmberAWounaan,94,null,null
+3924,Tibesti,112,null,null
+3925,Al Kufrah,60,null,null
+3926,Dojran,141,null,null
+3927,Province AZles,210,null,null
+3928,Bujanovac,105,null,null
+3929,PreAevo,105,null,null
+3930,Marowijne,154,null,null
+3931,Buvuma,87,null,null
+3932,SAeo Filipe,167,null,null
+3933,Torbay,18,null,null
+3934,XankEndi,64,null,null
+3935,Federally Administered Tribal Areas,9,null,null
+3936,Hamilton,217,null,null
+3937,Sahel,100,null,null
+3938,Pest,77,null,null
+3939,Sipaliwini,154,null,null
+3940,Valais,96,null,null
+3941,City of Freeport,156,null,null
+3942,Macuata,161,null,null
+3943,Thurgau,96,null,null
+3944,Appenzell Ausserrhoden,96,null,null
+3945,Janakpur,119,null,null
+3946,Sermersooq,213,null,null
+3947,Qaasuitsup,213,null,null
+3948,VavaaEu,181,null,null
+3949,Austurland,162,null,null
+3950,Punjab,4,null,null
