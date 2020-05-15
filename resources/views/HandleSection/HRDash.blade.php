@@ -44,6 +44,9 @@
                 <li>
                     <a href="/HrJob/create">ADD JOB</a>
                 </li>
+                <li>
+                    <a href="/salesPer/create">ADD Sales Person</a>
+                </li>
 
             </ul>
 
@@ -77,6 +80,9 @@
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="/HrJob">Added Job</a>
+                            </li>
+                             <li class="nav-item">
+                                <a class="nav-link" href="/salesPer">Sales Person</a>
                             </li>
                             <li class="nav-item">
                                 <a class="" href="{{ route('logout') }}"

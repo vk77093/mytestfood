@@ -1,5 +1,6 @@
 <?php
-
+use illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Auth;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -48,6 +49,7 @@ Route::group(['middleware' => 'HRdepartment','as'=> 'HRdepartment'], function ()
     Route::get('/position', 'HRDepartment\JobAdd@position');
     Route::get('/position/create', 'HRDepartment\JobAdd@positionCreate');
     Route::post('/position', 'HRDepartment\JobAdd@storePos')->name('position.storePos');
+    Route::resource('/salesPer', 'HRDepartment\SalesPersonController');
 });
 Route::group(['middleware' => 'Marketing','as'=>'Marketing.'], function () {
     Route::resource('/mktEvent', 'MKTDepartment\UpcomingEventAdd');
