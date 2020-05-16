@@ -16,7 +16,7 @@ class SalesPersonController extends Controller
      */
     public function index()
     {
-$salesPerson=SalesPerson::paginate(10);
+$salesPerson=SalesPerson::orderBy('id','desc')->paginate(10);
 return view('HandleSection.viewSales',compact('salesPerson'));
           }
 

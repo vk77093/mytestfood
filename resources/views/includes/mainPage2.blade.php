@@ -69,6 +69,7 @@
                                                     <li><a href="/ourproduct">Product Range</a></li>
                                                     <li><a href="nationPresent">Nationwise Present</a></li>
                                                     <li><a href="/whoweserve">Who We Serve</a></li>
+                                                    <li><a href="/nearYou">Sales person Near You</a></li>
                                                 </ul>
                                                 </li>
                                                 <li><a href="">Brands</a>
@@ -167,24 +168,39 @@
         <!-- Links -->
         <h5 class="font-weight-bold text-uppercase mt-3 mb-4 footer-back text-center">Follow us</h5>
 
-<ul class="list-unstyled list-inline text-center">
+<ul class="list-unstyled list-inline text-center" id="link_bar">
     <li class="list-inline-item">
-      <a class="btn-floating btn-fb mx-1">
+      <a class="btn-floating btn-fb mx-1" href="https://www.facebook.com/Foodcoast-107857784241440/" target="_blank">
         <i class="fab fa-facebook-f" id="social-fb"> </i>
       </a>
     </li>
     <li class="list-inline-item">
-      <a class="btn-floating btn-tw mx-1">
+      <a class="btn-floating btn-tw mx-1" href="https://twitter.com/foodcoast_com/" target="_blank">
         <i class="fab fa-twitter" id="social-tw"> </i>
       </a>
     </li>
     <li class="list-inline-item">
-      <a class="btn-floating btn-gplus mx-1">
+      <a class="btn-floating btn-gplus mx-1" href="https://foodcoast-international.business.site/" target="_blank">
         <i class="fab fa-google-plus-g" id="social-gp"> </i>
       </a>
     </li>
+    <li class="list-inline-item">
+      <a class="btn-floating btn-inst mx-1" href="https://www.instagram.com/foodcoast_int/?hl=en/" target="_blank">
+        <i class="fab fa-instagram" id="social-int"> </i>
+      </a>
+    </li>
+    <li class="list-inline-item">
+      <a class="btn-floating btn-inst mx-1" href="https://www.youtube.com/channel/UCVIg3GIbSP6vLoiPPcdZCYw/" target="_blank">
+        <i class="fab fa-youtube" id="social-you"> </i>
+      </a>
+    </li>
+    <li class="list-inline-item">
+      <a class="btn-floating btn-inst mx-1">
+        <i class="fab fa-linkedin" id="social-lin"> </i>
+      </a>
+    </li>
   </ul>
-<div class="container mt-5 text-center">
+<div class="container mt-5 text-center" id="link_bar">
 
     <ul class="list-unstyled list-inline ">
         <li class="list-inline-item"><a href="">Certificate</a></li>
@@ -212,7 +228,7 @@
     Indian and the world market. Its relationship with the food industry dates back to over a decade.
  <a href="/about#aboutTest"><button class="btn btn-primary">Read More</button></a></p>
 </div>
-<div class="col-md-4 mx-auto">
+<div class="col-md-4 mx-auto"id="link_bar">
 <h5 class="font-weight-bold text-uppercase mt-3 mb-4 footer-back text-center">Our Brands</h5>
 <ul class="list-unstyled list-inline text-center">
     <li class="list-inline-item">
@@ -249,7 +265,7 @@
       <h5 class="mb-1 footer-back">Our Main Range</h5>
     </li>
   </ul>
-  <ul class="list-unstyled list-inline text-center mt-3">
+  <ul class="list-unstyled list-inline text-center mt-3" id="link_bar">
       <li class="list-inline-item"><a href="">Mayoninse |</a></li>
       <li class="list-inline-item"><a href="">Sandwich Spread |</a></li>
       <li class="list-inline-item"><a href="">Salad Dressing |</a></li>
@@ -267,8 +283,11 @@
 
 
   <!-- Copyright -->
+  <div id="link_bar">
   <div class="footer-copyright text-center py-3">© 2020 Copyright: BY
+
     <a href="https://www.foodcoast.com"> Foodcoast</a>
+    </div>
   </div>
   <!-- Copyright -->
 

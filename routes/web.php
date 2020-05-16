@@ -25,6 +25,8 @@ Route::get('/about', 'WebController@about');
 Route::get('ourproduct', 'WebController@product');
 Route::get('/nationPresent','WebController@present');
 Route::get('whoweserve','WebController@whoweserve');
+Route::get('/nearYou', 'WebController@nearYou');
+//Route::post('/nearYou', 'WebController@searchNear');
 Route::get('/ourbrand','WebController@ourbrand');
 
 //dropdown list

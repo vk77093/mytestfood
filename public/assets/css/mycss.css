@@ -31,8 +31,20 @@
     color: #d34836;
 }
 
+#social-int:hover {
+    color: palevioletred;
+}
+
 #social-em:hover {
     color: #f39c12;
+}
+
+#social-you:hover {
+    color: red;
+}
+
+#social-lin:hover {
+    color: blue;
 }
 
 .footer-back {

@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use App\AddJob;
 use App\EventType;
 use App\UpcomingEvent;
+use App\SalesPerson;
 
 
 class WebController extends Controller
@@ -20,6 +21,26 @@ class WebController extends Controller
     public function present(){
         return view('Webpage.nationPresent');
     }
+    public function nearYou(Request $request){
+        $search=$request->input('search_area');
+        if($search){
+            $salesFetch = SalesPerson::where('area', $search)->where('status', 'active')->orderBy('id', 'desc')->get();
+            //$salesFetch=SalesPerson::where(['area','=',$search],
+           // ['status','=','active'])->orderBy('id', 'desc')->get();
+        }else{
+            $salesFetch=SalesPerson::where('status', 'active')->orderBy('id','desc')->get();
+        }
+        $salesFetch= $salesFetch;
+        $salesPerson = SalesPerson::select('area')->distinct()->get();
+
+        return view('Webpage.nearYou',compact('salesPerson', 'salesFetch'));
+    }
+    // public function searchNear(){
+    //    // $search = '%' . $_POST['search_area'] . '%';
+    //    $search=$_POST['search_area'];
+    //     $salesFetch=SalesPerson::where('area', $search)->get();
+    //    return redirect('/nearYou#result',compact('salesFetch'));
+    //}
     public function whoweserve(){
         return view('Webpage.whoweserve');
     }
