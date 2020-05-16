@@ -12,10 +12,11 @@ class DropdownController extends Controller
 {
     public function index()
     {
+        $title_page = 'Your-Brand';
         $countries = DB::table("countries")->pluck("name", "id");
         $labeldata = LabelType::orderBy('id', 'desc')->get();
         //$countries = DB::table("countries")->get();
-        return view('Webpage.yourbrand', compact('countries', 'labeldata'));
+        return view('Webpage.yourbrand', compact('countries', 'labeldata','title_page'));
     }
 
     public function getStateLists(Request $request)

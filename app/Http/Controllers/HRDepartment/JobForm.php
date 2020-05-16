@@ -19,8 +19,9 @@ class JobForm extends Controller
      */
     public function index()
     {
+        $title_page= 'Career';
         $jobData = AddJob::where('job_status', 'open')->orderBy('id', 'desc')->paginate(3);
-        return view('Webpage.carrier', compact('jobData'));
+        return view('Webpage.carrier', compact('jobData','title_page'));
     }
 
     public function Hrdash(){

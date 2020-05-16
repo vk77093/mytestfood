@@ -63,6 +63,8 @@
 <div class="col-sm-4 mt-4">
     <div class="card">
     <div class="card-header">
+
+       <p class="text-center text-italic">Sales Person Details : {{$loop->iteration}}</p>
     </div>
     <div class="card-body">
     <h5 class="card-title">{{$item->sal_name}}</h5>

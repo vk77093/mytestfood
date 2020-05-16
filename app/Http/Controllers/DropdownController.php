@@ -9,10 +9,11 @@ class DropdownController extends Controller
 {
     public function index()
     {
+        $title_page='Your-Brand';
         $countries = DB::table("countries")->pluck("name", "id");
        // return view('Webpage.index', compact('countries'));
 
-        return view('Webpage.yourbrand', compact('countries'));
+        return view('Webpage.yourbrand', compact('countries', 'title_page'));
     }
 
     public function getStateList(Request $request)

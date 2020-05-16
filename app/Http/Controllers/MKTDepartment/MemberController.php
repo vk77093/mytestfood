@@ -17,7 +17,8 @@ class MemberController extends Controller
      */
     public function index()
     {
-        return view('Webpage.becomeAMember');
+        $title_page= 'Become-A-Member';
+        return view('Webpage.becomeAMember',compact('title_page'));
     }
 
     public function labelCreate(){
