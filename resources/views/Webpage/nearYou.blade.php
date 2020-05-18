@@ -1,8 +1,5 @@
-@extends('includes.mainpage2')
+@extends('includes.mainpage')
 @section('maincontent')
-<style>
-
-</style>
 <div class="slider-area ">
             <div class="slider-height2 d-flex align-items-center">
                 <div class="container">
@@ -46,7 +43,7 @@
 
             </div>
             <div class="form-group">
-                <button type="submit" class="btn btn-info">Get It</button>
+                <button type="submit" class="btn btn-info mt-3">Get It</button>
             </div>
         </div>
     </div>

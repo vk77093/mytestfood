@@ -41,7 +41,7 @@ Route::get('/ourparticipation','WebController@participation');
 Route::get('/upcoming','WebController@upcoming');
 Route::get('/contact','WebController@contact');
 //Route::get('/carrier','WebController@carrier');
-Route::resource('/carrier', 'HRDepartment\JobForm');
+Route::resource('/career', 'HRDepartment\JobForm');
 Route::resource('/Become-A-Member', 'MKTDepartment\MemberController');
 
 Route::group(['middleware' => 'HRdepartment','as'=> 'HRdepartment'], function () {

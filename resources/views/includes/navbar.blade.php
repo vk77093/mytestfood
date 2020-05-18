@@ -7,6 +7,7 @@
                     <div class="logo">
                         <a href="/"><img src="assets/img/logo/FCILogo.jpg" alt="FCI LOGO"></a>
                     </div>
+
                 </div>
                 <div class="col-xl-10 col-lg-10 col-md-10">
                     <div class="menu-main d-flex align-items-center justify-content-end">
@@ -40,24 +41,28 @@
                                     <li><a href="">Contact</a>
                                         <ul class="submenu">
                                             <li><a href="/contact">Contact Us</a></li>
-                                            <li><a href="/carrier">Carrier</a></li>
+                                            <li><a href="/career">Career</a></li>
                                             <li><a href="/Become-A-Member">Become A Member</a></li>
                                         </ul>
 
                                     </li>
-                                </ul>
+                                    <li>
+                                        <a href="" class="border border-danger bg-danger text-white border-top rounded-top d-lg-inline-flex p-3 hvr-wobble-horizontal hvr-shutter-out-vertical">Export</a></li>
+                                    </ul>
+
+
                             </nav>
                         </div>
-                        <div class="header-right-btn f-right d-none d-xl-block ml-20">
+                        {{-- <div class="header-right-btn f-right d-none d-xl-block ml-05">
                             <a href="#" class="btn header-btn">Export</a>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
                 <!-- Mobile Menu -->
                 <div class="col-12">
                     <div class="mobile_menu d-block d-lg-none"></div>
                 </div>
-            </div>
+
         </div>
     </div>
 </div>

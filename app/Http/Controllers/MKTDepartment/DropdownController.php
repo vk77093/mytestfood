@@ -4,7 +4,8 @@ namespace App\Http\Controllers\MKTDepartment;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use DB;
+//use DB;
+use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Session;
 use App\LabelType;
 use App\YourBrand;

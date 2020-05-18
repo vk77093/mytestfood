@@ -161,7 +161,7 @@ Learn more about how you can grow your career at Foodcoast by filling our online
   </div>
   <div class="card-body text-center">
 
-  <form action="{{route('carrier.store')}}" method="POST" enctype="multipart/form-data">
+  <form action="{{route('career.store')}}" method="POST" enctype="multipart/form-data">
     @csrf
 <div class="input-group-icon mt-10">
 									<div class="icon"><i class="fa fa-graduation-cap" aria-hidden="true"></i></div>
