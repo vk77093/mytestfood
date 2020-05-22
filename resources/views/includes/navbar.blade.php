@@ -47,7 +47,8 @@
 
                                     </li>
                                     <li>
-                                        <a href="" class="border border-danger bg-danger text-white border-top rounded-top d-lg-inline-flex p-3 hvr-wobble-horizontal hvr-shutter-out-vertical">Export</a></li>
+                                        <a href="" class="border border-danger bg-danger text-white border-top rounded-top
+                                        d-lg-inline-flex p-3 hvr-wobble-horizontal hvr-shutter-out-vertical">Export</a></li>
                                     </ul>
 
 

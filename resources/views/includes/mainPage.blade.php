@@ -54,6 +54,7 @@
   @yield('maincontent')
 
          </main>
+         @yield('jquery')
 <!-- Footer -->
 @include('includes.footer')
 <!-- Footer -->

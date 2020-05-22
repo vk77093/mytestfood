@@ -65,7 +65,7 @@
                                         <div class="col-3">
                                            <div class="single-services mb-30">
                                              <div class="card hvr-curl-top-left" style="width: 18rem;">
-  <img class="card-img-top" src="assets/img/service/services6.png" alt="Card image cap">
+  <a href="/mayoFirst"><img class="card-img-top" src="assets/img/service/services6.png" alt="Card image cap"></a>
   <div class="card-body">
     <h5 class="card-title">CARROT & CUCUMBER SANDWICH SPREAD</h5>
     <p class="text-center">(100GM)</p>

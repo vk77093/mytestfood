@@ -1,6 +1,10 @@
 <?php
+
+
 use illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
+
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -16,13 +20,14 @@ use Illuminate\Support\Facades\Auth;
 //     return view('welcome');
 // });
 Route::get('/', function () {
-    return view('homePage');
+    $title_page='HOME-PAGE';
+    return view('homePage',compact('title_page'));
 });
 Route::get('/test', function () {
     return view('homePageSecond');
 });
 Route::get('/about', 'WebController@about');
-Route::get('ourproduct', 'WebController@product');
+Route::get('/ourproduct', 'WebController@product');
 Route::get('/nationPresent','WebController@present');
 Route::get('whoweserve','WebController@whoweserve');
 Route::get('/nearYou', 'WebController@nearYou');
@@ -53,18 +58,18 @@ Route::group(['middleware' => 'HRdepartment','as'=> 'HRdepartment'], function ()
     Route::post('/position', 'HRDepartment\JobAdd@storePos')->name('position.storePos');
     Route::resource('/salesPer', 'HRDepartment\SalesPersonController');
 });
-Route::group(['middleware' => 'Marketing','as'=>'Marketing.'], function () {
-    Route::resource('/mktEvent', 'MKTDepartment\UpcomingEventAdd');
-    Route::get('/Mktdash', 'MKTDepartment\UpcomingEventAdd@mktdash');
-    Route::get('/eventType', 'MKTDepartment\UpcomingEventAdd@eventView');
-    Route::get('eventType/create', 'MKTDepartment\UpcomingEventAdd@createEventType');
+Route::group(['middleware' => 'Marketing','as'=>'Marketing.','namespace'=> 'MKTDepartment'], function () {
+    Route::resource('/mktEvent', 'UpcomingEventAdd');
+    Route::get('/Mktdash', 'UpcomingEventAdd@mktdash');
+    Route::get('/eventType', 'UpcomingEventAdd@eventView');
+    Route::get('eventType/create', 'UpcomingEventAdd@createEventType');
 
-    Route::post('/eventType', 'MKTDepartment\UpcomingEventAdd@eventStore')->name('eventType.eventStore');
-    Route::get('/memberData', 'MKTDepartment\MemberController@showData');
-    Route::get('/addLabel/create','MKTDepartment\MemberController@labelCreate');
-    Route::get('/labelView', 'MKTDepartment\MemberController@labelView');
-    Route::post('/labelView','MKTDepartment\MemberController@labelStore')->name('labelView.labelStore');
-    Route::get('/yourBrandData', 'MKTDepartment\DropdownController@ViewYourBrand');
+    Route::post('/eventType', 'UpcomingEventAdd@eventStore')->name('eventType.eventStore');
+    Route::get('/memberData', 'MemberController@showData');
+    Route::get('/addLabel/create','MemberController@labelCreate');
+    Route::get('/labelView', 'MemberController@labelView');
+    Route::post('/labelView','MemberController@labelStore')->name('labelView.labelStore');
+    Route::get('/yourBrandData', 'DropdownController@ViewYourBrand');
 });
 //interLink Selection
 Route::get('dropdownlist', 'DropdownController@index');
@@ -74,3 +79,10 @@ Route::get('get-city-list', 'DropdownController@getCityList');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+//All the Product Description
+Route::group(['namespace' => 'Product'], function () {
+    Route::get('mayoFirst', 'Mayo@mayo');
+});
+
+
