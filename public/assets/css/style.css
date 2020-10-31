@@ -126,8 +126,15 @@
     opacity: 0.9
 }
 
-body {
+
+/* body {
     font-family: "Rubik", sans-serif;
+    font-weight: normal;
+    font-style: normal
+} */
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: normal;
     font-style: normal
 }
@@ -138,7 +145,8 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Rufina", serif;
+    /* font-family: "Rufina", serif; */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #000a2d;
     margin-top: 0px;
     font-style: normal;
@@ -147,7 +155,8 @@ h6 {
 }
 
 p {
-    font-family: "Rubik", sans-serif;
+    /* font-family: "Rubik", sans-serif; */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #10285d;
     font-size: 16px;
     line-height: 30px;
@@ -6375,4 +6384,12 @@ del {
 #link_bar a:active {
     color: #f0f0f0;
     background-color: #00ff00;
+}
+
+.effect {
+    color: black;
+}
+
+.effect:hover {
+    color: red;
 }

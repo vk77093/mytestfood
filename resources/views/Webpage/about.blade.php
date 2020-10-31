@@ -79,7 +79,7 @@ Foodcoast International manufactures products of truly international quality und
 
         <!-- Start Sample Area -->
 		<section class="sample-text-area">
-			<div class="container box_1170" id="aboutTest">
+			<div class="container box_1170" id="">
 				<h3 class="text-heading">OVERVIEW</h3>
 				<p class="sample-text">
                     FOODCOAST is a name synonymous with premium quality food products in the Indian and the world market. Its relationship with the food industry
@@ -97,7 +97,7 @@ Foodcoast International manufactures products of truly international quality und
 			<div class="container box_1170">
 				<!----start of Quote----->
 				<div class="section-top-border" id="vision">
-					<h3 class="mb-30">Vision</h3>
+					<h3 class="mb-30">Vision<img src="/assets/img/adapt_icon/vision.png" class="img-fluid"></h3>
 					<div class="row">
 						<div class="col-lg-12">
 							<blockquote class="generic-blockquote">
@@ -108,7 +108,7 @@ Foodcoast International manufactures products of truly international quality und
 					</div>
                 </div>
                 <div class="section-top-border">
-					<h3 class="mb-30">Mission</h3>
+					<h3 class="mb-30">Mission<img src="/assets/img/adapt_icon/mission.png" class="img-fluid"></h3>
 					<div class="row">
 						<div class="col-lg-12">
 							<blockquote class="generic-blockquote">
@@ -120,9 +120,16 @@ Foodcoast International manufactures products of truly international quality und
                     <p class="sample-text">Our vision is the aspirational goal that drives our organisation. It shapes our role and purpose in the outside
                         world. Internally, it gives us a shared, unifying ambition</p>
                 </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                        <img src="/assets/img/banner/graph.png" class="img-fluid">
+                    </div>
+                    </div>
+                </div>
 
                 <div class="section-top-border">
-					<h3 class="mb-30">Commitment to Service</h3>
+					<h3 class="mb-30">Commitment to Service<img src="/assets/img/adapt_icon/corevalue.png" class="img-fluid"></h3>
 					<div class="row">
 						<div class="col-lg-12">
 							<blockquote class="generic-blockquote">
@@ -165,9 +172,10 @@ offering consumers a wide variety of high quality culinary delights at affordabl
 					</div>
 				</div>
                 <!---end of Right Aligned----->
+                <h3 class="mb-10">Key Frame</h3>
                 <!--- start of Defination----->
                 <div class="section-top-border">
-					<h3 class="mb-30">Key Frame</h3>
+
 					<div class="row">
 						<div class="col-md-4">
 							<div class="single-defination">

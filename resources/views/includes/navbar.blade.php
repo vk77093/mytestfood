@@ -47,8 +47,8 @@
 
                                     </li>
                                     <li>
-                                        <a href="" class="border border-danger bg-danger text-white border-top rounded-top
-                                        d-lg-inline-flex p-3 hvr-wobble-horizontal hvr-shutter-out-vertical">Export</a></li>
+                                        <a href="http://newfood.test:8080/retail/" target="_blank" class="border border-danger bg-danger text-white border-top rounded-top
+                                        d-lg-inline-flex p-3 hvr-shutter-out-vertical">Retail</a></li>
                                     </ul>
 
 

@@ -27,7 +27,10 @@ Route::get('/test', function () {
     return view('homePageSecond');
 });
 Route::get('/about', 'WebController@about');
+Route::get('/ourproduct2', 'WebController@product2');
 Route::get('/ourproduct', 'WebController@product');
+
+Route::get('/ourproduct1', 'WebController@product1');
 Route::get('/nationPresent','WebController@present');
 Route::get('whoweserve','WebController@whoweserve');
 Route::get('/nearYou', 'WebController@nearYou');
@@ -84,5 +87,18 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::group(['namespace' => 'Product'], function () {
     Route::get('mayoFirst', 'Mayo@mayo');
 });
+
+//All Product Categories
+Route::group(['namespace' => 'Product'], function () {
+Route::get('/ourproduct.mayonnaise','AllCat@mayoCat');
+Route::get('/ourproduct.sandwich','AllCat@sandwichSpread');
+Route::get('/ourproduct.tomato','AllCat@tomato');
+Route::get('/ourproduct.sauces','AllCat@sauces');
+Route::get('/ourproduct.gravies','AllCat@gravies');
+Route::get('/ourproduct.dips','AllCat@dips');
+Route::get('/ourproduct.chocolate','AllCat@chocolate');
+Route::get('/ourproduct.fruits','AllCat@fruits');
+});
+
 
 

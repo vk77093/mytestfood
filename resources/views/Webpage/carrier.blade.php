@@ -27,7 +27,7 @@
                 <blockquote class="generic-blockquote">
                     "
     At Foodcoast international, the world’s most talented engineers, designers, and thought
-    leaders are shaping the future of&nbsp;online&nbsp;publishing.
+    leaders are shaping the future of&nbsp;world’s food&nbsp;Industry.
   "
   <br>
   "We know our customers, we understand our markets, we move fast, we work brilliantly together and we share the same values: We are Foodcoast International!"

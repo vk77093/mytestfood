@@ -68,6 +68,7 @@
     <div id="link_bar">
     <p class="card-text"><a href="tel:{{$item->mob_num}}">{{$item->mob_num}}</a></p>
     <p class="card-text"><a href="mailto:{{$item->email_id}}">{{$item->email_id}}</a></p>
+     <a class="btn-floating btn-in mx-1 float-right"href="https://www.linkedin.com/company/top-chef-cooking-studio" target="_blank"><i class="fab fa-linkedin-in" id="social-in"></i></a>
     </div>
     </div>
 </div>

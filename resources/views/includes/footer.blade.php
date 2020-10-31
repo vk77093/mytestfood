@@ -16,10 +16,10 @@
           consectetur
           adipisicing elit.</p> --}}
           <ul class="widget_info_text">
-             <li class="text-center"><i class="fa fa-location-arrow fa-2x" aria-hidden="true"></i> A-23/A Focal Point </li>
-             <li class="text-center">Jalandhar, Punjab</li>
-             <li class="text-center"><i class="fa fa-envelope fa-2x" aria-hidden="true"></i>  info@foodcoast.com </li>
-             <li class="text-center mr-3"><i class="fa fa-phone fa-2x"></i> 0181-5077771/72</li>
+             <li class="text-center ml-2"><i class="fa fa-location-arrow fa-2x" aria-hidden="true"></i>A-23/A Focal Point</li>
+             <li class="text-center address">Jalandhar, Punjab</li>
+             <li class="text-center ml-4"><i class="fa fa-envelope fa-2x" aria-hidden="true"></i>  info@foodcoast.com </li>
+             <li class="text-center ml-3"><i class="fa fa-phone fa-2x" style="line-height: 2"></i> 0181-5077771/72</li>
 
           </ul>
 
@@ -107,7 +107,7 @@
 <div class="col-md-4 mx-auto">
 <h5 class="font-weight-bold text-uppercase mt-3 mb-4 footer-back text-center">About us</h5>
 <p class="span text-center footer-back">FOODCOAST is a name synonymous with premium quality food products in the
-    Indian and the world market. Its relationship with the food industry dates back to over a decade.
+    Indian and the world market. Its relationship with the food industry dates back to over a decade.<br>
  <a href="/about#aboutTest"><button class="btn btn-primary">Read More</button></a></p>
 </div>
 <div class="col-md-4 mx-auto"id="link_bar">
@@ -120,12 +120,12 @@
     <li class="list-inline-item">
      <a href="https://www.aariafoods.com" target="_blank" class="mx-1">Aaria</a>
     </li>
-    <li class="list-inline-item">
+    {{-- <li class="list-inline-item">
        <a href="" class="mx-1">Trru</a>
     </li>
     <li class="list-inline-item">
        <a href="" class="mx-1">Afrin</a>
-    </li>
+    </li> --}}
     <li class="list-inline-item">
       <a href="" class="mx-1">Retail</a>
     </li>
@@ -135,7 +135,7 @@
    <h5 class="font-weight-bold text-uppercase mt-3 mb-4 footer-back text-center">Export</h5>
    <p class="span text-center footer-back">Additionally, Bootstrap also includes an .mx-auto class for horizontally
     centering fixed-width block level content—that is, content that has display:
-    block and a width set—by setting the horizontal <button class="btn btn-primary">Read More</button></p>
+    block and a width set—by setting the horizontal <br><button class="btn btn-primary">Read More</button></p>
 </div>
       </div>
   </div>
@@ -148,14 +148,14 @@
     </li>
   </ul>
   <ul class="list-unstyled list-inline text-center mt-3" id="link_bar">
-      <li class="list-inline-item"><a href="">Mayoninse |</a></li>
-      <li class="list-inline-item"><a href="">Sandwich Spread |</a></li>
-      <li class="list-inline-item"><a href="">Salad Dressing |</a></li>
-      <li class="list-inline-item"><a href="">Tomato Ketchups |</a></li>
-      <li class="list-inline-item"><a href="">Sauces |</a></li>
-      <li class="list-inline-item"><a href="">Dips |</a></li>
-       <li class="list-inline-item"><a href="">Chocolate & Toppings |</a></li>
-        <li class="list-inline-item"><a href="">Fruit Punches |</a></li>
+      <li class="list-inline-item"><a href="/ourproduct.mayonnaise">Mayoninse |</a></li>
+      <li class="list-inline-item"><a href="/ourproduct.sandwich">Sandwich Spread & Salad Dressing |</a></li>
+      <li class="list-inline-item"><a href="/ourproduct.tomato">Tomato Ketchups |</a></li>
+      <li class="list-inline-item"><a href="/ourproduct.sauces">Sauces |</a></li>
+      <li class="list-inline-item"><a href="/ourproduct.gravies">Gravies |</a></li>
+      <li class="list-inline-item"><a href="/ourproduct.dips">Dips |</a></li>
+       <li class="list-inline-item"><a href="/ourproduct.chocolate">Chocolate & Toppings |</a></li>
+        <li class="list-inline-item"><a href="/ourproduct.fruits">Fruit Punches |</a></li>
 
   </ul>
   <!-- Call to action -->
@@ -166,7 +166,7 @@
 
   <!-- Copyright -->
   <div id="link_bar">
-  <div class="footer-copyright text-center py-3">© 2020 Copyright: BY
+  <div class="footer-copyright text-center py-3">© 2020-21 Copyright: BY
 
     <a href="https://www.foodcoast.com"> Foodcoast</a>
     </div>

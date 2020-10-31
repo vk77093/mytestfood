@@ -20,6 +20,17 @@ class WebController extends Controller
         $title_page="Our-Product";
         return view('Webpage.ourproduct',compact('title_page'));
     }
+
+    public function product1()
+    {
+        $title_page = "Our-Product";
+        return view('Webpage.ourproduct1', compact('title_page'));
+    }
+    public function product2()
+    {
+        $title_page = "Our-Product2";
+        return view('Webpage.ourproduct2', compact('title_page'));
+    }
     public function present(){
         $title_page="Our Present";
         return view('Webpage.nationPresent',compact('title_page'));
@@ -32,10 +43,10 @@ class WebController extends Controller
             //$salesFetch=SalesPerson::where(['area','=',$search],
            // ['status','=','active'])->orderBy('id', 'desc')->get();
         }else{
-            //$salesFetch=SalesPerson::where('status', 'active')->orderBy('id','desc')->get();
+            $salesFetch=SalesPerson::where('status', 'active')->orderBy('id','desc')->get();
         }
-        //$salesFetch= $salesFetch;
-        $salesFetch;
+        $salesFetch= $salesFetch;
+        //$salesFetch;
         $salesPerson = SalesPerson::select('area')->distinct()->get();
 
         return view('Webpage.nearYou',compact('salesPerson', 'salesFetch','title_page'));
