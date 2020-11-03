@@ -16,14 +16,14 @@
 <hr>
 <div class="row mt-3 text-center">
  <div class="col-sm-3 mt-3">
-<div class="img hvr-float-shadow"><a href="/ourproduct.mayonnaise"><img src="/assets/img/adapt_icon/Mayo.png
+<div class="img hvr-float-shadow"><a href="/ourproduct.mayonnaise"><img src="/assets/img/adapt_icon/Mayo burger.png
     " class="img-fluid center-block" alt="Responsive image"></a></div>
     <p class="text-center mt-2">Mayoninse</p>
 
     </div>
     <div class="col-sm-3 mt-3">
 <div class="img hvr-float-shadow">
-   <a href="/ourproduct.sandwich"><img src="/assets/img/adapt_icon/Crush.png" class="img-fluid center-block" alt="Responsive image"></a></div>
+   <a href="/ourproduct.sandwich"><img src="/assets/img/adapt_icon/Mayo.png" class="img-fluid center-block" alt="Responsive image"></a></div>
     <p class="text-center mt-2">Sandwich Spread & Salad Dressing </p>
     </div>
     <div class="col-sm-3 mt-3">
@@ -31,7 +31,7 @@
     <p class="text-center mt-2">Tomato Ketchups</p>
     </div>
     <div class="col-sm-3 mt-3">
-<div class="img hvr-float-shadow"><a href="/ourproduct.sauces"><img src="/assets/img/adapt_icon/Tomato.png" class="img-fluid center-block" alt="Responsive image"></a></div>
+<div class="img hvr-float-shadow"><a href="/ourproduct.sauces"><img src="/assets/img/adapt_icon/Sauces.png" class="img-fluid center-block" alt="Responsive image"></a></div>
     <p class="text-center mt-2">Sauces</p>
     </div>
     <div class="col-sm-3 mt-3">
@@ -39,7 +39,7 @@
     <p class="text-center mt-2">Gravies & Paste</p>
     </div>
     <div class="col-sm-3 mt-3">
-<div class="img hvr-float-shadow"><a href="/ourproduct.dips"><img src="/assets/img/adapt_icon/Tomato.png" class="img-fluid center-block" alt="Responsive image"></a></div>
+<div class="img hvr-float-shadow"><a href="/ourproduct.dips"><img src="/assets/img/adapt_icon/DIP.png" class="img-fluid center-block" alt="Responsive image"></a></div>
     <p class="text-center mt-2">Dips</p>
     </div>
     <div class="col-sm-3 mt-3">

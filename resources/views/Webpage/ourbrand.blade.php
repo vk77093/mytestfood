@@ -25,16 +25,20 @@
 
          <section class="services-area-brands">
          <div class="container pb-top">
+
              <div class="row align-items-center">
                <div class="col-lg-8">
             <div class="properties__button">
+
             <nav class="navtest">
 <div class="nav nav-tabs nav justify-content-center" id="nav-tab" role="tablist" aria-orientation="vertical">
-  <a class="nav-item nav-link active" id="nav-affrin-tab" data-toggle="tab" href="#nav-affrin" role="tab" aria-controls="nav-affrin" aria-selected="false">AFFRIN</a>
-  <a class="nav-item nav-link" id="nav-trru-tab" data-toggle="tab" href="#nav-trru" role="tab" aria-controls="nav-trru" aria-selected="false">TRRU</a>
-  <a class="nav-item nav-link" id="nav-retail-tab" data-toggle="tab" href="#nav-retail" role="tab" aria-controls="nav-retail" aria-selected="false">RETAIL</a>
+  {{-- <a class="nav-item nav-link active" id="nav-affrin-tab" data-toggle="tab" href="#nav-affrin" role="tab" aria-controls="nav-affrin" aria-selected="false">AFFRIN</a>
+  <a class="nav-item nav-link" id="nav-trru-tab" data-toggle="tab" href="#nav-trru" role="tab" aria-controls="nav-trru" aria-selected="false">TRRU</a> --}}
+  <a class="nav-item nav-link active" id="nav-foodcoast-tab" data-toggle="tab" href="#nav-foodcoast" role="tab" aria-controls="nav-foodcoast" aria-selected="false">FOODCOAST</a>
+
   <a class="nav-item nav-link" id="nav-aaria-tab" data-toggle="tab" href="#nav-aaria" role="tab" aria-controls="nav-aaria" aria-selected="false">AARIA</a>
-  <a class="nav-item nav-link" id="nav-foodcoast-tab" data-toggle="tab" href="#nav-foodcoast" role="tab" aria-controls="nav-foodcoast" aria-selected="false">FOODCOAST</a>
+  <a class="nav-item nav-link" id="nav-export-tab" data-toggle="tab" href="#nav-export" role="tab" aria-controls="nav-export" aria-selected="false">EXPORT</a>
+  <a class="nav-item nav-link" id="nav-retail-tab" data-toggle="tab" href="#nav-retail" role="tab" aria-controls="nav-retail" aria-selected="false">RETAIL</a>
 </div>
             </nav>
             <!--end of nav button---->
@@ -46,7 +50,7 @@
                      <!--nav card---->
                      <div class="tab-content active" id="nav-tabContent">
                          <!--card one--->
-                         <div class="tab-pane fade active show" id="nav-affrin" role="tabpanel" aria-labelledby="nav-affrin-tab">
+                         <div class="tab-pane fade" id="nav-affrin" role="tabpanel" aria-labelledby="nav-affrin-tab">
                              <div class="text-center">
 <img src="assets/img/ProductImage/afrinlogo.jpg" alt="afrin Logo" class="img-thumbnail">
                              </div>
@@ -180,7 +184,7 @@
                          </div>
 
             <!---start of Foodcoast Brand---->
-            <div class="tab-pane fade" id="nav-foodcoast" role="tabpanel" aria-labelledby="nav-foodcoast-tab">
+            <div class="tab-pane fade active show" id="nav-foodcoast" role="tabpanel" aria-labelledby="nav-foodcoast-tab">
             <p>FOODCOAST is a name synonymous with premium quality food products in the Indian and the world market.
                 Its relationship with the food industry dates back to over a decade. Conceptualised in 2009 as a
                 trading unit in the Indian food service sector, Foodcoast has grown manifolds over the years. Today,
@@ -191,6 +195,20 @@
                 <br>
                 <a href="/about#vision"><button class="btn btn-info">Reda More</button></a>
             </div>
+            <!----- Export Brand------------------->
+            <!---start of Foodcoast Brand---->
+            <div class="tab-pane fade" id="nav-export" role="tabpanel" aria-labelledby="nav-export-tab">
+            <p>FOODCOAST is a name synonymous with premium quality food products in the Indian and the world market.
+                Its relationship with the food industry dates back to over a decade. Conceptualised in 2009 as a
+                trading unit in the Indian food service sector, Foodcoast has grown manifolds over the years. Today,
+                the company is into manufacturing of processed food products like Mayonnaise, Ketchups, Sandwich Spreads,
+                Dips, and Gravies, Crushes and other ready-to-use products, catering to a global clientele and is soon to
+                foray into retailing. Spread over a lavish 12,000sq meters, the company boasts of state-of-the-art machinery
+                and is well-equipped to meet the consumer’s growing need for products of the highest quality</p>
+                <br>
+                <a href="/about#vision"><button class="btn btn-info">Reda More</button></a>
+            </div>
+            <!---end of export Brand-------------->
                      </div>
                  </div>
              </div>

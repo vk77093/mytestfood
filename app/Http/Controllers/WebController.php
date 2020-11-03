@@ -88,6 +88,12 @@ $eventData=UpcomingEvent::where('event_status','open')->orderBy('id','desc')->ge
         $jobData=AddJob::where('status','open')->orderBy('id','desc')->paginate(3);
         return view('Webpage.carrier',compact('jobData', 'title_page'));
     }
-
-
+    public function certificate(){
+        $title_page="Certification";
+        return view('Webpage.certificate',compact('title_page'));
+    }
+    public function packaging(){
+        $title_page="Packaging_Type";
+        return view('Webpage.packaging_type',compact('title_page'));
+    }
 }

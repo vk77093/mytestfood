@@ -85,9 +85,10 @@
 <div class="container mt-5 text-center" id="link_bar">
 
     <ul class="list-unstyled list-inline">
-        <li class="list-inline-item"><a href="">Certificate</a></li>
+        <li class="list-inline-item"><a href="/certificate">Certificate</a></li>
         <li class="list-inline-item"><a href="/upcoming">Upcoming</a></li>
-        <li class="list-inline-item"><a href="/Become-A-Membe">Jion Us</a></li>
+        <li class="list-inline-item"><a href="/Become-A-Member">Jion Us</a></li>
+        <li class="list-inline-item"><a href="/packaging">Packaging</a></li>
     </ul>
 
 </div>

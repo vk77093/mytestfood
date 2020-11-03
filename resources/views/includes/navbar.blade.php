@@ -17,18 +17,21 @@
                                 <ul id="navigation">
                                     <li><a href="/">Home</a></li>
                                     <li><a href="/about">About</a> </li>
+                                     <li><a href="">Brands</a>
+                                        <ul class="submenu">
+                                            <li><a href="/ourbrand">Our Brand</a>
+{{-- <ul class="submenu1">
+   <li><a href="/ourbrand">Our Brand</a>
+</ul> --}}
+                                            <li><a href="/yourbrand">Your Brand</a></li>
+                                        </ul>
+                                    </li>
                                     <li><a href="">Food Services</a>
                                         <ul class="submenu">
                                             <li><a href="/ourproduct">Product Range</a></li>
                                             <li><a href="nationPresent">Nationwise Present</a></li>
                                             <li><a href="/whoweserve">Who We Serve</a></li>
                                             <li><a href="/nearYou">Sales person Near You</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="">Brands</a>
-                                        <ul class="submenu">
-                                            <li><a href="/ourbrand">Our Brand</a></li>
-                                            <li><a href="/yourbrand">Your Brand</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="#">Participation</a>
@@ -49,6 +52,9 @@
                                     <li>
                                         <a href="http://newfood.test:8080/retail/" target="_blank" class="border border-danger bg-danger text-white border-top rounded-top
                                         d-lg-inline-flex p-3 hvr-shutter-out-vertical">Retail</a></li>
+                                        {{-- <li>
+                                        <a href="http://newfood.test:8080/retail/" target="_blank" class="border border-danger bg-danger text-white border-top rounded-top
+                                        d-lg-inline-flex p-3 hvr-shutter-out-vertical">Export</a></li> --}}
                                     </ul>
 
 

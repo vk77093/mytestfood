@@ -130,14 +130,14 @@ Founder, H.R Group of Industries</h6></p>
 <h5 class="text-center font-weight-bold" id="products">Our Unique Range of Foodcoast Products</h5>
 <div class="row mt-3 text-center">
  <div class="col-sm-3 mt-3">
-<div class="img hvr-float-shadow"><a href="/ourproduct.mayonnaise"><img src="/assets/img/adapt_icon/Mayo.png
+<div class="img hvr-float-shadow"><a href="/ourproduct.mayonnaise"><img src="/assets/img/adapt_icon/Mayo burger.png
     " class="img-fluid center-block" alt="Responsive image"></a></div>
     <p class="text-center mt-2">Mayoninse</p>
 
     </div>
     <div class="col-sm-3 mt-3">
 <div class="img hvr-float-shadow">
-   <a href="/ourproduct.sandwich"><img src="/assets/img/adapt_icon/Crush.png" class="img-fluid center-block" alt="Responsive image"></a></div>
+   <a href="/ourproduct.sandwich"><img src="/assets/img/adapt_icon/Mayo.png" class="img-fluid center-block" alt="Responsive image"></a></div>
     <p class="text-center mt-2">Sandwich Spread & Salad Dressing</p>
     </div>
     <div class="col-sm-3 mt-3">
@@ -145,7 +145,7 @@ Founder, H.R Group of Industries</h6></p>
     <p class="text-center mt-2">Tomato Ketchups</p>
     </div>
     <div class="col-sm-3 mt-3">
-<div class="img hvr-float-shadow"><a href="/ourproduct.sauces"><img src="/assets/img/adapt_icon/Tomato.png" class="img-fluid center-block" alt="Responsive image"></a></div>
+<div class="img hvr-float-shadow"><a href="/ourproduct.sauces"><img src="/assets/img/adapt_icon/Sauces.png" class="img-fluid center-block" alt="Responsive image"></a></div>
     <p class="text-center mt-2">Sauces</p>
     </div>
     <div class="col-sm-3 mt-3">
@@ -153,7 +153,7 @@ Founder, H.R Group of Industries</h6></p>
     <p class="text-center mt-2">Gravies & Paste</p>
     </div>
     <div class="col-sm-3 mt-3">
-<div class="img hvr-float-shadow"><a href="/ourproduct.dips"><img src="/assets/img/adapt_icon/Tomato.png" class="img-fluid center-block" alt="Responsive image"></a></div>
+<div class="img hvr-float-shadow"><a href="/ourproduct.dips"><img src="/assets/img/adapt_icon/DIP.png" class="img-fluid center-block" alt="Responsive image"></a></div>
     <p class="text-center mt-2">Dips</p>
     </div>
     <div class="col-sm-3 mt-3">
@@ -221,6 +221,9 @@ Founder, H.R Group of Industries</h6></p>
         </div>
     </div>
 </div>
+<div class="text-center mt-2">
+              <a href="/certificate"><button class="btn btn-danger text-center">Know More</button></a>
+          </div>
 <hr>
 <div class="container mb-2" style="border-style: outset;">
     <div class="jumbotron jumbotron-fluid" style="background-color: white">

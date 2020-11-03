@@ -48,7 +48,9 @@ Route::post('/yourbrand', 'MKTDepartment\DropdownController@storeYourBrand')->na
 Route::get('/ourparticipation','WebController@participation');
 Route::get('/upcoming','WebController@upcoming');
 Route::get('/contact','WebController@contact');
+Route::get('/certificate','WebController@certificate');
 //Route::get('/carrier','WebController@carrier');
+Route::get('/packaging','WebController@packaging');
 Route::resource('/career', 'HRDepartment\JobForm');
 Route::resource('/Become-A-Member', 'MKTDepartment\MemberController');
 
