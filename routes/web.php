@@ -51,8 +51,10 @@ Route::get('/contact','WebController@contact');
 Route::get('/certificate','WebController@certificate');
 //Route::get('/carrier','WebController@carrier');
 Route::get('/packaging','WebController@packaging');
+ROute::get('/exportNation', 'WebController@exporting');
 Route::resource('/career', 'HRDepartment\JobForm');
 Route::resource('/Become-A-Member', 'MKTDepartment\MemberController');
+
 
 Route::group(['middleware' => 'HRdepartment','as'=> 'HRdepartment'], function () {
     Route::get('/HRdash', 'HRDepartment\JobForm@Hrdash');

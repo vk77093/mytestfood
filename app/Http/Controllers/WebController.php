@@ -96,4 +96,8 @@ $eventData=UpcomingEvent::where('event_status','open')->orderBy('id','desc')->ge
         $title_page="Packaging_Type";
         return view('Webpage.packaging_type',compact('title_page'));
     }
+    public function exporting(){
+        $title_page="Our Export Nation";
+        return view('Webpage.exportCountry',compact('title_page'));
+    }
 }
