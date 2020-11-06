@@ -1,7 +1,7 @@
 @extends('includes.mainpage')
 @section('maincontent')
 <!-- Hero Start -->
-        <div class="slider-area ">
+        <div class="slider-area" style="background-image: url('assets/img/banner/brand2.jpg')">
             <div class="slider-height2 d-flex align-items-center">
                 <div class="container">
                     <div class="row">

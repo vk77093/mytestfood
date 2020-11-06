@@ -52,9 +52,9 @@
         </section>
         <div class="container" id="result" style="margin-top:-40px">
     @if (request()->query('search_area'))
-    <h5 class="text-center mb-5">The Nearst Salesperson AT  : <strong>{{request()->query('search_area')}}</strong>  Is Below <br>
+    <h4 class="text-center mb-5 mt-2">The Nearst Salesperson AT  : <strong>{{request()->query('search_area')}}</strong>  Is Below <br>
     you can directly talk with them or send email for book your order
-    </h5>
+    </h4>
     <div class="row">
 @forelse ($salesFetch as $item)
 <div class="col-sm-4 mt-4">

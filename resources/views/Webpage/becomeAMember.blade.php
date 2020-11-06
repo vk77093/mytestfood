@@ -24,7 +24,7 @@
         <!--- some line for Member---->
         <div class="container pb-top">
             <section class="intro-text">
-                <blockquote class="generic-blockquote">
+                <blockquote class="blockquote">
                     "
   <strong>Thank you for your interest in Foodcoast International! We are grateful for the opportunity to show you why Foodcoast International is the superior choice for your business.</strong>
   "

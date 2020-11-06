@@ -149,8 +149,8 @@
     </li>
   </ul>
   <ul class="list-unstyled list-inline text-center mt-3" id="link_bar">
-      <li class="list-inline-item"><a href="/ourproduct.mayonnaise">Mayoninse |</a></li>
-      <li class="list-inline-item"><a href="/ourproduct.sandwich">Sandwich Spread & Salad Dressing |</a></li>
+      <li class="list-inline-item"><a href="/ourproduct.mayonnaise">Mayoninses |</a></li>
+      <li class="list-inline-item"><a href="/ourproduct.sandwich">Spreads & Salad Dressings |</a></li>
       <li class="list-inline-item"><a href="/ourproduct.tomato">Tomato Ketchups |</a></li>
       <li class="list-inline-item"><a href="/ourproduct.sauces">Sauces |</a></li>
       <li class="list-inline-item"><a href="/ourproduct.gravies">Gravies |</a></li>

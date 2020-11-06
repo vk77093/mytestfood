@@ -18,13 +18,13 @@
  <div class="col-sm-3 mt-3">
 <div class="img hvr-float-shadow"><a href="/ourproduct.mayonnaise"><img src="/assets/img/adapt_icon/Mayo burger.png
     " class="img-fluid center-block" alt="Responsive image"></a></div>
-    <p class="text-center mt-2">Mayoninse</p>
+    <p class="text-center mt-2">Mayoninses</p>
 
     </div>
     <div class="col-sm-3 mt-3">
 <div class="img hvr-float-shadow">
    <a href="/ourproduct.sandwich"><img src="/assets/img/adapt_icon/Mayo.png" class="img-fluid center-block" alt="Responsive image"></a></div>
-    <p class="text-center mt-2">Sandwich Spread & Salad Dressing </p>
+    <p class="text-center mt-2">Spreads & Salad Dressings </p>
     </div>
     <div class="col-sm-3 mt-3">
 <div class="img hvr-float-shadow"><a href="/ourproduct.tomato"><img src="/assets/img/adapt_icon/Tomato.png" class="img-fluid center-block" alt="Responsive image"></a></div>

@@ -1,4 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900|Rufina:400,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;1,300&family=Montserrat+Alternates:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
 .white-bg {
     background: #ffffff
 }
@@ -146,22 +149,23 @@ h4,
 h5,
 h6 {
     /* font-family: "Rufina", serif; */
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Montserrat', sans-serif;
     color: #000a2d;
     margin-top: 0px;
     font-style: normal;
     font-weight: 500;
-    text-transform: normal
+    text-transform: normal;
 }
 
 p {
     /* font-family: "Rubik", sans-serif; */
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: #10285d;
-    font-size: 16px;
-    line-height: 30px;
+    font-family: Cormorant, serif;
+    color: #000000;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 31px;
     margin-bottom: 15px;
-    font-weight: normal
+    font-weight: normal;
 }
 
 .bg-img-1 {
@@ -402,7 +406,7 @@ hr {
 }
 
 .btn {
-    background: #ec5b53;
+    background: #727376;
     padding: 27px 44px;
     text-transform: capitalize;
     font-family: "Rubik", sans-serif;
@@ -549,13 +553,13 @@ hr {
 
 #scrollUp,
 #back-top {
-    background: #ec5b53;
+    background: #727376;
     height: 50px;
     width: 50px;
     right: 31px;
     bottom: 18px;
     position: fixed;
-    color: #fff;
+    color: white;
     font-size: 20px;
     text-align: center;
     border-radius: 50%;
@@ -5285,7 +5289,7 @@ hr {
 
 .sample-text-area {
     background: #fff;
-    padding: 100px 0 70px 0
+    padding: 100px 0 10px 0
 }
 
 .text-heading {
@@ -6384,7 +6388,7 @@ del {
 }
 
 .section-top-border {
-    padding: 50px 0;
+    padding: 10px 0;
     border-top: 1px dotted #eee
 }
 

@@ -101,7 +101,7 @@
                             <h3 class="text-center">All Range of Salads Dressing</h3>
                             <table class="table">
   <thead>
-    <tr class="sandwichHead">
+    <tr class="saladHead">
       <th scope="col">Product</th>
       <th scope="col">Pack Size</th>
       <th scope="col">Packaging</th>
@@ -115,7 +115,7 @@
       <td>EVOH Pouch</td>
       <td>3 months</td>
     </tr>
-    <tr class="sandwichBottom">
+    <tr class="saladBottom">
       <th scope="row">Cheese Sauce</th>
       <td>1 kg</td>
       <td>EVOH Pouch</td>
@@ -127,7 +127,7 @@
       <td>Insti Bottle</td>
       <td>4 months</td>
     </tr>
-    <tr class="sandwichBottom">
+    <tr class="saladBottom">
       <th scope="row">Chipotle</th>
      <td>1 kg</td>
       <td>EVOH Pouch</td>
@@ -139,7 +139,7 @@
       <td>Insti Bottle</td>
       <td>4 months</td>
     </tr>
-    <tr class="sandwichBottom">
+    <tr class="saladBottom">
       <th scope="row">Sweet Onion</th>
      <td>1 kg</td>
       <td>Insti Bottle</td>

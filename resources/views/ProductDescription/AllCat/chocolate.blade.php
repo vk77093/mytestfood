@@ -11,7 +11,7 @@
               <div class="text-center">
 					<div class="row ml-4">
 						<div class="col-lg-12 ml-4 mr-4">
-							<blockquote class="generic-blockquote text-center">
+							<blockquote class="generic-blockquote text-center headtext">
                                 “Treat your palates with the deliciously
                                 tempting Foodcoast Toppings. A Taste that
                                 leaves you wanting more....”

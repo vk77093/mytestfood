@@ -38,7 +38,7 @@
     <p class="text-center mr-2"><strong>Foodcoast International</strong> was started in 2009, as a trading company and set up its manufacturing base in 2010. We strive to serve consistently and innovatively the markets with best food products at competitive prices. The company is focused on planning and executing the conception, pricing, promotion and distribution of world class food products.</p>
           <p class="text-center mr-2">We are into manufacturing of Mayonnaise, Ketchup, Spreads, Salad Dressings, Indian gravies, Toppings, Crushes etc. for both Indian &amp; World cuisine, in bulk packaging for instutionalized sales.</p>
           <div class="text-center">
-              <a href="/about#aboutTest"><button class="btn btn-danger text-center">Know More</button></a>
+              <a href="/about#aboutTest"><button class="btn hero-btn"  data-animation="fadeInLeft" data-delay=".8s">Know More</button></a>
           </div>
 </div>
 <hr>
@@ -49,7 +49,7 @@
 </div>
 <hr>
 <!--site-main start-->
-    <div class="site-main">
+    {{-- <div class="site-main">
 
         <!--shop-views-section-->
         <section class="shop-views-section clearfix">
@@ -94,25 +94,6 @@ Founder, H.R Group of Industries</h6></p>
                         </div>
 
                     </div>
-<!----company end---->
- {{-- <div class="col-lg-12">
-
-                        <div class="tab-content" id="myTabContent">
-                            <div class="tab-pane fade active show" id="grid" role="tabpanel">
-                                <div class="row">
-								<div class="col-lg-12">
-								<p><br><br>
-								<h3>In Service Since 1952.......</h3>
-								<p style="font-size:18px;" align="justify">H.R. Industries originated from H.R. Group. The solid foundation of this Group was laid in 1952 by a futuristic visionary, an ex-Air Force Officer, Mr. Harbans Lal Sharma.</p>
-								<p style="font-size:18px;" align="justify">In view of present market needs, we have developed H.R Industries with the latest machinery imported from Germany, USA & Taiwan. Our advanced CAD-CAM system for designing and machining of molds and dies as per customer requirement, latest forging plant, broaching and stamping machines, automatic grinding machines, PLC controlled heat treatment furnace for manufacturing high quality spanners, pliers, pincers adjustable wrenches etc . which are produced in environment friendly conditions while adhering to all safety norms & meeting customer specifications. We are ISO certified and BSCI approved for social compliance and accredited to use “GS” Quality Testing Mark from Germany on our spanners. Backed by highly experienced office staff and well trained qualified team of engineer and workers to produce world class quality. Our fully-furnished laboratory is equipped with Metal Analyzer Spectrometer, Rockwell and Vicker Hardness Testing machine along with Computerized Fatigue & Torque Testing machines, Salt Spray apparatus and others for complete testing of our products. Well managed packing and dispatch department.</p>
-								<p style="font-size:18px;" align="justify">Capable of providing a comprehensive array of hand tools, H.R. Industries will always be privileged to connect and enhance relationship with its International clients.</p>
-								</p>
-								</div>
-								</div>
-								</div>
-								</div>
-								</div> --}}
-
 
                 </div><!-- row end -->
             </div>
@@ -120,25 +101,24 @@ Founder, H.R Group of Industries</h6></p>
         <!--team-section end-->
 
 
-    </div><!--site-main end-->
-    <hr>
+    </div><!--site-main end--> --}}
 @include('includes.promoSide')
 <!---About us ended Section----->
 <!--- Product Range Section------>
 <hr>
  <div class="container mt-5" id="ourProduct">
-<h5 class="text-center font-weight-bold" id="products">Our Unique Range of Foodcoast Products</h5>
+<h5 class="text-center font-weight-bold" id="products">Our Unique Range of Products</h5>
 <div class="row mt-3 text-center">
  <div class="col-sm-3 mt-3">
 <div class="img hvr-float-shadow"><a href="/ourproduct.mayonnaise"><img src="/assets/img/adapt_icon/Mayo burger.png
     " class="img-fluid center-block" alt="Responsive image"></a></div>
-    <p class="text-center mt-2">Mayoninse</p>
+    <p class="text-center mt-2">Mayoninses</p>
 
     </div>
     <div class="col-sm-3 mt-3">
 <div class="img hvr-float-shadow">
    <a href="/ourproduct.sandwich"><img src="/assets/img/adapt_icon/Mayo.png" class="img-fluid center-block" alt="Responsive image"></a></div>
-    <p class="text-center mt-2">Sandwich Spread & Salad Dressing</p>
+    <p class="text-center mt-2">Spreads & Salad Dressings</p>
     </div>
     <div class="col-sm-3 mt-3">
 <div class="img hvr-float-shadow"><a href="/ourproduct.tomato"><img src="/assets/img/adapt_icon/Tomato.png" class="img-fluid center-block" alt="Responsive image"></a></div>
@@ -150,7 +130,7 @@ Founder, H.R Group of Industries</h6></p>
     </div>
     <div class="col-sm-3 mt-3">
 <div class="img hvr-float-shadow"><a href="/ourproduct.gravies"><img src="/assets/img/adapt_icon/Gravies.png" class="img-fluid center-block" alt="Responsive image"></a></div>
-    <p class="text-center mt-2">Gravies & Paste</p>
+    <p class="text-center mt-2">Gravies & Pastes</p>
     </div>
     <div class="col-sm-3 mt-3">
 <div class="img hvr-float-shadow"><a href="/ourproduct.dips"><img src="/assets/img/adapt_icon/DIP.png" class="img-fluid center-block" alt="Responsive image"></a></div>
@@ -176,33 +156,6 @@ Founder, H.R Group of Industries</h6></p>
     </div>
 </div>
 
-                 {{-- <!-- About Area start -->
-         <section class="about-area section-padding mt-0">
-            <div class="container">
-                <div class="row ">
-                    <div class="col-lg-5">
-                        <div class="about-caption mb-50">
-                            <h3>Designing With Passion While Exploring The World.</h3>
-                            <p class="pera1">Consectetur adipiscing elit, sed do eiusmod tempor ididunt ut labore et dolore magna aliqua. Quis ipsum suspendisces gravida. Risus commodo viverra sebfd dho eiusmod tempor maecenas accumsan lacus.</p>
-                            <p>Consectetur adipiscing elit, sed do eiusmod tempor ididunt ut labore et dolore magna aliqua. </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-5 offset-lg-1">
-                        <div class="about-caption2">
-                            <h3>Any Type Of Query<br> & Discussion.</h3>
-                            <p>Late talk with me</p>
-                           <div class="send-cv">
-                                <a href="#">hire@vijay.com</a>
-                                <i class="ti-arrow-right"></i>
-                           </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> --}}
-        <!-- About Area End -->
-{{-- <hr>
-@include('includes.counter') --}}
 <hr>
 <div class="container mb-3">
 <div class="row text-center">
@@ -211,7 +164,7 @@ Founder, H.R Group of Industries</h6></p>
 </div>
 <hr>
 <div class="container mb-3">
- <h2 class="text-center font-weight-bold" id="certificate">Our Certificates</h2>
+ <h2 class="text-center font-weight-bold" id="certificate">Certification</h2>
     <div class="row text-center mt-4">
         <div class="col-sm-6">
         <img src="/assets/img/banner/Halal Certificate.jpg" class="img-fluid hvr-grow">
@@ -222,7 +175,7 @@ Founder, H.R Group of Industries</h6></p>
     </div>
 </div>
 <div class="text-center mt-2">
-              <a href="/certificate"><button class="btn btn-danger text-center">Know More</button></a>
+              <a href="/certificate"><button class="btn hero-btn"  data-animation="fadeInLeft" data-delay=".8s">Know More</button></a>
           </div>
 <hr>
 <div class="container mb-2" style="border-style: outset;">
@@ -231,12 +184,9 @@ Founder, H.R Group of Industries</h6></p>
     <h1 class="display-4">Upcoming Product Name</h1>
     <p class="lead">35 days Left</p>
     <div class="text-center">
-              <a href="/upcoming"><button class="btn btn-danger text-center">Know More</button></a>
+              <a href="/upcoming"><button class="btn hero-btn"  data-animation="fadeInLeft" data-delay=".8s">Know More</button></a>
           </div>
   </div>
 </div>
 </div>
-
-
-{{-- @include('includes.progress') --}}
 @endsection

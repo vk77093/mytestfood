@@ -24,7 +24,7 @@
         <!--- some line about the carrier boostup----->
         <div class="container pb-top">
             <section class="intro-text">
-                <blockquote class="generic-blockquote">
+                <blockquote class="blockquote">
                     "
     At Foodcoast international, the world’s most talented engineers, designers, and thought
     leaders are shaping the future of&nbsp;world’s food&nbsp;Industry.
@@ -40,7 +40,7 @@
                 <div class="container">
             <section class="intro-text">
                 <h3 class="mb-30 text-center">Open Positions</h3>
-                <blockquote class="generic-blockquote">
+                <blockquote class="blockquote">
                     "
     At FoodCoast International, work is driven by passion of purpose. If you are constantly looking for ways to better yourself while keeping the interests of the company in mind, YOU are just right for us.
 We give people the chance to contribute every day while making a long-term impact.  At FoodCoast International, we are committed to bringing the best quality savoury delights at optimum prices to every meal, across every coast, while emphasising on individual responsibility & opportunity.

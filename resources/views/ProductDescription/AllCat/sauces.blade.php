@@ -26,13 +26,13 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-4 text-center">
-                            <div class="img hvr-float"><img src="/assets/img/ProductImage/ClassicMayo.png" class="img-fluid center-block" alt="Responsive image"></div>
+                            <div class="img hvr-float"><img src="/assets/img/ProductImage/Pizza_Topping.jpg" class="img-fluid center-block" alt="Responsive image"></div>
                         </div>
                         <div class="col-sm-8 mt-4 text-center">
                             <h3 class="text-center">All Range of Sauces</h3>
                             <table class="table">
   <thead>
-    <tr class="tomatoHead">
+    <tr class="sauceHead">
       <th scope="col">Product</th>
       <th scope="col">Pack Size</th>
       <th scope="col">Packaging</th>
@@ -46,7 +46,7 @@
       <td>EVOH Pouch</td>
       <td>6 months</td>
     </tr>
-    <tr class="tomatoBottom">
+    <tr class="sauceBottom">
       <th scope="row">Pasta Sauce</th>
       <td>1 kg</td>
       <td>EVOH Pouch</td>
@@ -58,7 +58,7 @@
       <td>EVOH Pouch</td>
       <td>6 months</td>
     </tr>
-    <tr class="tomatoBottom">
+    <tr class="sauceBottom">
       <th scope="row">Italian Pizza Pasta NOG</th>
      <td>1 kg</td>
       <td>EVOH Pouch</td>
@@ -70,7 +70,7 @@
       <td>EVOH Pouch</td>
       <td>4 months</td>
     </tr>
-    <tr class="tomatoBottom">
+    <tr class="sauceBottom">
       <th scope="row">Mustard Sauce</th>
      <td>1 kg</td>
       <td>EVOH Pouch</td>
@@ -82,7 +82,7 @@
       <td>EVOH Pouch</td>
       <td>6 months</td>
     </tr>
-    <tr class="tomatoBottom">
+    <tr class="sauceBottom">
       <th scope="row">Barbeque Sauce</th>
      <td>1 kg</td>
       <td>EVOH Pouch</td>
