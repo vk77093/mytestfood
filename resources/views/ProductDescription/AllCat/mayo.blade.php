@@ -10,8 +10,8 @@
 <div class="container pb-top">
               <div class="text-center">
 					<div class="row ml-4">
-						<div class="col-lg-12 ml-4 mr-4">
-							<blockquote class="generic-blockquote text-center">
+						<div class="col-lg-12 ml-4 mr-4 blockquotepro">
+							<blockquote class="blockquote text-center headtext">
                                 “Enrich your taste buds with the delectable thick creamy
                                  mayonnaise that blends all flavours in a perfect equilibrium”
 							</blockquote>
@@ -20,16 +20,16 @@
                 </div>
                 </div>
         <!----start of Quote----->
-        <section class="sample-text-area" style="margin-top: -70px;">
+        <section class="sample-text-area blockquotepro">
             <div class="container box_1170 text-center">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-4 text-center">
                             <div class="img hvr-float"><img src="/assets/img/ProductImage/ClassicMayo.png" class="img-fluid center-block" alt="Responsive image"></div>
                         </div>
-                        <div class="col-sm-8 mt-4 text-center">
+                        <div class="col-sm-8 mt-4 text-center text-heading">
                             <h3 class="text-center">All Range of Mayonnaise</h3>
-                            <table class="table">
+                            <table class="table tableFont">
   <thead>
     <tr class="mayoHead">
       <th scope="col">Product</th>
@@ -40,7 +40,7 @@
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Real Mayo</th>
+      <th>Real Mayo</th>
       <td>1 kg</td>
       <td>EVOH Pouch</td>
       <td>4 months</td>

@@ -8,13 +8,13 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap">
-                                <h2>Upcoming Events</h2>
-                                <nav aria-label="breadcrumb ">
+                                <p class="headingText">Upcoming Events</p>
+                                {{-- <nav aria-label="breadcrumb ">
                                     <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a href="">Home</a></li>
                                     <li class="breadcrumb-item"><a href="">Upcoming Events</a></li>
                                     </ol>
-                                </nav>
+                                </nav> --}}
                             </div>
                         </div>
                     </div>

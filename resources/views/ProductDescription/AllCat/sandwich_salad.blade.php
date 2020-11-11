@@ -10,8 +10,8 @@
 <div class="container pb-top">
               <div class="text-center">
 					<div class="row ml-4">
-						<div class="col-lg-12 ml-4 mr-4">
-							<blockquote class="generic-blockquote text-center">
+						<div class="col-lg-12 ml-4 mr-4 blockquotepro">
+							<blockquote class="blockquote text-center headtext">
                                 “Pump up the flavours on your sandwich board
                                 with unique combinations of Foodcoast
                                 Spreads for adventurous diners”
@@ -28,9 +28,9 @@
                         <div class="col-sm-4 text-center">
                             <div class="img hvr-float"><img src="/assets/img/ProductImage/Tandoori_Mayo.jpg" class="img-fluid center-block" alt="Responsive image"></div>
                         </div>
-                        <div class="col-sm-8 mt-4 text-center">
+                        <div class="col-sm-8 mt-4 text-center text-heading">
                             <h3 class="text-center">All Range of Sandwich Spreads</h3>
-                            <table class="table">
+                            <table class="table tableFont">
   <thead>
     <tr class="sandwichHead">
       <th scope="col">Product</th>
@@ -84,7 +84,7 @@
               <div class="text-center">
 					<div class="row ml-4">
 						<div class="col-lg-12 ml-4 mr-4">
-							<blockquote class="generic-blockquote text-center">
+							<blockquote class="blockquote text-center headtext">
                                 “Give your Salads a makeover with over a dozen
                                 Salad dressing which add a great flavour to even a simple
                                 plate of greens”
@@ -97,9 +97,9 @@
             <div class="container box_1170 text-center">
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-8 mt-4 text-center">
+                        <div class="col-sm-8 mt-4 text-center text-heading">
                             <h3 class="text-center">All Range of Salads Dressing</h3>
-                            <table class="table">
+                            <table class="table tableFont">
   <thead>
     <tr class="saladHead">
       <th scope="col">Product</th>

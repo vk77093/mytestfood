@@ -1,4 +1,3 @@
-    @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lobster&display=swap');
     html {
         scroll-behavior: smooth;
     }
@@ -248,10 +247,22 @@
     }
 
     .headtext {
-        font-family: 'georgia', cursive;
-        font-size: 25px;
+        font-family: Cormorant, serif;
+        font-size: 21px;
         line-height: 31px;
         font-weight: 400;
         color: #000000;
         font-style: italic;
+    }
+
+    .table.tableFont {
+        font-family: Cormorant, serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 21px;
+        line-height: 31px;
+    }
+
+    .blockquotepro {
+        margin-top: -30px;
     }

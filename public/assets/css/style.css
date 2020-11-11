@@ -149,10 +149,10 @@ h4,
 h5,
 h6 {
     /* font-family: "Rufina", serif; */
-    font-family: 'Montserrat', sans-serif;
+    font-family: Cormorant, serif;
     color: #000a2d;
     margin-top: 0px;
-    font-style: normal;
+    /* font-style: bold; */
     font-weight: 500;
     text-transform: normal;
 }
@@ -2550,7 +2550,7 @@ hr {
 }
 
 .main-header .main-menu ul li:hover>a {
-    color: #ec5b53
+    color: #ec5b53;
 }
 
 .main-header .main-menu ul ul.submenu {
@@ -2753,14 +2753,14 @@ hr {
 
 .slider-height2 {
     background-image: url(../img/hero/hero2.jpg);
-    min-height: 390px;
+    min-height: 100px;
     background-repeat: no-repeat;
     background-size: cover
 }
 
 @media (max-width: 575px) {
     .slider-height2 {
-        min-height: 260px
+        min-height: 100px
     }
 }
 
@@ -5294,7 +5294,9 @@ hr {
 
 .text-heading {
     margin-bottom: 30px;
-    font-size: 24px
+    font-size: 21px;
+    line-height: 31px;
+    font-style: italic
 }
 
 b,
@@ -6468,4 +6470,11 @@ del {
 
 .effect:hover {
     color: red;
+}
+
+.headingText {
+    font-size: 24px;
+    line-height: 31px;
+    font-weight: 700;
+    font-style: border
 }

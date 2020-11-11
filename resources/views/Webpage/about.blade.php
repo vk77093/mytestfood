@@ -7,13 +7,13 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap">
-                                <h2>About Us</h2>
-                                <nav aria-label="breadcrumb ">
+                                <p class="headingText">About Us</p>
+                                {{-- <nav aria-label="breadcrumb ">
                                     <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a href="">Home</a></li>
                                     <li class="breadcrumb-item"><a href="">About us</a></li>
                                     </ol>
-                                </nav>
+                                </nav> --}}
                             </div>
                         </div>
                     </div>
@@ -43,7 +43,7 @@
 			<div class="container">
 				<!----start of Quote----->
 				<div class="section-top-border" id="vision">
-					<h3 class="mb-2">Vision<img src="/assets/img/adapt_icon/vision.png" class="img-fluid"></h3>
+					<h3 class="mb-2 text-heading">Vision <img src="/assets/img/adapt_icon/vision.png" class="img-fluid"></h3>
 					<div class="row">
 						<div class="col-lg-12">
 							<blockquote class="blockquote headtext">
@@ -54,7 +54,7 @@
 					</div>
                 </div>
                 <div class="section-top-border">
-					<h3 class="mb-2">Mission<img src="/assets/img/adapt_icon/mission.png" class="img-fluid"></h3>
+					<h3 class="mb-2 text-heading">Mission<img src="/assets/img/adapt_icon/mission.png" class="img-fluid"></h3>
 					<div class="row">
 						<div class="col-lg-12">
 							<blockquote class="blockquote headtext">
@@ -68,7 +68,7 @@
                 </div>
 
                 <div class="section-top-border">
-					<h3 class="mb-30">Commitment to Service<img src="/assets/img/adapt_icon/corevalue.png" class="img-fluid"></h3>
+					<h3 class="mb-30 text-heading">Commitment to Service<img src="/assets/img/adapt_icon/corevalue.png" class="img-fluid"></h3>
 					<div class="row">
 						<div class="col-lg-12">
 							<blockquote class="blockquote headtext">
@@ -84,10 +84,10 @@
                 <div class="section-top-border">
 					<h3 class="mb-30"></h3>
 					<div class="row">
-						<div class="col-md-3 text-center">
-							<img src="assets/img/elements/d.jpg" alt="" class="img-fluid">
+						<div class="col-md-4 text-center">
+							<img src="assets/img/gallery/warehouse.jpg" alt="" class="img-fluid">
 						</div>
-						<div class="col-md-9 mt-sm-20">
+						<div class="col-md-8 mt-sm-20">
 							<p>Being a part of the Indian Food Industry for over a decade now, FOODCOAST has built a very special relationship of trust and commitment with associates & customers alike.
 The Company continuously focuses its efforts to better understand the changing lifestyles of the Indian diaspora and anticipate consumer needs in order to provide Taste, Nutrition & Health through its product offerings.
 The culture of innovation and renovation within the Company gives it a distinct advantage in these efforts. It helps the Company to create value that can be sustained over the long term by
@@ -98,27 +98,27 @@ offering consumers a wide variety of high quality culinary delights at affordabl
                 </div>
                 <!---end of left Aligned---->
                 <!--- right aligned----->
-<div class="section-top-border text-right">
+{{-- <div class="section-top-border text-right">
 					<h3 class="mb-30"></h3>
 					<div class="row">
-						<div class="col-md-9">
+						<div class="col-md-8">
 							<p class="text-right">Foodcoast International manufactures products of truly international quality under famous brand names such as FOODCOAST, TRRU and AFRIN. Internationally recognised quality certifications
                                 are proof of our commitment to quality. Today, that commitment is embedded in our culture and has made FOODCOAST a force to reckon with in the food processing industry.</p>
 						</div>
-						<div class="col-md-3 text-center">
+						<div class="col-md-4 text-center">
 							<img src="assets/img/elements/d.jpg" alt="" class="img-fluid">
 						</div>
 					</div>
-                </div>
+                </div> --}}
                 <!--- left and right key framet------>
-                <h3 class="mb-10">Key Frame</h3>
+                {{-- <h3 class="mb-10">Key Frame</h3> --}}
                 <div class="section-top-border">
-					<h3 class="mb-30">Quality Certifications</h3>
+					<h3 class="mb-30 mt-3 text-heading">Quality Certifications</h3>
 					<div class="row">
-						<div class="col-md-3 text-center">
+						<div class="col-md-4 text-center">
 							<img src="assets/img/certificate/intertek1.jpg" alt="" class="img-fluid" style="height:250px;">
 						</div>
-						<div class="col-md-9 mt-sm-20">
+						<div class="col-md-8 mt-sm-20">
 							<p>Foodcoast International employs strict processes throughout its production
                                 chain to guarantee the quality, health, safety and sustainability of all
                                 its products. We are committed to the highest quality standards for
@@ -132,28 +132,28 @@ offering consumers a wide variety of high quality culinary delights at affordabl
 					</div>
                 </div>
                 <!--- right aligned----->
-<div class="section-top-border text-right">
-					<h3 class="mb-30 text-center">PRODUCTION</h3>
+<div class="section-top-border">
+					<h3 class="mb-30 text-heading">PRODUCTION</h3>
 					<div class="row">
-						<div class="col-md-9">
-							<p class="text-right">We have state-of-the-art machinery for processing and packaging, based on time tested principles of JIT (Just in Time) and TQM (Total Quality Management) to ensure premium quality of products.
+						<div class="col-md-4 text-center">
+							<img src="assets/img/gallery/production.jpg" alt="" class="img-fluid">
+                        </div>
+                        <div class="col-md-8 mt-sm-20">
+							<p>We have state-of-the-art machinery for processing and packaging, based on time tested principles of JIT (Just in Time) and TQM (Total Quality Management) to ensure premium quality of products.
                                     Innovative business practices have led us to establish trends that have changed the industry outlook: customized mayonnaise and sauces available in more than 200 flavours are just two
                                     of the delectable yet professional range of products available for the international market from our 100% vegetarian facility. We are fully equipped for filling pack size as small as 8gm per unit to
                                     2Kg per unit</p>
-						</div>
-						<div class="col-md-3 text-center">
-							<img src="assets/img/gallery/production.jpg" alt="" class="img-fluid">
 						</div>
 					</div>
                 </div>
                 <!--- left and right key framet------>
                 <div class="section-top-border">
-					<h3 class="mb-30 text-center">PLANT</h3>
+					<h3 class="mb-30 text-heading">PLANT</h3>
 					<div class="row">
-						<div class="col-md-3 text-center">
+						<div class="col-md-4 text-center">
 							<img src="assets/img/gallery/plant.jpg" alt="" class="img-fluid">
 						</div>
-						<div class="col-md-9 mt-sm-20">
+						<div class="col-md-8 mt-sm-20">
 							<p>Spread over 12000 square metres of land, Foodcoast International is equipped with high-tech & world-class machinery, managed by skilled professionals and a dedicated workforce.
                     The plant at Foodcoast International has been designed as a road map to achieve the company’s vision by providing a conducive environment for production and development of food products
                     in sync with Indian palate & global demands.
@@ -165,26 +165,26 @@ Technological advancements extend throughout the organization: from R&D to order
 					</div>
                 </div>
 
-                <div class="section-top-border text-right">
-					<h3 class="mb-30 text-center">R&D</h3>
+                <div class="section-top-border">
+					<h3 class="mb-30 text-heading">R&D</h3>
 					<div class="row">
-						<div class="col-md-9">
-							<p class="text-right">Our R&D team is engaged to create new products so as to offer great choices to the consumers.
+						<div class="col-md-4 text-center">
+							<img src="assets/img/gallery/rnd.jpg" alt="" class="img-fluid">
+                        </div>
+                        <div class="col-md-8">
+							<p>Our R&D team is engaged to create new products so as to offer great choices to the consumers.
                                     Our understanding of Indian taste and palate helps us in constantly developing unique products with
                                     great taste. R&D continuously works to improve nutritional value of food as well “Keeping Indian Palates in Mind</p>
-						</div>
-						<div class="col-md-3 text-center">
-							<img src="assets/img/gallery/rnd.jpg" alt="" class="img-fluid">
 						</div>
 					</div>
                 </div>
                 <div class="section-top-border">
-					<h3 class="mb-30 text-center">QUALITY</h3>
+					<h3 class="mb-30 text-heading">QUALITY</h3>
 					<div class="row">
-						<div class="col-md-3 text-center">
+						<div class="col-md-4 text-center">
 							<img src="assets/img/gallery/qa.jpg" alt="" class="img-fluid">
 						</div>
-						<div class="col-md-9 mt-sm-20">
+						<div class="col-md-8 mt-sm-20">
 							<p>Foodcoast believes in - RIGHT IN FIRST TIME. To achieve this, we have our quality assurance and quality
                                     control teams, which review all factors related to production from raw-material to finished goods.
                                     We have well equipped chemical and Microbiological lab with latest testing equipments
@@ -192,19 +192,19 @@ Technological advancements extend throughout the organization: from R&D to order
 						</div>
 					</div>
                 </div>
-                <div class="section-top-border text-right">
-					<h3 class="mb-30 text-center">WORKPLACE</h3>
+                <div class="section-top-border">
+					<h3 class="mb-30 text-heading">WORKPLACE</h3>
 					<div class="row">
-						<div class="col-md-8">
-							<p class="text-right">At Food Coast International, we embrace the diversity of our team members, customers, stakeholders and
+						<div class="col-md-4 text-center">
+							<img src="assets/img/gallery/workplace.jpg" alt="" class="img-fluid">
+                        </div>
+                        <div class="col-md-8 mt-sm-20">
+							<p>At Food Coast International, we embrace the diversity of our team members, customers, stakeholders and
                     consumers – their unique backgrounds, experience, thoughts and talents. Everyone is valued and
                     appreciated for their distinct contributions to the growth and sustainability of our business.
                     Following this school of thought, we at Foodcoast, are dedicated to improve the quality of work and
                     workplace thus, provide training not only to beginners, lower level or middle level but also to top
                     level management</p>
-						</div>
-						<div class="col-md-4 text-center">
-							<img src="assets/img/gallery/workplace.jpg" alt="" class="img-fluid">
 						</div>
 					</div>
                 </div>

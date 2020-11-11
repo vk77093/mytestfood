@@ -10,8 +10,8 @@
 <div class="container pb-top">
               <div class="text-center">
 					<div class="row ml-4">
-						<div class="col-lg-12 ml-4 mr-4">
-							<blockquote class="generic-blockquote text-center">
+						<div class="col-lg-12 ml-4 mr-4 blockquotepro">
+							<blockquote class="blockquote text-center headtext">
                                 “An essential element of cuisines the wolrd over,
                                 Foodcoast Sauces adorn the culinary repertoire of
                                 all the chefs and augnebt the dlavours of countless recipes”
@@ -28,9 +28,9 @@
                         <div class="col-sm-4 text-center">
                             <div class="img hvr-float"><img src="/assets/img/ProductImage/Pizza_Topping.jpg" class="img-fluid center-block" alt="Responsive image"></div>
                         </div>
-                        <div class="col-sm-8 mt-4 text-center">
+                        <div class="col-sm-8 mt-4 text-center text-heading">
                             <h3 class="text-center">All Range of Sauces</h3>
-                            <table class="table">
+                            <table class="table tableFont">
   <thead>
     <tr class="sauceHead">
       <th scope="col">Product</th>

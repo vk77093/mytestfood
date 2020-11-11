@@ -10,8 +10,8 @@
 <div class="container pb-top">
               <div class="text-center">
 					<div class="row ml-4">
-						<div class="col-lg-12 ml-4 mr-4">
-							<blockquote class="generic-blockquote text-center">
+						<div class="col-lg-12 ml-4 mr-4 blockquotepro">
+							<blockquote class="blockquote text-center headtext">
                                 “Please your senses with a special touch of our dips;
                                 providing yummillicious twist to each bite.”
 							</blockquote>
@@ -27,9 +27,9 @@
                         <div class="col-sm-4 text-center">
                             <div class="img hvr-float"><img src="/assets/img/ProductImage/Chilli_Garlic.jpg" class="img-fluid center-block" alt="Responsive image"></div>
                         </div>
-                        <div class="col-sm-8 mt-4 text-center">
+                        <div class="col-sm-8 mt-4 text-center text-heading">
                             <h3 class="text-center">All Range of Dips</h3>
-                            <table class="table">
+                            <table class="table tableFont">
   <thead>
     <tr class="dipsHead">
       <th scope="col">Product</th>

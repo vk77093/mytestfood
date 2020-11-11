@@ -6,13 +6,13 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap">
-                                <h2>Sales Person Near You</h2>
-                                <nav aria-label="breadcrumb ">
+                                <p class="headingText">Sales Person Near You</p>
+                                {{-- <nav aria-label="breadcrumb ">
                                     <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a href="">Home</a></li>
                                     <li class="breadcrumb-item"><a href="">Near You</a></li>
                                     </ol>
-                                </nav>
+                                </nav> --}}
                             </div>
                         </div>
                     </div>
@@ -43,7 +43,7 @@
 
             </div>
             <div class="form-group">
-                <button type="submit" class="btn btn-info mt-3">Get It</button>
+                <button type="submit" class="btn btn-info mt-3 mb-3">Get It</button>
             </div>
         </div>
     </div>
@@ -74,7 +74,7 @@
 </div>
 </div>
 @empty
-<h4 class="text-center">No Result is found for your Search</h4>
+<h4 class="text-center">Currently we did't serve in particular Area</h4>
 @endforelse
 </div>
          @endif

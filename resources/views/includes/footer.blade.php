@@ -136,7 +136,8 @@
    <h5 class="font-weight-bold text-uppercase mt-3 mb-4 footer-back text-center">Export</h5>
    <p class="span text-center footer-back">Additionally, Bootstrap also includes an .mx-auto class for horizontally
     centering fixed-width block level content—that is, content that has display:
-    block and a width set—by setting the horizontal <br><button class="btn btn-primary">Read More</button></p>
+    block and a width set—by setting the horizontal <br>
+    <a href="/exportNation"><button class="btn btn-primary">Read More</button></p></a>
 </div>
       </div>
   </div>
@@ -153,7 +154,7 @@
       <li class="list-inline-item"><a href="/ourproduct.sandwich">Spreads & Salad Dressings |</a></li>
       <li class="list-inline-item"><a href="/ourproduct.tomato">Tomato Ketchups |</a></li>
       <li class="list-inline-item"><a href="/ourproduct.sauces">Sauces |</a></li>
-      <li class="list-inline-item"><a href="/ourproduct.gravies">Gravies |</a></li>
+      <li class="list-inline-item"><a href="/ourproduct.gravies">Gravies & Pastes |</a></li>
       <li class="list-inline-item"><a href="/ourproduct.dips">Dips |</a></li>
        <li class="list-inline-item"><a href="/ourproduct.chocolate">Chocolate & Toppings |</a></li>
         <li class="list-inline-item"><a href="/ourproduct.fruits">Fruit Punches |</a></li>

@@ -7,13 +7,13 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap">
-                                <h2>Career</h2>
-                                <nav aria-label="breadcrumb ">
+                                <p class="headingText">Career</p>
+                                {{-- <nav aria-label="breadcrumb ">
                                     <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a href="">Home</a></li>
                                     <li class="breadcrumb-item"><a href="">Career</a></li>
                                     </ol>
-                                </nav>
+                                </nav> --}}
                             </div>
                         </div>
                     </div>
@@ -24,7 +24,7 @@
         <!--- some line about the carrier boostup----->
         <div class="container pb-top">
             <section class="intro-text">
-                <blockquote class="blockquote">
+                <blockquote class="blockquote headtext">
                     "
     At Foodcoast international, the world’s most talented engineers, designers, and thought
     leaders are shaping the future of&nbsp;world’s food&nbsp;Industry.
@@ -39,8 +39,8 @@
                 <hr>
                 <div class="container">
             <section class="intro-text">
-                <h3 class="mb-30 text-center">Open Positions</h3>
-                <blockquote class="blockquote">
+                <h3 class="mb-10 text-center" style="margin-top: -20px">Open Positions</h3>
+                <blockquote class="blockquote headtext">
                     "
     At FoodCoast International, work is driven by passion of purpose. If you are constantly looking for ways to better yourself while keeping the interests of the company in mind, YOU are just right for us.
 We give people the chance to contribute every day while making a long-term impact.  At FoodCoast International, we are committed to bringing the best quality savoury delights at optimum prices to every meal, across every coast, while emphasising on individual responsibility & opportunity.

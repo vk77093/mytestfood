@@ -7,13 +7,13 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap">
-                                <h2>Our Packaging Type</h2>
-                                <nav aria-label="breadcrumb ">
+                                <p class="headingText">Our Packaging Type</p>
+                                {{-- <nav aria-label="breadcrumb ">
                                     <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a href="">Home</a></li>
                                     <li class="breadcrumb-item"><a href="">Packaging</a></li>
                                     </ol>
-                                </nav>
+                                </nav> --}}
                             </div>
                         </div>
                     </div>

@@ -10,8 +10,8 @@
 <div class="container pb-top">
               <div class="text-center">
 					<div class="row ml-4">
-						<div class="col-lg-12 ml-4 mr-4">
-							<blockquote class="generic-blockquote text-center">
+						<div class="col-lg-12 ml-4 mr-4 blockquotepro">
+							<blockquote class="blockquote text-center headtext">
                                 “Wide range of FOODCOAST fruit punches can add
                                 extra touch to make everyday favourites even more
                                 delicious with mouth watering taste and rich aroma.”
@@ -28,9 +28,9 @@
                         <div class="col-sm-4 text-center">
                             <div class="img hvr-float"><img src="/assets/img/ProductImage/Crush.png" class="img-fluid center-block" alt="Responsive image"></div>
                         </div>
-                        <div class="col-sm-8 mt-4 text-center">
+                        <div class="col-sm-8 mt-4 text-center text-heading">
                             <h3 class="text-center">All Range of Fruit & Punches</h3>
-                            <table class="table">
+                            <table class="table tableFont">
   <thead>
     <tr class="fruitHead">
       <th scope="col">Product</th>

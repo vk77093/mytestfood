@@ -22,7 +22,7 @@
                                             <li><a href="/ourproduct">Product Range</a></li>
                                             {{-- <li><a href="nationPresent">Nationwise Present</a></li> --}}
                                             <li><a href="http://aariafoods.com/" target="_blank">Aaria</a></li>
-                                            <li><a href="/whoweserve">Who We Serve</a></li>
+                                            {{-- <li><a href="/whoweserve">Who We Serve</a></li> --}}
                                             <li><a href="/yourbrand">Your Brand</a></li>
                                             <li><a href="/nearYou">Who's to Contact</a></li>
                                         </ul>

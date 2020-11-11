@@ -12,7 +12,7 @@
 <!--- Product Range Section------>
 
  <div class="container mt-2" id="ourProduct">
-<h5 class="text-center font-weight-bold" id="products">Our Unique Range of Foodcoast Products</h5>
+<h4 class="text-center mb-2 font-weight-bold" id="products">Our Unique Range of Foodcoast Products</h4>
 <hr>
 <div class="row mt-3 text-center">
  <div class="col-sm-3 mt-3">
@@ -36,7 +36,7 @@
     </div>
     <div class="col-sm-3 mt-3">
 <div class="img hvr-float-shadow"><a href="/ourproduct.gravies"><img src="/assets/img/adapt_icon/Gravies.png" class="img-fluid center-block" alt="Responsive image"></a></div>
-    <p class="text-center mt-2">Gravies & Paste</p>
+    <p class="text-center mt-2">Gravies & Pastes</p>
     </div>
     <div class="col-sm-3 mt-3">
 <div class="img hvr-float-shadow"><a href="/ourproduct.dips"><img src="/assets/img/adapt_icon/DIP.png" class="img-fluid center-block" alt="Responsive image"></a></div>

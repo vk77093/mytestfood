@@ -7,13 +7,13 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap">
-                                <h2>Become A Member</h2>
-                                <nav aria-label="breadcrumb ">
+                                <p class="headingText">Become A Member</p>
+                                {{-- <nav aria-label="breadcrumb ">
                                     <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a href="">Home</a></li>
                                     <li class="breadcrumb-item"><a href="">Become A Member</a></li>
                                     </ol>
-                                </nav>
+                                </nav> --}}
                             </div>
                         </div>
                     </div>
@@ -22,9 +22,9 @@
         </div>
         <!-- Hero End -->
         <!--- some line for Member---->
-        <div class="container pb-top">
+        <div class="container">
             <section class="intro-text">
-                <blockquote class="blockquote">
+                <blockquote class="blockquote headtext">
                     "
   <strong>Thank you for your interest in Foodcoast International! We are grateful for the opportunity to show you why Foodcoast International is the superior choice for your business.</strong>
   "

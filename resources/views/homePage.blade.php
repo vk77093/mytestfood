@@ -49,7 +49,7 @@
 </div>
 <hr>
 <!--site-main start-->
-    {{-- <div class="site-main">
+    <div class="site-main">
 
         <!--shop-views-section-->
         <section class="shop-views-section clearfix">
@@ -58,7 +58,7 @@
                 <div class="row">
 
 					<div class="col-lg-12">
-<h2 class="text-center font-weight-bold" id="products">Our Team</h2>
+{{-- <h2 class="text-center font-weight-bold" id="products">Our Team</h2> --}}
 
                         <div class="tab-content mt-4" id="myTabContent">
                             <div class="tab-pane fade active show" id="grid" role="tabpanel">
@@ -101,7 +101,8 @@ Founder, H.R Group of Industries</h6></p>
         <!--team-section end-->
 
 
-    </div><!--site-main end--> --}}
+    </div>
+    <!--site-main end-->
 @include('includes.promoSide')
 <!---About us ended Section----->
 <!--- Product Range Section------>
@@ -164,7 +165,7 @@ Founder, H.R Group of Industries</h6></p>
 </div>
 <hr>
 <div class="container mb-3">
- <h2 class="text-center font-weight-bold" id="certificate">Certification</h2>
+ <h2 class="text-center font-weight-bold" id="certificate">Certifications</h2>
     <div class="row text-center mt-4">
         <div class="col-sm-6">
         <img src="/assets/img/banner/Halal Certificate.jpg" class="img-fluid hvr-grow">
