@@ -36,7 +36,7 @@
 		</section>
         <div class="container pb-top">
 
-<h4 class="mb-4">Already Exporting to International Destinations </h4>
+<h4 class="mb-4">We are Already Exporting to International Destinations </h4>
 <div class="row text-center">
     <div class="col-sm-3">
 <img src="/assets/img/gallery/uae.jpg" class="img-fluid hvr-float-shadow">

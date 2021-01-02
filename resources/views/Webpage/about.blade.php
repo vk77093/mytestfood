@@ -25,25 +25,81 @@
 
         <!-- Start Sample Area -->
 		<section class="sample-text-area">
-			<div class="container box_1170" id="">
+			<div class="container" id="" style="margin-top: -75px">
 				<h3 class="text-heading">OVERVIEW</h3>
 				<p class="sample-text">
                     FOODCOAST is a name synonymous with premium quality food products in the Indian and the world market. Its relationship with the food industry
                     dates back to over a decade. Conceptualised in 2009 as a trading unit in the Indian food service sector, Foodcoast has grown manifolds over
                     the years. Today, the company is into manufacturing of processed food products like Mayonnaise, Ketchups, Sandwich Spreads, Dips, and Gravies,
-                    Crushes and other ready-to-use products, catering to a global clientele and is soon to foray into retailing. Spread over a lavish 12,000sq meters,
+                    Crushes and other ready-to-use products, catering to a global clientele and has to forayed into retailing too Spread over a lavish 12,000sq meters,
                     the company boasts of state-of-the-art machinery and is well-equipped to meet the consumer’s growing need for products of the highest quality
 
 				</p>
 			</div>
 		</section>
-		<!-- End Sample Area -->
+        <!-- End Sample Area -->
+        <hr>
+<!--site-main start-->
+    <div class="site-main">
+
+        <!--shop-views-section-->
+        <section class="shop-views-section clearfix">
+             <div class="container">
+                <!-- row -->
+                <div class="row">
+
+					<div class="col-lg-12">
+{{-- <h2 class="text-center font-weight-bold" id="products">Our Team</h2> --}}
+
+                        <div class="tab-content mt-4" id="myTabContent">
+                            <div class="tab-pane fade active show" id="grid" role="tabpanel">
+                                <div class="row">
+								<div class="col-lg-12">
+                                    <div class="col-lg-12">
+									 <p align="center"><img class="img-fluid pro-image-front" src="assets/img/ProductImage/img1.jpg" alt="" align="center">
+                                      <h5 align="center">Mr. Harbans Lal Sharma</h5>
+										<h6 align="center">2nd Feb. 1920- 2nd Dec. 2002<br>
+Founder, H.R Group of Industries</h6></p>
+</h6></p></p>
+                                    </div>
+									 </div><!-- product end -->
+
+									<div class="col-lg-6">
+									 <p align="center" ><img class="img-fluid pro-image-front" src="assets/img/ProductImage/img2.jpg" alt="" align="center">
+                                      <h5 align="center">Suresh Sharma</h5>
+										<h6 align="center">Managing Director<br>
+</h6></p>
+                                    </div>
+
+									<div class="col-lg-6">
+									 <p align="center"><img class="img-fluid pro-image-front" src="assets/img/ProductImage/img3.jpg" alt="" align="center">
+                                      <h5 align="center">Sushant Sharma</h5>
+										<h6 align="center">Director<br></h6></p>
+                                    </div>
+
+
+
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div><!-- row end -->
+            </div>
+        </section>
+        <!--team-section end-->
+
+
+    </div>
+    <!--site-main end-->
 <!-- Start Align Area -->
 		<div class="whole-wrap">
 			<div class="container">
 				<!----start of Quote----->
 				<div class="section-top-border" id="vision">
-					<h3 class="mb-2 text-heading">Vision <img src="/assets/img/adapt_icon/vision.png" class="img-fluid"></h3>
+					<h3 class="mb-2 text-heading"><img src="/assets/img/adapt_icon/vision.png" class="img-fluid">  Vision</h3>
 					<div class="row">
 						<div class="col-lg-12">
 							<blockquote class="blockquote headtext">
@@ -54,7 +110,7 @@
 					</div>
                 </div>
                 <div class="section-top-border">
-					<h3 class="mb-2 text-heading">Mission<img src="/assets/img/adapt_icon/mission.png" class="img-fluid"></h3>
+					<h3 class="mb-2 text-heading"><img src="/assets/img/adapt_icon/mission.png" class="img-fluid">  Mission</h3>
 					<div class="row">
 						<div class="col-lg-12">
 							<blockquote class="blockquote headtext">
@@ -68,7 +124,7 @@
                 </div>
 
                 <div class="section-top-border">
-					<h3 class="mb-30 text-heading">Commitment to Service<img src="/assets/img/adapt_icon/corevalue.png" class="img-fluid"></h3>
+					<h3 class="mb-30 text-heading"><img src="/assets/img/adapt_icon/corevalue.png" class="img-fluid">  Commitment to Service</h3>
 					<div class="row">
 						<div class="col-lg-12">
 							<blockquote class="blockquote headtext">
@@ -84,10 +140,10 @@
                 <div class="section-top-border">
 					<h3 class="mb-30"></h3>
 					<div class="row">
-						<div class="col-md-4 text-center">
+						{{-- <div class="col-md-4 text-center">
 							<img src="assets/img/gallery/warehouse.jpg" alt="" class="img-fluid">
-						</div>
-						<div class="col-md-8 mt-sm-20">
+						</div> --}}
+						<div class="col-md-12 mt-sm-20">
 							<p>Being a part of the Indian Food Industry for over a decade now, FOODCOAST has built a very special relationship of trust and commitment with associates & customers alike.
 The Company continuously focuses its efforts to better understand the changing lifestyles of the Indian diaspora and anticipate consumer needs in order to provide Taste, Nutrition & Health through its product offerings.
 The culture of innovation and renovation within the Company gives it a distinct advantage in these efforts. It helps the Company to create value that can be sustained over the long term by
@@ -112,7 +168,7 @@ offering consumers a wide variety of high quality culinary delights at affordabl
                 </div> --}}
                 <!--- left and right key framet------>
                 {{-- <h3 class="mb-10">Key Frame</h3> --}}
-                <div class="section-top-border">
+                {{-- <div class="section-top-border">
 					<h3 class="mb-30 mt-3 text-heading">Quality Certifications</h3>
 					<div class="row">
 						<div class="col-md-4 text-center">
@@ -130,7 +186,7 @@ offering consumers a wide variety of high quality culinary delights at affordabl
                                 <p class="text-center"><br><a href="/certificate" class="text-center"><button class="btn btn-info">Know More</button></a></p>
 						</div>
 					</div>
-                </div>
+                </div> --}}
                 <!--- right aligned----->
 <div class="section-top-border">
 					<h3 class="mb-30 text-heading">PRODUCTION</h3>
@@ -141,8 +197,8 @@ offering consumers a wide variety of high quality culinary delights at affordabl
                         <div class="col-md-8 mt-sm-20">
 							<p>We have state-of-the-art machinery for processing and packaging, based on time tested principles of JIT (Just in Time) and TQM (Total Quality Management) to ensure premium quality of products.
                                     Innovative business practices have led us to establish trends that have changed the industry outlook: customized mayonnaise and sauces available in more than 200 flavours are just two
-                                    of the delectable yet professional range of products available for the international market from our 100% vegetarian facility. We are fully equipped for filling pack size as small as 8gm per unit to
-                                    2Kg per unit</p>
+                                    of the delectable yet professional range of products available for the international market from our 100% vegetarian facility. We are fully equipped for filling pack size as small as 5gm per unit to
+                                    5Kg per unit.</p>
 						</div>
 					</div>
                 </div>
@@ -159,7 +215,7 @@ offering consumers a wide variety of high quality culinary delights at affordabl
                     in sync with Indian palate & global demands.
 The food sector is characterized not only by the highest standards of quality and productivity, but also by the compliance with strict hygiene regulations. Our latest & advanced equipment consistently combine high quality
 and efficiency with ease of use and ease of maintenance.
-Technological advancements extend throughout the organization: from R&D to order processing, production, warehousing to deliveries.
+Technological advancements extend throughout the organization: from R&D to production, order processing to deliveries.
 </p>
 						</div>
 					</div>
@@ -174,7 +230,7 @@ Technological advancements extend throughout the organization: from R&D to order
                         <div class="col-md-8">
 							<p>Our R&D team is engaged to create new products so as to offer great choices to the consumers.
                                     Our understanding of Indian taste and palate helps us in constantly developing unique products with
-                                    great taste. R&D continuously works to improve nutritional value of food as well “Keeping Indian Palates in Mind</p>
+                                    great taste. R&D continuously works to improve nutritional value of food as well “Keeping Indian Palates in Mind.</p>
 						</div>
 					</div>
                 </div>
@@ -187,7 +243,7 @@ Technological advancements extend throughout the organization: from R&D to order
 						<div class="col-md-8 mt-sm-20">
 							<p>Foodcoast believes in - RIGHT IN FIRST TIME. To achieve this, we have our quality assurance and quality
                                     control teams, which review all factors related to production from raw-material to finished goods.
-                                    We have well equipped chemical and Microbiological lab with latest testing equipments
+                                    We have well equipped chemical and Microbiological lab with latest testing equipments.
 </p>
 						</div>
 					</div>
@@ -203,8 +259,8 @@ Technological advancements extend throughout the organization: from R&D to order
                     consumers – their unique backgrounds, experience, thoughts and talents. Everyone is valued and
                     appreciated for their distinct contributions to the growth and sustainability of our business.
                     Following this school of thought, we at Foodcoast, are dedicated to improve the quality of work and
-                    workplace thus, provide training not only to beginners, lower level or middle level but also to top
-                    level management</p>
+                    workplace thus, provide training not only to beginners, but lower level or middle level or even
+                    management</p>
 						</div>
 					</div>
                 </div>

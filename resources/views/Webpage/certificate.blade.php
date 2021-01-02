@@ -27,7 +27,19 @@
 <div class="section-top-border">
 					<h3>Our Certification</h3>
 					<div class="row gallery-item">
+<section class="">
+<div class="col-md-12 mt-sm-20">
+							<p>Foodcoast International employs strict processes throughout its production
+                                chain to guarantee the quality, health, safety and sustainability of all
+                                its products. We are committed to the highest quality standards for
+                                ensuring that products are of high quality and are always being improved.
+                                Accordingly, we are in compliance with not just FSSAI certification to
+                                assure stringent Food safety standards, but also with FSSC- 22000 (ISO
+                                22000: 2005, ISO/ TS 22002_1: 2009) by IRQS, SA 8000 and HALAL
+                                accreditation</p>
 
+						</div>
+</section>
   <div class="col-md-3">
   <a href="/assets/img/banner/Halal Certificate.jpg" class="img-pop-up">
   <div class="single-gallery-image1"data-size="1600x1067" style="background: url('assets/img/banner/Halal Certificate.jpg');"></div>

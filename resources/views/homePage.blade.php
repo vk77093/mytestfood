@@ -1,5 +1,11 @@
 @extends('includes.mainpage')
 @section('maincontent')
+<style>
+..carousel-inner > .carousel-item > img {
+  width:640px;
+  height:160px;
+}
+</style>
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -36,7 +42,7 @@
 <div class="container mt-2">
     <h5 class="text-center font-weight-bold" id="about">About Us</h5>
     <p class="text-center mr-2"><strong>Foodcoast International</strong> was started in 2009, as a trading company and set up its manufacturing base in 2010. We strive to serve consistently and innovatively the markets with best food products at competitive prices. The company is focused on planning and executing the conception, pricing, promotion and distribution of world class food products.</p>
-          <p class="text-center mr-2">We are into manufacturing of Mayonnaise, Ketchup, Spreads, Salad Dressings, Indian gravies, Toppings, Crushes etc. for both Indian &amp; World cuisine, in bulk packaging for instutionalized sales.</p>
+          <p class="text-center mr-2">We are into manufacturing of Mayonnaise, Ketchup, Spreads, Salad Dressings, Gravies, Toppings, Crushes etc. for both Indian &amp; World cuisine, in bulk packaging for instutionalized sales.</p>
           <div class="text-center">
               <a href="/about#aboutTest"><button class="btn hero-btn"  data-animation="fadeInLeft" data-delay=".8s">Know More</button></a>
           </div>
@@ -47,63 +53,11 @@
         <img src="/assets/img/about/fc_rangeA.jpg" class="img-fluid hvr-grow">
     </div>
 </div>
-<hr>
-<!--site-main start-->
-    <div class="site-main">
+<!---Here is Team Section---->
 
-        <!--shop-views-section-->
-        <section class="shop-views-section clearfix">
-             <div class="container">
-                <!-- row -->
-                <div class="row">
+<!--end of Team Section----------->
 
-					<div class="col-lg-12">
-{{-- <h2 class="text-center font-weight-bold" id="products">Our Team</h2> --}}
-
-                        <div class="tab-content mt-4" id="myTabContent">
-                            <div class="tab-pane fade active show" id="grid" role="tabpanel">
-                                <div class="row">
-								<div class="col-lg-12">
-                                    <div class="col-lg-12">
-									 <p align="center"><img class="img-fluid pro-image-front" src="assets/img/ProductImage/img1.jpg" alt="" align="center">
-                                      <h5 align="center">Mr. Harbans Lal Sharma</h5>
-										<h6 align="center">2nd Feb. 1920- 2nd Dec. 2002<br>
-Founder, H.R Group of Industries</h6></p>
-</h6></p></p>
-                                    </div>
-									 </div><!-- product end -->
-
-									<div class="col-lg-6">
-									 <p align="center" ><img class="img-fluid pro-image-front" src="assets/img/ProductImage/img2.jpg" alt="" align="center">
-                                      <h5 align="center">Suresh Sharma</h5>
-										<h6 align="center">Managing Director<br>
-</h6></p>
-                                    </div>
-
-									<div class="col-lg-6">
-									 <p align="center"><img class="img-fluid pro-image-front" src="assets/img/ProductImage/img3.jpg" alt="" align="center">
-                                      <h5 align="center">Sushant Sharma</h5>
-										<h6 align="center">Director<br></h6></p>
-                                    </div>
-
-
-
-                                </div>
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div><!-- row end -->
-            </div>
-        </section>
-        <!--team-section end-->
-
-
-    </div>
-    <!--site-main end-->
-@include('includes.promoSide')
+{{-- @include('includes.promoSide') --}}
 <!---About us ended Section----->
 <!--- Product Range Section------>
 <hr>

@@ -26,7 +26,7 @@
             <section class="intro-text">
                 <blockquote class="blockquote headtext">
                     "
-    At Foodcoast international, the world’s most talented engineers, designers, and thought
+    At Foodcoast international, the world’s most talented engineers,bio-technohogiest, designers, and thought
     leaders are shaping the future of&nbsp;world’s food&nbsp;Industry.
   "
   <br>
@@ -43,7 +43,7 @@
                 <blockquote class="blockquote headtext">
                     "
     At FoodCoast International, work is driven by passion of purpose. If you are constantly looking for ways to better yourself while keeping the interests of the company in mind, YOU are just right for us.
-We give people the chance to contribute every day while making a long-term impact.  At FoodCoast International, we are committed to bringing the best quality savoury delights at optimum prices to every meal, across every coast, while emphasising on individual responsibility & opportunity.
+We give people the chance to contribute every day while making a long-term impact.  At FoodCoast International, we are committed to bring the best quality savoury delights at optimum prices to every meal, across every coast, while emphasising on individual responsibility & opportunity.
 Join us as we go about “Spreading Smile to Every Mile” and become a member of our team that constantly strives to create memories through delectable meals!
 
 Keep checking this space for openings which suit your qualification, interests and drive.

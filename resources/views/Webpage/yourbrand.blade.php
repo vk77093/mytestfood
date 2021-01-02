@@ -29,8 +29,8 @@
 			<div class="container box_1170">
 				<h3 class="text-heading">Your Brand / Private Label</h3>
 				<p class="sample-text">
-					Through our Private label brand, Foodcoast International offers its clients the ability to control the quality, style, and feel of their brand while partnering in their passion. With years of immaculate service to boast of, we have expanded our list of Private label clients across India. We now have a PAN- India base of happy and satisfied customers.
-We pride ourselves for being the trusted partners of leading FMCG giants for developing and delivering their products within a promised timeline. A dedicated team looks after private label process from receiving the order to the dispatch the goods through an efficient transit system nationwide, thereby ensuring complete peace of mind to our clients.
+					Through its Private label vretical, Foodcoast International offers its clients the ability to control the quality, style, and feel of their own brand while partnering in their passion. With years of immaculate service to boast of, we have expanded our list of Private label clients across global. We now have a vast base of happy and satisfied customers.
+We pride ourselves for being the trusted partners of leading FMCG giants for developing and delivering their products within a promised timeline. A dedicated team looks after private label process from receiving the order to the dispatch the goods through an efficient transit system, thereby ensuring complete peace of mind to our clients.
 <br><br>
 For dropping a private label query, <strong>please Fill Below Your Requirment</strong>
 Foodcoast has an innovative in-house packaging facility installed to package from the smallest to largest packs for varying client requirements. From a tiny pouch to volume driver packs, a host of packaging options are available for Global Private label clients -5gm per unit to 5kg per unit, we have all your needs covered.
