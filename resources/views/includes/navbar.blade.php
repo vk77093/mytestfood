@@ -3,7 +3,7 @@
     <div class="main-header header-sticky">
 
         <div class="container-fluid">
- @include('includes.marque')
+ {{-- @include('includes.marque') --}}
             <div class="row align-items-center">
 
                 <!-- Logo -->

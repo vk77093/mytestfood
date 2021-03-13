@@ -27,6 +27,8 @@
 		<section class="sample-text-area">
 			<div class="container" id="" style="margin-top: -75px">
 				<h3 class="text-heading">OVERVIEW</h3>
+               <div data-aos="zoom-in" data-aos-easing="linear">
+
 				<p class="sample-text">
                     FOODCOAST is a name synonymous with premium quality food products in the Indian and the world market. Its relationship with the food industry
                     dates back to over a decade. Conceptualised in 2009 as a trading unit in the Indian food service sector, Foodcoast has grown manifolds over
@@ -35,6 +37,7 @@
                     the company boasts of state-of-the-art machinery and is well-equipped to meet the consumer’s growing need for products of the highest quality
 
 				</p>
+                </div>
 			</div>
 		</section>
         <!-- End Sample Area -->
@@ -99,6 +102,8 @@ Founder, H.R Group of Industries</h6></p>
 			<div class="container">
 				<!----start of Quote----->
 				<div class="section-top-border" id="vision">
+                    <div data-aos="flip-up" data-aos-easing="linear"
+     data-aos-duration="1500">
 					<h3 class="mb-2 text-heading"><img src="/assets/img/adapt_icon/vision.png" class="img-fluid">  Vision</h3>
 					<div class="row">
 						<div class="col-lg-12">
@@ -109,7 +114,10 @@ Founder, H.R Group of Industries</h6></p>
 						</div>
 					</div>
                 </div>
+                </div>
                 <div class="section-top-border">
+                    <div data-aos="flip-down" data-aos-easing="linear"
+     data-aos-duration="1500">
 					<h3 class="mb-2 text-heading"><img src="/assets/img/adapt_icon/mission.png" class="img-fluid">  Mission</h3>
 					<div class="row">
 						<div class="col-lg-12">
@@ -119,11 +127,17 @@ Founder, H.R Group of Industries</h6></p>
 							</blockquote>
 						</div>
                     </div>
+                    </div>
+                    <div data-aos="zoom-out-right" data-aos-easing="linear"
+     data-aos-duration="1500">
                     <p class="sample-text">Our vision is the aspirational goal that drives our organisation. It shapes our role and purpose in the outside
                         world. Internally, it gives us a shared, unifying ambition</p>
+                    </div>
                 </div>
 
                 <div class="section-top-border">
+                    <div data-aos="zoom-in-up" data-aos-easing="ease-in-sine"
+                    data-aos-duration="1500">
 					<h3 class="mb-30 text-heading"><img src="/assets/img/adapt_icon/corevalue.png" class="img-fluid">  Commitment to Service</h3>
 					<div class="row">
 						<div class="col-lg-12">
@@ -135,6 +149,7 @@ Founder, H.R Group of Industries</h6></p>
 						</div>
 					</div>
                 </div>
+                </div>
                 <!----end of Quote----->
                 <!---left Aligned---->
                 <div class="section-top-border">
@@ -144,11 +159,13 @@ Founder, H.R Group of Industries</h6></p>
 							<img src="assets/img/gallery/warehouse.jpg" alt="" class="img-fluid">
 						</div> --}}
 						<div class="col-md-12 mt-sm-20">
+                            <div data-aos="flip-up" data-aos-easing="linear" data-aos-duration="1500">
 							<p>Being a part of the Indian Food Industry for over a decade now, FOODCOAST has built a very special relationship of trust and commitment with associates & customers alike.
 The Company continuously focuses its efforts to better understand the changing lifestyles of the Indian diaspora and anticipate consumer needs in order to provide Taste, Nutrition & Health through its product offerings.
 The culture of innovation and renovation within the Company gives it a distinct advantage in these efforts. It helps the Company to create value that can be sustained over the long term by
 offering consumers a wide variety of high quality culinary delights at affordable prices
 </p>
+</div>
 						</div>
 					</div>
                 </div>
@@ -190,6 +207,7 @@ offering consumers a wide variety of high quality culinary delights at affordabl
                 <!--- right aligned----->
 <div class="section-top-border">
 					<h3 class="mb-30 text-heading">PRODUCTION</h3>
+                    <div data-aos="flip-up">
 					<div class="row">
 						<div class="col-md-4 text-center">
 							<img src="assets/img/gallery/production.jpg" alt="" class="img-fluid">
@@ -201,10 +219,12 @@ offering consumers a wide variety of high quality culinary delights at affordabl
                                     5Kg per unit.</p>
 						</div>
 					</div>
+                    </div>
                 </div>
                 <!--- left and right key framet------>
                 <div class="section-top-border">
 					<h3 class="mb-30 text-heading">PLANT</h3>
+                    <div data-aos="flip-down">
 					<div class="row">
 						<div class="col-md-4 text-center">
 							<img src="assets/img/gallery/plant.jpg" alt="" class="img-fluid">
@@ -219,11 +239,14 @@ Technological advancements extend throughout the organization: from R&D to produ
 </p>
 						</div>
 					</div>
+                    </div>
                 </div>
 
                 <div class="section-top-border">
 					<h3 class="mb-30 text-heading">R&D</h3>
+                    <div data-aos="flip-up">
 					<div class="row">
+
 						<div class="col-md-4 text-center">
 							<img src="assets/img/gallery/rnd.jpg" alt="" class="img-fluid">
                         </div>
@@ -234,8 +257,10 @@ Technological advancements extend throughout the organization: from R&D to produ
 						</div>
 					</div>
                 </div>
+                </div>
                 <div class="section-top-border">
 					<h3 class="mb-30 text-heading">QUALITY</h3>
+                    <div data-aos="flip-down">
 					<div class="row">
 						<div class="col-md-4 text-center">
 							<img src="assets/img/gallery/qa.jpg" alt="" class="img-fluid">
@@ -247,9 +272,11 @@ Technological advancements extend throughout the organization: from R&D to produ
 </p>
 						</div>
 					</div>
+                    </div>
                 </div>
                 <div class="section-top-border">
 					<h3 class="mb-30 text-heading">WORKPLACE</h3>
+                    <div data-aos="flip-up">
 					<div class="row">
 						<div class="col-md-4 text-center">
 							<img src="assets/img/gallery/workplace.jpg" alt="" class="img-fluid">
@@ -263,6 +290,7 @@ Technological advancements extend throughout the organization: from R&D to produ
                     management</p>
 						</div>
 					</div>
+                    </div>
                 </div>
                 <!---end of left and right key frame---->
 
